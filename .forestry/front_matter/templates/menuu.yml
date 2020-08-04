@@ -1,4 +1,9 @@
 ---
 label: Menüü
 hide_body: false
-fields: []
+fields:
+- name: nimi
+  type: text
+  config:
+    required: false
+  label: Nimi
