@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Nimi
+pages:
+- content/soo.md
