@@ -11,11 +11,11 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "forestry:preview": "gatsby develop -p 8080 -H 0.0.0.0"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
     "gatsby": "^2.23.12",
+    "gatsby-source-filesystem": "^2.3.23",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
