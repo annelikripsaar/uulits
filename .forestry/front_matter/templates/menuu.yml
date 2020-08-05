@@ -2,8 +2,13 @@
 label: Menüü
 hide_body: false
 fields:
-- name: nimi
-  type: text
-  config:
-    required: false
-  label: Nimi
+  - name: name
+    type: text
+    config:
+      required: true
+    label: Nimi
+  - name: slug
+    type: text
+    config:
+      required: true
+    label: Nimi aadressiribal
