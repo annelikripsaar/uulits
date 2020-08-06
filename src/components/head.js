@@ -7,7 +7,7 @@ export default function Head() {
       <meta charSet="utf-8" />
       <title>Uulits Tänavagurmee</title>
       <link
-        href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap"
         rel="stylesheet"
       />
       <link

@@ -11,6 +11,12 @@ const MenuContainer = styled.div`
   h1 {
     margin-bottom: 32px;
   }
+
+  h2 {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.44rem;
+  }
 `
 
 export default function Template({
