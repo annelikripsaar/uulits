@@ -14,8 +14,9 @@ sections:
 - type: directory
   path: content
   label: Lehed
-  create: documents
+  create: all
   match: "**/*"
+  exclude: "!(menyy)/*"
   templates:
   - pages
 upload_dir: static/uploads
