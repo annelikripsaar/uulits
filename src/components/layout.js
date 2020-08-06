@@ -38,6 +38,10 @@ const Container = styled.div`
     width: 300px;
     transform: rotate(-6.9deg) translateX(-50%);
   }
+
+  strong {
+    font-weight: 700;
+  }
 `
 
 const Main = styled.main``
