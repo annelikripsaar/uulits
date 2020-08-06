@@ -12,5 +12,10 @@ fields:
   config:
     required: true
   label: Nimi aadressiribal
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 pages:
 - content/foodtruck.md
