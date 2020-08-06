@@ -12,3 +12,5 @@ fields:
   config:
     required: true
   label: Nimi aadressiribal
+pages:
+- content/foodtruck.md
