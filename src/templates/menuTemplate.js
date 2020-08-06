@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import styled from "@emotion/styled"
 
 const MenuContainer = styled.div`
-  width: 60%;
+  width: 850px;
   margin: 64px auto;
   text-align: center;
 

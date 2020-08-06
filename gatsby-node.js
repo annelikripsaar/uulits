@@ -7,6 +7,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const menuPageResult = await graphql(`
     {
       allMarkdownRemark(
+        sort: { order: DESC, fields: [frontmatter___name] }
         filter: {
           frontmatter: { slug: { ne: "home" } }
           fileAbsolutePath: { regex: "/menyy/" }
@@ -43,6 +44,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const pageResult = await graphql(`
     {
       allMarkdownRemark(
+        sort: { order: ASC, fields: [frontmatter___name] }
         filter: {
           frontmatter: { slug: { ne: "home" } }
           fileAbsolutePath: { regex: "/^((?!menyy).)*$/" }

@@ -10,6 +10,8 @@ const Container = styled.div`
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 1.05rem;
+  font-weight: 300;
 
   p {
     font-size: 1.05rem;
@@ -43,9 +45,15 @@ const Container = styled.div`
     font-weight: 700;
   }
 
-  .eraldusjoon {
+  .separator {
     width: 100%;
     border-bottom: 1px solid black;
+    height: 56px;
+    margin-bottom: 40px;
+  }
+
+  .warning {
+    font-size: 0.81rem;
   }
 `
 

@@ -3,12 +3,14 @@ name: Soo menüü
 slug: soo
 title: Soo menüü
 order: 1
-
 ---
-**HOIATUS!**  
-Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise!
 
-<strong>SNIPPET</strong>
+<div class="warning">
+<strong>HOIATUS!</strong></br>
+Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise!
+</div>
+
+<div class="separator"></div>
 
 ## ISUÄRATAJAD / APPETIZERS
 
