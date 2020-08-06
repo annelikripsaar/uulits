@@ -8,8 +8,6 @@ order: 1
 **HOIATUS!**  
 Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise!
 
-<strong>SNIPPET</strong>
-
 ## ISUÄRATAJAD / APPETIZERS
 
 Uulitsa käsitöökartulid cheddar-juustuga /  
