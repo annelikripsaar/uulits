@@ -2,12 +2,15 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
 
   const menuTemplate = require.resolve(`./src/templates/menuTemplate.js`)
+  const pageTemplate = require.resolve(`./src/templates/pageTemplate.js`)
 
-  const result = await graphql(`
+  const menuPageResult = await graphql(`
     {
       allMarkdownRemark(
-        sort: { order: DESC, fields: [frontmatter___name] }
-        limit: 1000
+        filter: {
+          frontmatter: { slug: { ne: "home" } }
+          fileAbsolutePath: { regex: "/menyy/" }
+        }
       ) {
         edges {
           node {
@@ -21,15 +24,51 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   `)
 
   // Handle errors
-  if (result.errors) {
+  if (menuPageResult.errors) {
     reporter.panicOnBuild(`Error while running GraphQL query.`)
     return
   }
 
-  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+  menuPageResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
       path: node.frontmatter.slug,
       component: menuTemplate,
+      context: {
+        // additional data can be passed via context
+        slug: node.frontmatter.slug,
+      },
+    })
+  })
+
+  const pageResult = await graphql(`
+    {
+      allMarkdownRemark(
+        filter: {
+          frontmatter: { slug: { ne: "home" } }
+          fileAbsolutePath: { regex: "/^((?!menyy).)*$/" }
+        }
+      ) {
+        edges {
+          node {
+            frontmatter {
+              slug
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  // Handle errors
+  if (pageResult.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
+  }
+
+  pageResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.frontmatter.slug,
+      component: pageTemplate,
       context: {
         // additional data can be passed via context
         slug: node.frontmatter.slug,
