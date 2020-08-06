@@ -14,3 +14,4 @@ fields:
   label: Nimi aadressiribal
 pages:
 - content/foodtruck.md
+- content/kontakt.md
