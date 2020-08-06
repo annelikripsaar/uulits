@@ -12,3 +12,13 @@ fields:
   config:
     required: true
   label: Nimi aadressiribal
+- name: order
+  type: number
+  label: Järjestus
+  description: Järjekorranumber menüüribal (kahanevas järjekorras)
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
