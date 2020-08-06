@@ -8,13 +8,15 @@ order: 1
 **HOIATUS!**  
 Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise!
 
+<strong>SNIPPET</strong>
+
 ## ISUÄRATAJAD / APPETIZERS
 
 Uulitsa käsitöökartulid cheddar-juustuga /  
-Uulits handmade potato wedges with cheddar cheese sauce    
+Uulits handmade potato wedges with cheddar cheese sauce  
 **4,00 €**
 
-!Spicy!    
+!Spicy!  
 Uulitsa käsitöökartulid cheddar-juustu ja jalapenoga /  
-Uulits handmade potato wedges with cheddar and jalapeno    
+Uulits handmade potato wedges with cheddar and jalapeno  
 **4,00 €**
