@@ -2,20 +2,15 @@
 label: Esileht
 hide_body: false
 fields:
-- name: name
+- name: title
   type: text
   config:
-    required: true
+    required: false
   label: Nimi
 - name: slug
   type: text
   config:
     required: true
   label: Nimi aadressiribal
-- name: title
-  type: text
-  config:
-    required: false
-  label: Title
 pages:
 - content/foodtruck.md
