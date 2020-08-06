@@ -10,7 +10,7 @@ const ListLink = props => (
 export default function Header() {
   const data = useStaticQuery(graphql`
     query NavQuery {
-      allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/menyy/" } }) {
+      allMarkdownRemark(filter: { frontmatter: { slug: { ne: "home" } } }) {
         edges {
           node {
             frontmatter {
