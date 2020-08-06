@@ -17,7 +17,7 @@ export const HomepageQuery = graphql`
   query HompageQuery {
     markdownRemark(frontmatter: { slug: { eq: "home" } }) {
       frontmatter {
-        name
+        title
         slug
       }
       html

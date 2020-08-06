@@ -14,7 +14,7 @@ export default function Header() {
         edges {
           node {
             frontmatter {
-              name
+              title
               slug
             }
           }
@@ -32,7 +32,7 @@ export default function Header() {
         {data.allMarkdownRemark.edges.map(({ node }, index) => {
           return (
             <ListLink to={"/" + node.frontmatter.slug}>
-              {node.frontmatter.name}
+              {node.frontmatter.title}
             </ListLink>
           )
         })}
