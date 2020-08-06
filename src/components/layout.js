@@ -42,6 +42,11 @@ const Container = styled.div`
   strong {
     font-weight: 700;
   }
+
+  .eraldusjoon {
+    width: 100%;
+    border-bottom: 1px solid black;
+  }
 `
 
 const Main = styled.main``
