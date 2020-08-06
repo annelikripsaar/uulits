@@ -9,6 +9,13 @@ sections:
     label: Menüüd
     create: all
     match: "**/*"
+    templates:
+      - menus
+
+  - path: content
+    label: Lehed
+    templates:
+      - pages
 upload_dir: static/uploads
 public_path: static/uploads
 front_matter_path: ""

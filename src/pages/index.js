@@ -1,10 +1,26 @@
 import React from "react"
 import Layout from "../components/layout"
+import { graphql } from "gatsby"
 
-export default function Home() {
+export default function Home({ data }) {
+  const { markdownRemark } = data
+  const { frontmatter, html } = markdownRemark
+
   return (
     <Layout>
-      <p>Hello world!</p>
+      <div dangerouslySetInnerHTML={{ __html: html }}></div>
     </Layout>
   )
 }
+
+export const HomepageQuery = graphql`
+  query HompageQuery {
+    markdownRemark(frontmatter: { slug: { eq: "home" } }) {
+      frontmatter {
+        name
+        slug
+      }
+      html
+    }
+  }
+`
