@@ -22,6 +22,10 @@ const MenuContainer = styled.div`
     font-size: 1.44rem;
   }
 
+  p {
+    margin: 40px 0;
+  }
+
   .separator {
     width: 100%;
     border-bottom: 1px solid black;
@@ -38,7 +42,7 @@ const MenuContainer = styled.div`
   }
 
   .special {
-    margin-top: 32px;
+    margin-bottom: -32px;
   }
 
   .special::before {
