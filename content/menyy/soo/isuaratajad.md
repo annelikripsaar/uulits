@@ -20,7 +20,7 @@ Uulits handmade potato wedges with cheddar and jalapeno
 **4,00 €**
 
 <div class="special"></div>
-  
+
 Uulitsa bataadifriikad suitsuse aiooliga /  
 Uulits sweet potato wedges with smoky aioli  
 **5,00 €**

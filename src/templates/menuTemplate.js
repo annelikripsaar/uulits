@@ -88,6 +88,7 @@ export const pageQuery = graphql`
       filter: {
         frontmatter: { in_nav: { eq: false }, parent_slug: { eq: $slug } }
       }
+      sort: { order: ASC, fields: [frontmatter___order] }
     ) {
       edges {
         node {
