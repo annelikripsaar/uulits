@@ -44,17 +44,6 @@ const Container = styled.div`
   strong {
     font-weight: 700;
   }
-
-  .separator {
-    width: 100%;
-    border-bottom: 1px solid black;
-    height: 56px;
-    margin-bottom: 40px;
-  }
-
-  .warning {
-    font-size: 0.81rem;
-  }
 `
 
 const Main = styled.main``

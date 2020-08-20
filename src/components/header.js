@@ -58,7 +58,7 @@ export default function Header() {
   const data = useStaticQuery(graphql`
     query NavQuery {
       allMarkdownRemark(
-        filter: { frontmatter: { slug: { ne: "home" } } }
+        filter: { frontmatter: { slug: { ne: "home" }, in_nav: { ne: false } } }
         sort: { order: ASC, fields: frontmatter___order }
       ) {
         edges {
@@ -79,7 +79,7 @@ export default function Header() {
       <Nav>
         {data.allMarkdownRemark.edges.map(({ node }, index) => {
           return (
-            <ListLink to={"/" + node.frontmatter.slug}>
+            <ListLink to={"/" + node.frontmatter.slug} key={index}>
               {node.frontmatter.title}
             </ListLink>
           )

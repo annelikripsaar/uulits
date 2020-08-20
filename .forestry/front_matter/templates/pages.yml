@@ -2,16 +2,26 @@
 label: Esileht
 hide_body: false
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: Nimi
-- name: slug
-  type: text
-  config:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Nimi
+  - name: slug
+    type: text
+    config:
+      required: true
+    label: Nimi aadressiribal
+  - name: order
+    type: number
+    label: Järjestus
+    description: Järjekorranumber menüüribal (kahanevas järjekorras)
+    default: 0
     required: true
-  label: Nimi aadressiribal
+    config:
+      min:
+      max:
+      step:
 pages:
-- content/foodtruck.md
-- content/kontakt.md
+  - content/foodtruck.md
+  - content/kontakt.md

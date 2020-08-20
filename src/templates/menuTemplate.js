@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 import Layout from "../components/layout"
 import styled from "@emotion/styled"
 
@@ -21,21 +21,51 @@ const MenuContainer = styled.div`
     text-transform: uppercase;
     font-size: 1.44rem;
   }
+
+  .separator {
+    width: 100%;
+    border-bottom: 1px solid black;
+    height: 56px;
+    margin-bottom: 40px;
+  }
+
+  .warning {
+    font-size: 0.81rem;
+  }
+
+  .spicy::before {
+    content: url("icons/spicy.svg");
+  }
+
+  .special {
+    margin-top: 32px;
+  }
+
+  .special::before {
+    content: url("icons/special.svg");
+  }
 `
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
-  const { markdownRemark } = data // data.markdownRemark holds your post data
-  const { frontmatter, html } = markdownRemark
+  const { page, sections } = data
   return (
     <Layout>
       <MenuContainer>
-        <h1>{frontmatter.title}</h1>
+        <h1>{page.frontmatter.title}</h1>
         <div
           className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: html }}
+          dangerouslySetInnerHTML={{ __html: page.html }}
         />
+        {sections.edges.map(section => {
+          return (
+            <div
+              key={section.node.id}
+              dangerouslySetInnerHTML={{ __html: section.node.html }}
+            />
+          )
+        })}
       </MenuContainer>
     </Layout>
   )
@@ -43,11 +73,26 @@ export default function Template({
 
 export const pageQuery = graphql`
   query($slug: String!) {
-    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+    page: markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       html
       frontmatter {
         slug
         title
+      }
+    }
+    sections: allMarkdownRemark(
+      filter: {
+        frontmatter: { in_nav: { eq: false }, parent_slug: { eq: $slug } }
+      }
+    ) {
+      edges {
+        node {
+          id
+          html
+          frontmatter {
+            title
+          }
+        }
       }
     }
   }
