@@ -1,18 +1,19 @@
 ---
-slug: burgerid
-title: Burgerid
-order: 3
+slug: baod
+title: Baod
+order: 4
 in_nav: false
 parent_slug: soo
 ---
 
 <div class="separator"></div>
 
-## GURMEEBURGERID / GOURMET BURGERS
+<div class="new"></div>
 
-<div class="ellipsis"></div>
+## BAOD — aasiapärased aurukuklid / BAOS — Asian steamed buns with filling
 
-> Siia tuleb tekst
+> ellipsis  
+> Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise. Kukli saab asendada wrapi, leiva või salatiga. Kõiki burgereid saab tellida beyond-pihviga ja lisapihviga. Pihvid on vaikimisi medium-küpsusastmega.
 
 <div class="special"></div>
 

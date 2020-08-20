@@ -20,10 +20,21 @@ const MenuContainer = styled.div`
     font-weight: 700;
     text-transform: uppercase;
     font-size: 1.44rem;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   p {
     margin: 40px 0;
+  }
+
+  blockquote {
+    font-style: italic;
+
+    p {
+      font-weight: 400;
+    }
   }
 
   .separator {
@@ -47,6 +58,10 @@ const MenuContainer = styled.div`
 
   .special::before {
     content: url("icons/special.svg");
+  }
+
+  .new::before {
+    content: url("icons/new.svg");
   }
 `
 
