@@ -42,17 +42,28 @@ const TextContainer = styled.div`
     margin-top: 0;
   }
 
-  p::first-letter {
-    font-family: "Teko", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-    font-size: 48px;
-    line-height: 0;
+  & > p {
+    &::first-letter {
+      font-family: "Teko", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      font-size: 48px;
+      line-height: 0;
+    }
+
+    &:last-of-type {
+      margin-bottom: 56px;
+    }
   }
 
   blockquote {
+    margin: 0;
+  }
+
+  blockquote p {
     font-family: "Teko", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI",
       Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
     font-size: 56px;
+    line-height: 1;
   }
 `
 
