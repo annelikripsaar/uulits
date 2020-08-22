@@ -2,26 +2,27 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/static/admin"
-webhook_url: 
+webhook_url:
 sections:
-- type: directory
-  path: content/menyy
-  label: Menüüd
-  create: all
-  match: "**/*"
-  templates:
-  - menus
-- type: directory
-  path: content
-  label: Lehed
-  create: all
-  match: "**/*"
-  exclude: "!(menyy)/*"
-  templates:
-  - pages
+  - type: directory
+    path: content/menyy
+    label: Menüüd
+    create: all
+    match: "**/*"
+    templates:
+      - menus
+  - type: directory
+    path: content
+    label: Lehed
+    create: all
+    match: "**/*"
+    exclude: "!(menyy)/*"
+    templates:
+      - pages
 upload_dir: static/uploads
-public_path: static/uploads
-front_matter_path: ''
+public_path: "/static/uploads"
+frontmatter_file_url_template: "uploads/:filename:"
+front_matter_path: ""
 use_front_matter_path: false
 file_template: ":filename:"
 build:

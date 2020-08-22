@@ -10,6 +10,9 @@ export default function Template({
   return (
     <Layout>
       <div>
+        {frontmatter.featured_image.length && (
+          <img src={frontmatter.featured_image} />
+        )}
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
@@ -29,6 +32,7 @@ export const pageQuery = graphql`
       frontmatter {
         slug
         title
+        featured_image
       }
     }
   }
