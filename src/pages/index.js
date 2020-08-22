@@ -19,8 +19,13 @@ const Banner = styled.img`
 `
 
 const TextContainer = styled.div`
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   max-width: 750px;
-  margin-left: 56px;
+  width: 100%;
+  padding: 0 16px;
   line-height: 1.5;
 
   h1 {
@@ -40,23 +45,26 @@ const TextContainer = styled.div`
 
   p:first-of-type {
     margin-top: 0;
+    text-align: justify;
   }
 
   & > p {
-    &::first-letter {
+    &:first-child::first-letter {
       font-family: "Teko", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI",
         Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
       font-size: 48px;
       line-height: 0;
     }
-
-    &:last-of-type {
-      margin-bottom: 56px;
-    }
   }
 
   blockquote {
     margin: 0;
+    margin-top: 40px;
+    width: 100%;
+
+    & > p {
+      text-align: left !important;
+    }
   }
 
   blockquote p {
@@ -64,6 +72,11 @@ const TextContainer = styled.div`
       Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
     font-size: 56px;
     line-height: 1;
+    margin-bottom: 0;
+  }
+
+  img {
+    width: 320px;
   }
 `
 

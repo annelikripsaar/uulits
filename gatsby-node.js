@@ -3,6 +3,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   const menuTemplate = require.resolve(`./src/templates/menuTemplate.js`)
   const pageTemplate = require.resolve(`./src/templates/pageTemplate.js`)
+  const contactTemplate = require.resolve(`./src/templates/contactTemplate.jsx`)
 
   const menuPageResult = await graphql(`
     {
@@ -71,6 +72,37 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     createPage({
       path: node.frontmatter.slug,
       component: pageTemplate,
+      context: {
+        // additional data can be passed via context
+        slug: node.frontmatter.slug,
+      },
+    })
+  })
+
+  const contactResult = await graphql(`
+    {
+      allMarkdownRemark(filter: { frontmatter: { slug: { eq: "kontakt" } } }) {
+        edges {
+          node {
+            frontmatter {
+              slug
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  // Handle errors
+  if (contactResult.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
+  }
+
+  contactResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.frontmatter.slug,
+      component: contactTemplate,
       context: {
         // additional data can be passed via context
         slug: node.frontmatter.slug,

@@ -35,12 +35,13 @@ const FormContainer = styled.div`
 
 const FormRow = styled.div`
   display: flex;
-  margin-bottom: 56px;
+  flex-wrap: wrap;
 `
 
 const InputContainer = styled.div`
   position: relative;
   width: 320px;
+  margin-bottom: 56px;
 
   &:first-of-type {
     margin-right: 56px;
@@ -50,6 +51,7 @@ const InputContainer = styled.div`
 const MessageContainer = styled.div`
   position: relative;
   width: 450px;
+  margin-bottom: 56px;
 `
 
 export default function ContactForm() {
@@ -130,7 +132,7 @@ export default function ContactForm() {
                 </MessageContainer>
               </FormRow>
               <Button type="submit" disabled={isSubmitting}>
-                Get in touch &gt;
+                Get in touch ›
               </Button>
               {serverState && (
                 <p className={!serverState.ok ? "errorMsg" : ""}>
