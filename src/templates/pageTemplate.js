@@ -1,6 +1,40 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
+import styled from "@emotion/styled"
+
+const Columns = styled.div`
+  display: flex;
+  max-width: 850px;
+  margin: 64px auto;
+  align-items: flex-start;
+  img {
+    width: 30%;
+    border: 5px solid black;
+    border-radius: 1000px;
+  }
+`
+
+const TextContainer = styled.div`
+  h1 {
+    display: inline-block;
+    margin-top: 0;
+
+    &::after {
+      content: "";
+      position: absolute;
+      top: 90%;
+      left: 0%;
+      border-bottom: 5px solid #272525;
+      width: 300px;
+      transform: rotate(-6.9deg);
+    }
+  }
+
+  width: 70%;
+  margin-left: 56px;
+  line-height: 1.5;
+`
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -9,15 +43,15 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
     <Layout>
-      <div>
-        {frontmatter.featured_image.length && (
+      <Columns>
+        {frontmatter.featured_image?.length && (
           <img src={frontmatter.featured_image} />
         )}
-        <div
+        <TextContainer
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
-      </div>
+      </Columns>
       <div>
         <p>Siia tuleb kontaktivorm</p>
       </div>
