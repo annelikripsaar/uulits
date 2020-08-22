@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import styled from "@emotion/styled"
 
 const MenuContainer = styled.div`
-  width: 850px;
+  max-width: 850px;
   margin: 64px auto;
   text-align: center;
 
@@ -27,14 +27,21 @@ const MenuContainer = styled.div`
 
   p {
     margin: 40px 0;
+    font-size: 1.25rem;
   }
 
   blockquote {
     font-style: italic;
+    margin: 16px 0 40px 0;
 
     p {
       font-weight: 400;
+      margin: 0;
     }
+  }
+
+  .ellipsis::before {
+    content: url("icons/ellipsis.svg");
   }
 
   .separator {
@@ -42,6 +49,13 @@ const MenuContainer = styled.div`
     border-bottom: 1px solid black;
     height: 56px;
     margin-bottom: 40px;
+  }
+
+  .koostis {
+    display: block;
+    font-size: 16px;
+    line-height: 1.25;
+    margin-top: 8px;
   }
 
   .warning {
@@ -53,7 +67,7 @@ const MenuContainer = styled.div`
   }
 
   .special {
-    margin-bottom: -32px;
+    display: block;
   }
 
   .special::before {
