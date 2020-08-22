@@ -1,5 +1,5 @@
 ---
-label: Esileht
+label: Lehed
 hide_body: false
 fields:
 - name: title
@@ -22,6 +22,12 @@ fields:
     min: 
     max: 
     step: 
+- name: featured_image
+  type: file
+  config:
+    maxSize: 64
+  label: Pilt teksti kõrval
+  description: Ruudukujulises formaadis foto
 pages:
 - content/foodtruck.md
 - content/kontakt.md
