@@ -28,6 +28,11 @@ fields:
     maxSize: 64
   label: Pilt teksti kõrval
   description: Ruudukujulises formaadis foto
+- name: video
+  type: file
+  config:
+    maxSize: 64
+  label: Video
 pages:
 - content/foodtruck.md
 - content/kontakt.md
