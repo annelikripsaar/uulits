@@ -3,6 +3,7 @@ slug: foodtruck
 title: Food Truck
 order: 3
 featured_image: uploads/food-truck.jpg
+video: uploads/video.mp4
 
 ---
 Meil on hea meel, et jagate meie kirge heade maitsete vastu - see on innustanud meid laienema. Oleme tänavagurmee teerajaja Eestis, viie aastaga oleme avanud neli Uulitsat ning meist on saanud Eesti suurim kodumaine burgerikett.
