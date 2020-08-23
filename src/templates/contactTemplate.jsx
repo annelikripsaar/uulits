@@ -46,6 +46,42 @@ const Column = styled.div`
   }
 `
 
+const Address = styled.span`
+  font-weight: 700;
+  &::before {
+    content: url("icons/map-marker.svg");
+    margin-right: 8px;
+  }
+`
+
+const Map = styled.div`
+  width: 260px;
+  height: 100px;
+  margin-bottom: 24px;
+  border: 5px solid #272525;
+`
+
+const soo = { lat: 59.444861, lng: 24.742297 }
+const kadaka = { lat: 59.41213, lng: 24.668579 }
+const balta = { lat: 59.441073, lng: 24.736337 }
+const tartu = { lat: 58.380947, lng: 26.722218 }
+
+if (typeof window !== "undefined") {
+  window.initMap = function () {
+    const sooMap = new window.google.maps.Map(
+      document.getElementById("sookontakt"),
+      {
+        center: soo,
+        zoom: 15,
+      }
+    )
+    new window.google.maps.Marker({
+      position: soo,
+      map: sooMap,
+    })
+  }
+}
+
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
@@ -59,11 +95,16 @@ export default function Template({
       {sections.edges.map(section => {
         return (
           <ContactRow>
-            <Column>kaart</Column>
+            <Column>
+              <Map id={section.node.frontmatter.slug}></Map>
+            </Column>
             <Column>
               <h2>{section.node.frontmatter.title}</h2>
-              <p>{section.node.frontmatter.address}</p>
-              <p>{section.node.frontmatter.address_extra}</p>
+              <p>
+                <Address>{section.node.frontmatter.address}</Address>
+                <br />
+                {section.node.frontmatter.address_extra}
+              </p>
             </Column>
             <Column
               key={section.node.id}
@@ -101,6 +142,7 @@ export const pageQuery = graphql`
             title
             address
             address_extra
+            slug
           }
         }
       }
