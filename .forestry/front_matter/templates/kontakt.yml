@@ -27,3 +27,5 @@ fields:
 - type: number
   name: lng
   label: lng
+pages:
+- content/kontakt/kadaka-tanavagurmee.md
