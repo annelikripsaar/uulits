@@ -28,4 +28,5 @@ fields:
   name: lng
   label: lng
 pages:
+- content/kontakt/balta-uulits-tanavagurmee.md
 - content/kontakt/kadaka-tanavagurmee.md
