@@ -18,6 +18,7 @@ sections:
   match: "**/*"
   exclude: "!(menyy)/*"
   templates:
+  - kontakt
   - pages
 upload_dir: static/uploads
 public_path: uploads
