@@ -1,0 +1,28 @@
+---
+label: Kontakt
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: slug
+  label: slug
+- type: number
+  name: order
+  label: order
+- type: boolean
+  name: in_nav
+  label: in_nav
+- type: text
+  name: address
+  label: address
+- type: text
+  name: address_extra
+  label: address_extra
+- type: number
+  name: lat
+  label: lat
+- type: number
+  name: lng
+  label: lng
