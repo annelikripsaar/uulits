@@ -4,16 +4,30 @@ import Layout from "../components/layout"
 import CrossSeparator from "../components/CrossSeparator"
 import ContactForm from "../components/Form/Form"
 import styled from "@emotion/styled"
+import { screenSize } from "../styles/screenSize"
 
 const Columns = styled.div`
   display: flex;
   max-width: 850px;
   margin: 64px auto;
   align-items: flex-start;
+
   img {
     width: 30%;
     border: 5px solid black;
     border-radius: 1000px;
+  }
+
+  ${screenSize.sm} {
+    flex-direction: column;
+    width: 100vw;
+    margin: 40px auto;
+
+    img {
+      box-sizing: border-box;
+      width: 288px;
+      margin-left: 16px;
+    }
   }
 `
 
@@ -36,6 +50,14 @@ const TextContainer = styled.div`
   width: 70%;
   margin-left: 56px;
   line-height: 1.5;
+  text-align: justify;
+
+  ${screenSize.sm} {
+    box-sizing: border-box;
+    margin: 24px 0;
+    width: 100%;
+    padding: 0 16px;
+  }
 `
 
 const Video = styled.video`

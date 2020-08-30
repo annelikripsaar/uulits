@@ -1,14 +1,10 @@
 ---
 slug: burgerid
-title: Burgerid
+title: GURMEEBURGERID / GOURMET BURGERS
 order: 3
 in_nav: false
 parent_slug: soo
 ---
-
-<div class="separator"></div>
-
-## GURMEEBURGERID / GOURMET BURGERS
 
 <div class="ellipsis"></div>
 
@@ -22,4 +18,4 @@ Uulitsa burger
 Vegeburger tofu pihviga / Veggie burger with tofu patty  
 **7,90 €**  
 <span class="koostis">Vegekukkel, paneeritud tofu pihv, vegan majonees, salati-mix, tomat, salatisibul. Vegan bun, breaded tofu patty, vegan mayonnaise, tomato, onion, salad-mix</span>
-**vegan**
+<span class="vege"></span><span class="vegan"></span>

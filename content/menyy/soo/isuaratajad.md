@@ -1,14 +1,10 @@
 ---
 slug: isuaratajad
-title: Isuäratajad
+title: ISUÄRATAJAD / APPETIZERS
 order: 2
 in_nav: false
 parent_slug: soo
 ---
-
-<div class="separator"></div>
-
-## ISUÄRATAJAD / APPETIZERS
 
 Uulitsa käsitöökartulid cheddar-juustuga /  
 Uulits handmade potato wedges with cheddar cheese sauce  

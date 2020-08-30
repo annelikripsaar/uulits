@@ -1,6 +1,7 @@
 import React from "react"
 import styled from "@emotion/styled"
 import { graphql } from "gatsby"
+import { screenSize } from "../styles/screenSize"
 
 import Layout from "../components/layout"
 import CrossSeparator from "../components/CrossSeparator"
@@ -65,6 +66,10 @@ const TextContainer = styled.div`
     & > p {
       text-align: left !important;
     }
+
+    ${screenSize.sm} {
+      margin-top: 24px;
+    }
   }
 
   blockquote p {
@@ -73,6 +78,10 @@ const TextContainer = styled.div`
     font-size: 56px;
     line-height: 1;
     margin-bottom: 0;
+
+    ${screenSize.sm} {
+      font-size: 40px;
+    }
   }
 
   img {

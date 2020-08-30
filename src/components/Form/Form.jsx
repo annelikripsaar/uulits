@@ -7,6 +7,7 @@ import { UulitsField } from "./UulitsField"
 import { UulitsTextarea } from "./UulitsTextarea"
 import { Button } from "../Button"
 import CrossSeparator from "../CrossSeparator"
+import { screenSize } from "../../styles/screenSize"
 
 const Container = styled.div`
   background-color: #f1f1f1;
@@ -22,9 +23,15 @@ const Container = styled.div`
     left: 50%;
     transform: translateX(-50%);
   }
+
+  ${screenSize.sm} {
+    padding: 0 16px;
+  }
 `
 
-const Heading = styled.h2``
+const Heading = styled.h2`
+  line-height: 1;
+`
 
 const FormContainer = styled.div`
   display: flex;
@@ -36,6 +43,10 @@ const FormContainer = styled.div`
 const FormRow = styled.div`
   display: flex;
   flex-wrap: wrap;
+
+  ${screenSize.sm} {
+    width: 100%;
+  }
 `
 
 const InputContainer = styled.div`
@@ -46,12 +57,24 @@ const InputContainer = styled.div`
   &:first-of-type {
     margin-right: 56px;
   }
+
+  ${screenSize.sm} {
+    width: 100%;
+
+    &:first-of-type {
+      margin-right: 0;
+    }
+  }
 `
 
 const MessageContainer = styled.div`
   position: relative;
   width: 450px;
   margin-bottom: 56px;
+
+  ${screenSize.sm} {
+    width: 100%;
+  }
 `
 
 export default function ContactForm() {

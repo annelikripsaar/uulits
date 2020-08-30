@@ -4,6 +4,7 @@ import Layout from "../components/layout"
 import ContactForm from "../components/Form/Form"
 import styled from "@emotion/styled"
 import { useEffect } from "react"
+import { screenSize } from "../styles/screenSize"
 
 const Container = styled.div`
   max-width: 1000px;
@@ -18,6 +19,16 @@ const ContactRow = styled.div`
 
   div:nth-child(2) {
     width: 30%;
+  }
+
+  ${screenSize.sm} {
+    flex-direction: column;
+    align-items: center;
+
+    & > div,
+    & > div:nth-child(2) {
+      width: 90%;
+    }
   }
 `
 
@@ -35,6 +46,10 @@ const Column = styled.div`
     text-transform: uppercase;
     margin-bottom: 16px;
     margin-top: 0;
+  }
+
+  ${screenSize.sm} {
+    margin-left: 0;
   }
 `
 
@@ -57,6 +72,11 @@ const TextContainer = styled.div`
   width: 70%;
   margin-left: 56px;
   line-height: 1.5;
+
+  ${screenSize.sm} {
+    margin-left: 0;
+    width: 100%;
+  }
 `
 
 const Address = styled.span`

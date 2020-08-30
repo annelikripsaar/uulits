@@ -11,7 +11,7 @@ const Container = styled.div`
 export default function CrossSeparator() {
   return (
     <Container>
-      <img src="icons/crossseparator.svg" alt="" />
+      <img src="/icons/crossseparator.svg" alt="" />
     </Container>
   )
 }
