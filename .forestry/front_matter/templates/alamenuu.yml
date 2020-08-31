@@ -18,5 +18,6 @@ fields:
   name: parent_slug
   label: parent_slug
 pages:
+- content/menyy/kadaka/burgerwrapid-burger-wraps.md
 - content/menyy/kadaka/gurmeeburgerid-gourmet-burgers.md
 - content/menyy/kadaka/isuaratajad-appetizers.md
