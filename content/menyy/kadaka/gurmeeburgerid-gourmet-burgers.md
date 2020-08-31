@@ -22,8 +22,7 @@ Double cheeseburger
 Vegeburger tofu pihviga /  
 Veggie burger with tofu patty  
 **7,50 €**    
-<span class="koostis">Vegan kukkel, paneeritud tofu pihv, vegan majonees, salati-mix, tomat, salatisibul. Vegan bun, breaded tofu patty, vegan mayonnaise, tomato, onion, salad-mix</span>  
-<span class="vegan"></span>
+<span class="koostis">Vegan kukkel, paneeritud tofu pihv, vegan majonees, salati-mix, tomat, salatisibul. Vegan bun, breaded tofu patty, vegan mayonnaise, tomato, onion, salad-mix</span> <span class="vegan"></span>
 
 <span class="special"></span> Karamellise sibulaga burger /  
 Burger with caramelized onion  
@@ -63,8 +62,7 @@ Red onion jam burger
 <span class="special"></span> Beyond burger /  
 Beyond burger  
 **8,90 €**    
-<span class="koostis">Vegan kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, salati-mix, tomat, salatisibul. Vegan bun, beyond patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, onion, salad-mix</span>  
-<span class="vegan"></span>
+<span class="koostis">Vegan kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, salati-mix, tomat, salatisibul. Vegan bun, beyond patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, onion, salad-mix</span><span class="vegan"></span>
 
 <span class="spicy"></span> Vürtsikas chorizo-burger /  
 Spicy chorizo-burger  
