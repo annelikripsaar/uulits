@@ -18,4 +18,5 @@ fields:
   name: parent_slug
   label: parent_slug
 pages:
+- content/menyy/hello.md
 - content/menyy/isuaratajad-appetizers.md
