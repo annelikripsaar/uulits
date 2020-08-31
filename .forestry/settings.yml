@@ -19,6 +19,8 @@ sections:
   match: "**/*"
   exclude: "!(menyy)/*"
   templates:
+  - alamenuu
+  - menus
   - kontakt
   - pages
 upload_dir: static/uploads
