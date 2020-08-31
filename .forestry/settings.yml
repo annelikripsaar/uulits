@@ -10,6 +10,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - alamenuu
   - menus
 - type: directory
   path: content

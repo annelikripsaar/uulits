@@ -1,0 +1,19 @@
+---
+label: Alamenüü
+hide_body: false
+fields:
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: title
+  label: title
+- type: number
+  name: order
+  label: order
+- type: boolean
+  name: in_nav
+  label: in_nav
+- type: text
+  name: parent_slug
+  label: parent_slug
