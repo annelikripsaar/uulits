@@ -17,3 +17,5 @@ fields:
 - type: text
   name: parent_slug
   label: parent_slug
+pages:
+- content/menyy/isuaratajad-appetizers.md
