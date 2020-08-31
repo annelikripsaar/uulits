@@ -2,6 +2,8 @@
 slug: soo
 title: Soo menüü
 order: 1
+in_nav: true
+parent_slug:
 ---
 
 <div class="warning">
