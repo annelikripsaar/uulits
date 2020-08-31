@@ -69,6 +69,7 @@ const MenuContainer = styled.div`
 
   .warning {
     font-size: 0.81rem;
+    margin-bottom: 16px;
   }
 
   .spicy::before {
