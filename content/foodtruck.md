@@ -1,7 +1,7 @@
 ---
 slug: foodtruck
 title: Food Truck
-order: 3
+order: 5
 featured_image: uploads/food-truck.jpg
 video: uploads/video.mp4
 ---

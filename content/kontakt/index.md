@@ -1,5 +1,5 @@
 ---
 title: Kontakt
 slug: kontakt
-order: 4
+order: 6
 ---
