@@ -5,6 +5,7 @@ import ContactForm from "../components/Form/Form"
 import styled from "@emotion/styled"
 import { useEffect } from "react"
 import { screenSize } from "../styles/screenSize"
+import { Helmet } from "react-helmet"
 
 const Container = styled.div`
   max-width: 1000px;
@@ -176,6 +177,13 @@ export default function Template({
   }, [])
   return (
     <Layout>
+      <Helmet>
+        <script
+          src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDWB7j__MMHAziu_ZH9X-mzxOlsLXIynjA&callback=initMap"
+          async
+          defer
+        />
+      </Helmet>
       <Container>
         <TextContainer
           className="blog-post-content"

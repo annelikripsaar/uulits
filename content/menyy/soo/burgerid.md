@@ -60,7 +60,7 @@ Vegeburger portobello seente ja kitsejuustuga /
 Veggie burger with portobello mushrooms and goat cheese  
 **8,90 €**  
 <span class="koostis">Kukkel, portobello seened, kitsejuust, vegan majonees, sinepi-mee kaste, salati-mix, tomat, salatisibul. Bun, portobello mushrooms, goat cheese, vegan mayonnaise, mustard-honey sauce, tomato, salad-mix, onions</span>
-<span class="vege"></span><span class="vegan"></span>
+<span class="vege"></span>
 
 Kana Caesari burger /  
 Chickenburger with Caesar sauce  
