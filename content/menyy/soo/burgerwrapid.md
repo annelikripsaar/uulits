@@ -4,6 +4,7 @@ title: BURGERWRAPID / BURGER WRAPS
 order: 5
 in_nav: false
 parent_slug: soo
+new: false
 ---
 
 <div class="ellipsis"></div>

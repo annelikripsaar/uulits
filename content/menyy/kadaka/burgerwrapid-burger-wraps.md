@@ -4,6 +4,7 @@ title: BURGERWRAPID / BURGER WRAPS
 order: 3
 in_nav: false
 parent_slug: kadaka
+new: false
 ---
 
 <div class="ellipsis"></div>

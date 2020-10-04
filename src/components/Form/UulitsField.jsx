@@ -7,4 +7,9 @@ export const UulitsField = styled.input`
   width: 100%;
   height: 32px;
   text-align: center;
+
+  &:focus {
+    outline: none;
+    border-bottom: 2px solid black;
+  }
 `

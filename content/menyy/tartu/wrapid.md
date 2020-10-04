@@ -4,6 +4,7 @@ title: WRAPID / WRAPS
 order: 4
 in_nav: false
 parent_slug: tartu
+new: false
 ---
 
 Kanawrap /

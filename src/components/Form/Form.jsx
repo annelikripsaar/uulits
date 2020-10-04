@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React, { useRef, useState } from "react"
 import axios from "axios"
 import { Formik, Form, Field, ErrorMessage } from "formik"
 import * as Yup from "yup"
@@ -9,6 +9,14 @@ import { Button } from "../Button"
 import CrossSeparator from "../CrossSeparator"
 import { screenSize } from "../../styles/screenSize"
 
+const Label = styled.label`
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: transform 0.2s;
+  ${p => p.moved && `transform: translate(-50%, -100%)`};
+`
+
 const Container = styled.div`
   background-color: #f1f1f1;
   display: flex;
@@ -17,12 +25,6 @@ const Container = styled.div`
   box-sizing: border-box;
   font-size: 12px;
   padding: 24px 0;
-
-  label {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-  }
 
   ${screenSize.sm} {
     padding: 0 16px;
@@ -80,6 +82,10 @@ const MessageContainer = styled.div`
 export default function ContactForm() {
   const [serverState, setServerState] = useState()
 
+  const [nameLabelMove, setNameLabelMove] = useState(false)
+  const [emailLabelMove, setEmailLabelMove] = useState(false)
+  const [messageLabelMove, setMessageLabelMove] = useState(false)
+
   const handleServerResponse = (ok, msg) => {
     setServerState({ ok, msg })
   }
@@ -107,6 +113,36 @@ export default function ContactForm() {
     message: Yup.string(),
   })
 
+  const handleNameFieldSelect = e => {
+    setNameLabelMove(true)
+  }
+
+  const handleNameFieldBlur = e => {
+    if (e.target.value === "") {
+      setNameLabelMove(false)
+    }
+  }
+
+  const handleEmailFieldSelect = () => {
+    setEmailLabelMove(true)
+  }
+
+  const handleEmailFieldBlur = e => {
+    if (e.target.value === "") {
+      setEmailLabelMove(false)
+    }
+  }
+
+  const handleMessageFieldSelect = () => {
+    setMessageLabelMove(true)
+  }
+
+  const handleMessageFieldBlur = e => {
+    if (e.target.value === "") {
+      setMessageLabelMove(false)
+    }
+  }
+
   return (
     <Container>
       <Heading>Get in touch with us</Heading>
@@ -120,8 +156,16 @@ export default function ContactForm() {
             <FormContainer>
               <FormRow>
                 <InputContainer>
-                  <label htmlFor="name">Your Name</label>
-                  <Field as={UulitsField} id="name" name="name" />
+                  <Label htmlFor="name" moved={nameLabelMove}>
+                    Your Name
+                  </Label>
+                  <Field
+                    as={UulitsField}
+                    id="name"
+                    name="name"
+                    onFocus={handleNameFieldSelect}
+                    onBlur={handleNameFieldBlur}
+                  />
                   <ErrorMessage
                     name="email"
                     className="errorMsg"
@@ -129,12 +173,16 @@ export default function ContactForm() {
                   />
                 </InputContainer>
                 <InputContainer>
-                  <label htmlFor="email">Your Email</label>
+                  <Label htmlFor="email" moved={emailLabelMove}>
+                    Your Email
+                  </Label>
                   <Field
                     as={UulitsField}
                     id="email"
                     type="email"
                     name="email"
+                    onFocus={handleEmailFieldSelect}
+                    onBlur={handleEmailFieldBlur}
                   />
                   <ErrorMessage
                     name="email"
@@ -145,8 +193,16 @@ export default function ContactForm() {
               </FormRow>
               <FormRow>
                 <MessageContainer>
-                  <label htmlFor="message">Your Message</label>
-                  <Field as={UulitsTextarea} id="message" name="message" />
+                  <Label htmlFor="message" moved={messageLabelMove}>
+                    Your Message
+                  </Label>
+                  <Field
+                    as={UulitsTextarea}
+                    id="message"
+                    name="message"
+                    onFocus={handleMessageFieldSelect}
+                    onBlur={handleMessageFieldBlur}
+                  />
                   <ErrorMessage
                     name="message"
                     className="errorMsg"
