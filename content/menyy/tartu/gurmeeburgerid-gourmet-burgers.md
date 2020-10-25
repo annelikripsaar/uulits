@@ -4,8 +4,8 @@ title: GURMEEBURGERID / GOURMET BURGERS
 order: 2
 in_nav: false
 parent_slug: tartu
----
 
+---
 <div class="ellipsis"></div>
 
 > Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada leiva, wrapi või salatiga. Kõiki burgereid saab tellida vegepihvi, beyond pihvi või lisapihviga. Lisapihv 3 €.
@@ -57,7 +57,7 @@ Spicy chorizo-burger
 **8,90 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, jääsalat, salatisibul, chorizo-kaste. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, iceberg lettuce, onion, chorizo sauce</span>
 
-<span class="spicy"></span>
-Rebitud sealiha burger  
+<span class="spicy"></span> Rebitud sealiha burger /  
+Pulled pork burger  
 **8,90 €**  
-<span class="koostis">Kukkel, rebitud sealiha, sriracha majonees, cheddar juust, coleslaw salat</span>
+<span class="koostis">Kukkel, rebitud sealiha, sriracha majonees, cheddar juust, coleslaw salat. Bun, pulled pork , sriracha mayonnaise, cheddar cheese, coleslaw.</span>
