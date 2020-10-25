@@ -34,6 +34,7 @@ const Nav = styled.ul`
     list-style-type: none;
     border-radius: 100%;
     border: 1.5px solid #272525;
+    margin: 0 2px;
 
     a {
       display: flex;
@@ -85,7 +86,7 @@ const TruckIcon = styled.div`
   background-size: contain;
   background-position-y: center;
   padding: 0 20px 0 40px;
-  margin: 0 -20px 0 -40px;
+  margin: 0 0px 0 -20px;
 
   a {
     display: flex;

@@ -64,11 +64,16 @@ const Video = styled.video`
   width: 100vw;
 `
 
+const Image = styled.img`
+  width: 100vw;
+`
+
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
+
   return (
     <Layout>
       <Columns>
@@ -80,11 +85,18 @@ export default function Template({
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </Columns>
-      {frontmatter.video?.length && (
+      {frontmatter.video.includes("mp4") ? (
         <>
           <CrossSeparator />
           <Video src={frontmatter.video} controls />
         </>
+      ) : (
+        frontmatter.video?.length && (
+          <>
+            <CrossSeparator />
+            <Image src={frontmatter.video} />
+          </>
+        )
       )}
       <ContactForm />
     </Layout>

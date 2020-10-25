@@ -93,7 +93,7 @@ export default function ContactForm() {
   const handleOnSubmit = (values, actions) => {
     axios({
       method: "POST",
-      url: "https://formspree.io/xpzyeyve",
+      url: "https://formspree.io/f/xeqpgwzb",
       data: values,
     })
       .then(response => {
