@@ -4,8 +4,8 @@ title: ISUÄRATAJAD / APPETIZERS
 order: 1
 in_nav: false
 parent_slug: tartu
----
 
+---
 Uulitsa käsitöökartulid cheddar-juustuga /  
 Uulits handmade potato wedges with cheddar cheese sauce  
 **4,00 €**  
@@ -24,14 +24,16 @@ Uulitsa bataadifriikad suitsuse aiooliga /
 Uulits sweet potato wedges with smoky aioli  
 **4,50 €**
 
-Uulitsa käsitöökartulid juustuse hakklihaga  
+Uulitsa käsitöökartulid juustuse hakklihaga /  
+Uulits loaded potato wedges with cheese minced meat  
 **7,00 €**  
-<span class="koostis">Cheddar juust, juustukaste, majonees, hakkliha, roheline sibul</span>
+<span class="koostis">Cheddar juust, juustukaste, majonees, hakkliha, roheline sibul. Cheddar, cheese sauce, mayonnaise, minced meat, chives.</span>
 
-<span class="spicy"></span>
-Uulitsa käsitöökartulid rebitud sealihaga  
+<span class="spicy"></span> Uulitsa käsitöökartulid rebitud sealihaga /  
+Uulits potato wedges with pulled pork  
 **7,00 €**  
-<span class="koostis">Cheddar juust, sriracha majonees, punased ja rohelised jalopenod, rebitud sealiha, roheline sibul</span>
+<span class="koostis">Cheddar juust, sriracha majonees, punased ja rohelised jalopenod, rebitud sealiha, roheline sibul. Cheddar cheese, sriracha mayonnaise, red and greens jalopenos, pulled pork, chives.</span>
 
-Käsitöö-kananagitsad sriracha majoneesiga  
+Käsitöö-kananagitsad sriracha majoneesiga /  
+Uulits handmade chicken nuggets with sriracha mayonnaise  
 **5,90 €**
