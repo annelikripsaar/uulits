@@ -80,7 +80,7 @@ export default function Template({
     <Layout>
       <Columns>
         {frontmatter.featured_image?.length && (
-          <img src={frontmatter.featured_image} />
+          <img src={`/${frontmatter.featured_image}`} />
         )}
         <TextContainer
           className="blog-post-content"

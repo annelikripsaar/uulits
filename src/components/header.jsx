@@ -81,7 +81,7 @@ const TruckIcon = styled.div`
   justify-content: center;
   list-style-type: none;
   height: 80px;
-  background-image: url("icons/truck.svg");
+  background-image: url("/icons/truck.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position-y: center;
