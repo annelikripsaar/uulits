@@ -105,7 +105,7 @@ const TruckIcon = styled.div`
   }
 
   &:hover {
-    background-image: url("icons/truck-black.svg");
+    background-image: url("/icons/truck-black.svg");
 
     a {
       color: white;
