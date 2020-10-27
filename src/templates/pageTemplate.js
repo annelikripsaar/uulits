@@ -90,13 +90,13 @@ export default function Template({
           <CrossSeparator />
           <Video src={frontmatter.video} controls />
         </>
+      ) : frontmatter.video?.length ? (
+        <>
+          <CrossSeparator />
+          <Image src={frontmatter.video} />
+        </>
       ) : (
-        frontmatter.video?.length && (
-          <>
-            <CrossSeparator />
-            <Image src={frontmatter.video} />
-          </>
-        )
+        ""
       )}
       <ContactForm />
     </Layout>
