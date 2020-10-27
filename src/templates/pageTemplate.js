@@ -87,7 +87,7 @@ export default function Template({
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </Columns>
-      {frontmatter.video.includes("mp4") ? (
+      {frontmatter.video?.includes("mp4") ? (
         <>
           <CrossSeparator />
           <Video src={frontmatter.video} controls />
