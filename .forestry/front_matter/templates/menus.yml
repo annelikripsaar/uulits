@@ -23,4 +23,5 @@ fields:
     max: 
     step: 
 pages:
+- content/menyy/soo/index.md
 - content/menyy/tartu/index.md
