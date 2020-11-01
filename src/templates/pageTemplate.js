@@ -5,6 +5,7 @@ import CrossSeparator from "../components/CrossSeparator"
 import ContactForm from "../components/Form/Form"
 import styled from "@emotion/styled"
 import { screenSize } from "../styles/screenSize"
+import SEO from "../components/SEO"
 
 const Columns = styled.div`
   display: flex;
@@ -75,31 +76,34 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
 
   return (
-    <Layout>
-      <Columns>
-        {frontmatter.featured_image?.length && (
-          <img src={`/${frontmatter.featured_image}`} />
+    <>
+      <SEO title={frontmatter.title} />
+      <Layout>
+        <Columns>
+          {frontmatter.featured_image?.length && (
+            <img src={`/${frontmatter.featured_image}`} alt="" />
+          )}
+          <TextContainer
+            className="blog-post-content"
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
+        </Columns>
+        {frontmatter.video?.includes("mp4") ? (
+          <>
+            <CrossSeparator />
+            <Video src={frontmatter.video} controls />
+          </>
+        ) : frontmatter.video?.length ? (
+          <>
+            <CrossSeparator />
+            <Image src={frontmatter.video} alt="" />
+          </>
+        ) : (
+          ""
         )}
-        <TextContainer
-          className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: html }}
-        />
-      </Columns>
-      {frontmatter.video?.includes("mp4") ? (
-        <>
-          <CrossSeparator />
-          <Video src={frontmatter.video} controls />
-        </>
-      ) : frontmatter.video?.length ? (
-        <>
-          <CrossSeparator />
-          <Image src={frontmatter.video} />
-        </>
-      ) : (
-        ""
-      )}
-      <ContactForm />
-    </Layout>
+        <ContactForm />
+      </Layout>
+    </>
   )
 }
 

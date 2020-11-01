@@ -6,6 +6,12 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    siteUrl: "https://www.uulits.ee",
+    title: `Uulits Tänavagurmee`,
+    description: `Uulits on tänavagurmee teerajaja Eestis, viie aastaga oleme avanud neli Uulitsat ning meist on saanud Eesti suurim kodumaine burgerikett.`,
+    image: `/uploads/uulits_social.png`,
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

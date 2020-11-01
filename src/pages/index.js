@@ -5,6 +5,7 @@ import { screenSize } from "../styles/screenSize"
 
 import Layout from "../components/layout"
 import CrossSeparator from "../components/CrossSeparator"
+import SEO from "../components/SEO"
 
 const Container = styled.div`
   display: flex;
@@ -94,13 +95,16 @@ export default function Home({ data }) {
   const { frontmatter, html } = markdownRemark
 
   return (
-    <Layout>
-      <Container>
-        <Banner src="uploads/front-banner.png" />
-        <CrossSeparator />
-        <TextContainer dangerouslySetInnerHTML={{ __html: html }} />
-      </Container>
-    </Layout>
+    <>
+      <SEO title={frontmatter.title} />
+      <Layout>
+        <Container>
+          <Banner src="uploads/front-banner.png" />
+          <CrossSeparator />
+          <TextContainer dangerouslySetInnerHTML={{ __html: html }} />
+        </Container>
+      </Layout>
+    </>
   )
 }
 

@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import styled from "@emotion/styled"
 import { screenSize } from "../styles/screenSize"
+import SEO from "../components/SEO"
 
 const MenuContainer = styled.div`
   max-width: 850px;
@@ -154,18 +155,21 @@ export default function Template({
   const { page, sections } = data
 
   return (
-    <Layout>
-      <MenuContainer>
-        <h1>{page.frontmatter.title}</h1>
-        <div
-          className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: page.html }}
-        />
-        {sections.edges.map(section => {
-          return <Section key={section.node.id} section={section.node} />
-        })}
-      </MenuContainer>
-    </Layout>
+    <>
+      <SEO title={page.frontmatter.title} />
+      <Layout>
+        <MenuContainer>
+          <h1>{page.frontmatter.title}</h1>
+          <div
+            className="blog-post-content"
+            dangerouslySetInnerHTML={{ __html: page.html }}
+          />
+          {sections.edges.map(section => {
+            return <Section key={section.node.id} section={section.node} />
+          })}
+        </MenuContainer>
+      </Layout>
+    </>
   )
 }
 

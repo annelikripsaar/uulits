@@ -4,7 +4,6 @@ import Footer from "./footer"
 import styled from "@emotion/styled"
 import { Global, css } from "@emotion/core"
 import Head from "./head"
-import { screenSize } from "../styles/screenSize"
 
 const Container = styled.div`
   font-size: 100%;

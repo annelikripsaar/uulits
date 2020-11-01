@@ -6,6 +6,7 @@ import styled from "@emotion/styled"
 import { useEffect } from "react"
 import { screenSize } from "../styles/screenSize"
 import { Helmet } from "react-helmet"
+import SEO from "../components/SEO"
 
 const Container = styled.div`
   max-width: 1000px;
@@ -176,6 +177,8 @@ export default function Template({
     }
   }, [])
   return (
+    <>
+      <SEO title={page.frontmatter.title}/>
     <Layout>
       <Helmet>
         <script
@@ -212,7 +215,8 @@ export default function Template({
         })}
       </Container>
       <ContactForm />
-    </Layout>
+      </Layout>
+      </>
   )
 }
 
