@@ -23,6 +23,7 @@ fields:
   type: boolean
   label: Uus
 pages:
+- content/menyy/balta/joogid.md
 - content/menyy/balta/lisandid.md
 - content/menyy/balta/vegan.md
 - content/menyy/kadaka/burgerwrapid-burger-wraps.md
