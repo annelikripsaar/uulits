@@ -4,19 +4,24 @@ hide_body: false
 fields:
 - type: text
   name: slug
-  label: slug
+  label: URL-i sõbralik nimi
 - type: text
   name: title
-  label: title
+  label: Pealkiri
 - type: number
   name: order
-  label: order
+  label: Järjekord
 - type: boolean
   name: in_nav
-  label: in_nav
+  label: Navigatsioonis
+  description: Kas on nähtav peamisel menüüribal
 - type: text
   name: parent_slug
-  label: parent_slug
+  label: Vanemleht
+  description: Mis lehe alla kuulub
+- name: new
+  type: boolean
+  label: Uus
 pages:
 - content/menyy/kadaka/burgerwrapid-burger-wraps.md
 - content/menyy/kadaka/gurmeeburgerid-gourmet-burgers.md
