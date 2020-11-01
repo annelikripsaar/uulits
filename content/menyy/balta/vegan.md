@@ -4,8 +4,9 @@ title: VEGAN MENÜÜ / VEGAN MENU
 order: 3
 in_nav: false
 parent_slug: balta
----
+new: false
 
+---
 <div class="ellipsis"></div>
 
 > Kõiki burgereid saab tellida wrapi vahel!
