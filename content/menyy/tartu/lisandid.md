@@ -4,6 +4,7 @@ title: LISANDID / EXTRAS
 order: 3
 in_nav: false
 parent_slug: tartu
+new: false
 
 ---
 <span class="spicy"></span>
