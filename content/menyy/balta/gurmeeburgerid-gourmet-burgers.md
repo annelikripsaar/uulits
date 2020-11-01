@@ -4,8 +4,9 @@ title: GURMEEBURGERID / GOURMET BURGERS
 order: 2
 in_nav: false
 parent_slug: balta
----
+new: false
 
+---
 <div class="ellipsis"></div>
 
 > Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada leiva või wrapiga. Kõiki burgereid saab tellida lisapihviga. Lisapihv 3 €.

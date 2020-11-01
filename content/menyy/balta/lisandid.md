@@ -4,8 +4,9 @@ title: LISANDID / EXTRAS
 order: 4
 in_nav: false
 parent_slug: balta
----
+new: false
 
+---
 Käsitööleib /  
 Handmade rye bread  
 **0,60 €**

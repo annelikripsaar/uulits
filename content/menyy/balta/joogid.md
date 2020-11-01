@@ -4,8 +4,9 @@ title: JOOGID / BEVERAGES
 order: 4
 in_nav: false
 parent_slug: balta
----
+new: false
 
+---
 Vesi pudelis /  
 Bottled water  
 **2,50 €**

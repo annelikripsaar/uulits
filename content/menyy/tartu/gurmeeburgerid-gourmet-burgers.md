@@ -4,6 +4,7 @@ title: GURMEEBURGERID / GOURMET BURGERS
 order: 2
 in_nav: false
 parent_slug: tartu
+new: false
 
 ---
 <div class="ellipsis"></div>

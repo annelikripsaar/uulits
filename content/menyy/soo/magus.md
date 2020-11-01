@@ -4,8 +4,9 @@ title: MIDAGI MAGUSAT / SOMETHING SWEET
 order: 6
 in_nav: false
 parent_slug: soo
----
+new: false
 
+---
 <span class="special"></span>
 Uulitsa Tiramisu purgis /  
 Uulits' Tiramisu in a jar  

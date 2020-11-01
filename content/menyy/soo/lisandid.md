@@ -4,8 +4,9 @@ title: LISANDID / EXTRAS
 order: 4
 in_nav: false
 parent_slug: soo
----
+new: false
 
+---
 <div class="ellipsis"></div>
 
 > Kõiki burgereid saab tellida lisanditega ja wrapi vahel. Kukli saab asendada leiva või salatiga. All burgers can also be ordered as wraps and with extras or replace the bun with rye bread or salad.

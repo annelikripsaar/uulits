@@ -4,8 +4,9 @@ title: JOOGID / BEVERAGES
 order: 4
 in_nav: false
 parent_slug: kadaka
----
+new: false
 
+---
 Kohv  
 **2,00 €**
 
