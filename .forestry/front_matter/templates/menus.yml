@@ -22,3 +22,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- content/menyy/tartu/index.md
