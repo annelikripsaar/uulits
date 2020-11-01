@@ -23,6 +23,7 @@ fields:
   type: boolean
   label: Uus
 pages:
+- content/menyy/balta/gurmeeburgerid-gourmet-burgers.md
 - content/menyy/balta/isuaratajad-appetizers.md
 - content/menyy/balta/joogid.md
 - content/menyy/balta/lisandid.md
