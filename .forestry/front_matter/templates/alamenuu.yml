@@ -23,6 +23,7 @@ fields:
   type: boolean
   label: Uus
 pages:
+- content/menyy/balta/isuaratajad-appetizers.md
 - content/menyy/balta/joogid.md
 - content/menyy/balta/lisandid.md
 - content/menyy/balta/vegan.md

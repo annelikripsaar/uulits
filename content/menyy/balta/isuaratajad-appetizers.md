@@ -4,8 +4,9 @@ title: ISUÄRATAJAD / APPETIZERS
 order: 1
 in_nav: false
 parent_slug: balta
----
+new: false
 
+---
 Uulitsa käsitöökartulid cheddar-juustuga /  
 Uulits handmade potato wedges with cheddar cheese sauce  
 **4,00 €**  
