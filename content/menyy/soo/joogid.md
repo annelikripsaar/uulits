@@ -4,8 +4,9 @@ title: JOOGID / DRINKS AND BEVERAGES
 order: 7
 in_nav: false
 parent_slug: soo
----
+new: false
 
+---
 <div class="ellipsis"></div>
 
 > Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, vaadiõlu Raasiku Õlletehaselt, naturaalsed mahlajoogid ja limonaadid. Väike vein hea toidu kõrvale.
