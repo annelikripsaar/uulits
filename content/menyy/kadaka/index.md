@@ -2,8 +2,8 @@
 slug: kadaka
 title: Kadaka menüü
 order: 2
----
 
+---
 <div class="warning">
 <strong>HOIATUS!</strong></br>
 Uulitsa burgerid on sõltuvust tekitavad! Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise! Kukli saab asendada leiva või wrapiga. Kõiki burgereid saab lisapihviga. Pihvid on vaikimisi medium-küpsusastmes. 

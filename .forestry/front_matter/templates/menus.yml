@@ -23,5 +23,6 @@ fields:
     max: 
     step: 
 pages:
+- content/menyy/kadaka/index.md
 - content/menyy/soo/index.md
 - content/menyy/tartu/index.md
