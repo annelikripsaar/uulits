@@ -12,3 +12,5 @@ fields:
 - type: boolean
   name: in_nav
   label: in_nav
+pages:
+- content/food-trucki-lisatekst.md
