@@ -28,6 +28,15 @@ fields:
     maxSize: 64
   label: Pilt teksti kõrval
   description: Ruudukujulises formaadis foto
+- name: extra
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Lisatekst
 - name: video
   type: file
   config:
