@@ -20,7 +20,7 @@ export const SEO = ({ description, meta, title }) => {
 
 	const metaTitle = title ? `${title} | Uulits Tänavagurmee` : 'Uulits Tänavagurmee';
 	const metaDescription = description || site.siteMetadata.description;
-	const metaImage = `${site.siteMetadata.image}`;
+	const metaImage = `${site.siteMetadata.siteUrl}${site.siteMetadata.image}`;
 
     const metaData = [
 		{

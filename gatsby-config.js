@@ -10,7 +10,7 @@ module.exports = {
     siteUrl: "https://www.uulits.ee",
     title: `Uulits Tänavagurmee`,
     description: `Uulits on tänavagurmee teerajaja Eestis, viie aastaga oleme avanud neli Uulitsat ning meist on saanud Eesti suurim kodumaine burgerikett.`,
-    image: `/uulits_social.png`,
+    image: `/uploads/uulits_social.png`,
   },
   plugins: [
     {
