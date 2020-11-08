@@ -53,6 +53,13 @@ const TextContainer = styled.div`
   line-height: 1.5;
   text-align: justify;
 
+  .separator::before {
+    content: url("/icons/crossseparator.svg");
+    display: flex;
+    justify-content: center;
+    padding: 56px 0;
+  }
+
   ${screenSize.sm} {
     box-sizing: border-box;
     margin: 24px 0;
@@ -67,6 +74,21 @@ const Video = styled.video`
 
 const Image = styled.img`
   width: 100vw;
+`
+
+const Extra = styled.div`
+  margin-bottom: 56px;
+  padding: 0 56px;
+  text-align: center;
+  font-family: "Teko", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 56px;
+  line-height: 1;
+
+  ${screenSize.sm} {
+    font-size: 40px;
+    padding: 0 16px;
+  }
 `
 
 export default function Template({
@@ -88,6 +110,14 @@ export default function Template({
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </Columns>
+        {frontmatter.extra && (
+          <>
+            <CrossSeparator />
+            <Extra
+              dangerouslySetInnerHTML={{ __html: frontmatter.extra }}
+            ></Extra>
+          </>
+        )}
         {frontmatter.video?.includes("mp4") ? (
           <>
             <CrossSeparator />
@@ -115,6 +145,7 @@ export const pageQuery = graphql`
         slug
         title
         featured_image
+        extra
         video
       }
     }
