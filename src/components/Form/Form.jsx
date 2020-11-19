@@ -56,7 +56,7 @@ const InputContainer = styled.div`
   width: 320px;
   margin-bottom: 56px;
 
-  &:first-of-type {
+  &:not(:last-of-type) {
     margin-right: 56px;
   }
 
@@ -84,6 +84,7 @@ export default function ContactForm() {
 
   const [nameLabelMove, setNameLabelMove] = useState(false)
   const [emailLabelMove, setEmailLabelMove] = useState(false)
+  const [subjectLabelMove, setSubjectLabelMove] = useState(false)
   const [messageLabelMove, setMessageLabelMove] = useState(false)
 
   const handleServerResponse = (ok, msg) => {
@@ -99,7 +100,7 @@ export default function ContactForm() {
       .then(response => {
         actions.setSubmitting(false)
         actions.resetForm()
-        handleServerResponse(true, "Thanks!")
+        handleServerResponse(true, "Aitäh! Kiri on teele saadetud.")
       })
       .catch(error => {
         actions.setSubmitting(false)
@@ -108,12 +109,13 @@ export default function ContactForm() {
   }
 
   const formSchema = Yup.object().shape({
-    name: Yup.string().required("Required"),
-    email: Yup.string().email("Invalid email").required("Required"),
+    name: Yup.string().required("Nõutud väli"),
+    email: Yup.string().email("Palun sisesta kehtiv meiliaadress").required("Nõutud väli"),
+    _subject: Yup.string(),
     message: Yup.string(),
   })
 
-  const handleNameFieldSelect = e => {
+  const handleNameFieldSelect = () => {
     setNameLabelMove(true)
   }
 
@@ -133,6 +135,16 @@ export default function ContactForm() {
     }
   }
 
+  const handleSubjectFieldSelect = () => {
+    setSubjectLabelMove(true)
+  }
+
+  const handleSubjectFieldBlur = e => {
+    if (e.target.value === "") {
+      setSubjectLabelMove(false)
+    }
+  }
+
   const handleMessageFieldSelect = () => {
     setMessageLabelMove(true)
   }
@@ -147,7 +159,7 @@ export default function ContactForm() {
     <Container>
       <Heading>Get in touch with us</Heading>
       <Formik
-        initialValues={{ name: "", email: "", message: "" }}
+        initialValues={{ name: "", email: "", message: "", _subject: "" }}
         onSubmit={handleOnSubmit}
         validationSchema={formSchema}
       >
@@ -157,7 +169,7 @@ export default function ContactForm() {
               <FormRow>
                 <InputContainer>
                   <Label htmlFor="name" moved={nameLabelMove}>
-                    Your Name
+                    Nimi
                   </Label>
                   <Field
                     as={UulitsField}
@@ -167,14 +179,14 @@ export default function ContactForm() {
                     onBlur={handleNameFieldBlur}
                   />
                   <ErrorMessage
-                    name="email"
+                    name="name"
                     className="errorMsg"
                     component="p"
                   />
                 </InputContainer>
                 <InputContainer>
                   <Label htmlFor="email" moved={emailLabelMove}>
-                    Your Email
+                    Meiliaadress
                   </Label>
                   <Field
                     as={UulitsField}
@@ -192,9 +204,28 @@ export default function ContactForm() {
                 </InputContainer>
               </FormRow>
               <FormRow>
+                <InputContainer>
+                  <Label htmlFor="subject" moved={subjectLabelMove}>
+                    Pealkiri
+                  </Label>
+                  <Field
+                    as={UulitsField}
+                    id="subject"
+                    name="_subject"
+                    onFocus={handleSubjectFieldSelect}
+                    onBlur={handleSubjectFieldBlur}
+                  />
+                  <ErrorMessage
+                    name="_subject"
+                    className="errorMsg"
+                    component="p"
+                  />
+                </InputContainer>
+              </FormRow>
+              <FormRow>
                 <MessageContainer>
                   <Label htmlFor="message" moved={messageLabelMove}>
-                    Your Message
+                    Sõnum
                   </Label>
                   <Field
                     as={UulitsTextarea}
@@ -211,7 +242,7 @@ export default function ContactForm() {
                 </MessageContainer>
               </FormRow>
               <Button type="submit" disabled={isSubmitting}>
-                Get in touch ›
+                Võta ühendust ›
               </Button>
               {serverState && (
                 <p className={!serverState.ok ? "errorMsg" : ""}>
