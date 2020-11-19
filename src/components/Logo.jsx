@@ -7,7 +7,7 @@ const LogoLink = styled(Link)`
 `
 
 const LogoImg = styled.img`
-  width: 150px;
+  height: 130px;
 `
 
 export function Logo({ color }) {
