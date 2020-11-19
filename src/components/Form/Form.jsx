@@ -111,7 +111,7 @@ export default function ContactForm() {
   const formSchema = Yup.object().shape({
     name: Yup.string().required("Nõutud väli"),
     email: Yup.string().email("Palun sisesta kehtiv meiliaadress").required("Nõutud väli"),
-    _subject: Yup.string(),
+    _subject: Yup.string().required("Nõutud väli"),
     message: Yup.string(),
   })
 
@@ -157,7 +157,7 @@ export default function ContactForm() {
 
   return (
     <Container>
-      <Heading>Get in touch with us</Heading>
+      <Heading>Võta meiega ühendust</Heading>
       <Formik
         initialValues={{ name: "", email: "", message: "", _subject: "" }}
         onSubmit={handleOnSubmit}
