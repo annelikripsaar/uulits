@@ -40,12 +40,6 @@ Kids' cheeseburger
 **5,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, Uulitsa ketšup. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, Uulits ketchup</span>
 
-<span class="special"></span>
-Orgu burger /  
-Orgu's burger  
-**7,90 €**  
-<span class="koostis">Erik Orgu soovitab! Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, peekoni-juustu mix, tomat, salatisibul. By Erik Orgu! Bun, 100% angus beef patty, Uulits herb mayonnaise, bacon and cheese mix, tomato, onion</span>
-
 Vegeburger tofu pihviga /
 Veggie burger with tofu patty  
 **7,90 €**  
