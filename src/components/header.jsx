@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import TopBar from "./TopBar"
 import { Social } from "./Social"
@@ -68,11 +68,24 @@ const Nav = styled.ul`
   }
 `
 
-const ListLink = props => (
-  <li>
-    <Link to={props.to}>{props.children}</Link>
-  </li>
-)
+const ListItem = styled.li`
+${p => p.active ? "background-color: black;" : ""}
+
+&& a {
+  ${p => p.active ? "color: white;" : ""}
+}
+`
+
+const ListLink = props => {
+  const [iconActive, setIconActive] = useState(false);
+  
+  return (
+  <ListItem active={iconActive}>
+    <Link to={props.to} getProps={({ isCurrent }) => {
+        isCurrent ? setIconActive(true) : setIconActive(false)
+    }}>{props.children}</Link>
+  </ListItem>
+)}
 
 const TruckIcon = styled.div`
   box-sizing: border-box;
@@ -104,6 +117,12 @@ const TruckIcon = styled.div`
     padding: 2px;
   }
 
+  ${p => p.active ? "background-image: url('/icons/truck-black.svg');" : ""}
+
+  a {
+    ${p => p.active ? "color: white;" : ""}
+  }
+
   &:hover {
     background-image: url("/icons/truck-black.svg");
 
@@ -113,11 +132,16 @@ const TruckIcon = styled.div`
   }
 `
 
-const TruckLink = props => (
-  <TruckIcon>
-    <Link to={props.to}>{props.children}</Link>
+const TruckLink = props => {
+  const [iconActive, setIconActive] = useState(false);
+  
+  return (
+  <TruckIcon active={iconActive}>
+      <Link to={props.to} getProps={({ isCurrent }) => {
+        isCurrent ? setIconActive(true) : setIconActive(false)
+    }}>{props.children}</Link>
   </TruckIcon>
-)
+)}
 
 export default function Header() {
   const data = useStaticQuery(graphql`

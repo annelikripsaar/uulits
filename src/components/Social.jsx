@@ -1,7 +1,6 @@
 import React from "react"
 import styled from "@emotion/styled"
 
-import Wolt from "../assets/wolt.svg"
 import Facebook from "../assets/facebook.svg"
 import Instagram from "../assets/instagram.svg"
 import Youtube from "../assets/youtube.svg"
