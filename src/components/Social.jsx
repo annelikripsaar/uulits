@@ -23,9 +23,6 @@ const Container = styled.div`
 export const Social = ({ color, className }) => {
   return (
     <Container className={className} color={color}>
-      <a href="https://wolt.com/et/search?q=uulits" target="_blank" rel="noreferrer">
-        <Wolt />
-      </a>
       <a href="https://www.facebook.com/uulitsrestoran" target="_blank" rel="noreferrer">
         <Facebook />
       </a>
