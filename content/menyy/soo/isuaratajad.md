@@ -33,7 +33,7 @@ Uulits handmade chicken nuggets with sriracha mayonnaise and coleslaw
 <span class="special"></span>
 Uulitsa käsitöökartulid juustu ja majoneesiga /  
 Loaded potato wedges with cheese sauce and mayonnaise  
-**7,00 €**  
+**6,00 €**  
 <span class="koostis">juustukaste, majonees, salatisibul, roheline sibul cheese sauce, mayonnaise, onion, green onion</span>
 
 <span class="special"></span>
