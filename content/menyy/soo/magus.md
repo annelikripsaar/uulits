@@ -12,7 +12,6 @@ Uulitsa Tiramisu purgis /
 Uulits' Tiramisu in a jar  
 **4,00 €**
 
-<span class="special"></span>
-Uulitsa toorjuustukook maapähklivõi ja Nutellaga /  
-Uulits cheesecake with Nutella  
-**4,50 €**
+<span class="special"></span> Uulitsa brüleekreem/  
+Uulits' Crème brûlée  
+**3,90 €**
