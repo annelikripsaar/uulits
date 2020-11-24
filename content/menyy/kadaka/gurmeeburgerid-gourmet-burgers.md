@@ -5,11 +5,13 @@ order: 2
 in_nav: false
 parent_slug: kadaka
 new: false
----
 
+---
 <div class="ellipsis"></div>
 
 > Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada leiva või wrapiga. Kõiki burgereid saab tellida lisapihviga. Lisapihv 3 €.
+>
+> Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.
 
 <span class="special"></span> Uulitsa burger  
 **7,00 €**  
@@ -72,4 +74,4 @@ Spicy chorizo-burger
 Sai-pihv-sai /  
 Bun-Patty-Bun  
 **6,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup. Bun, 100% angus beef patty, cheddar cheese, Uulits herb mayonnaise and ketchup</span>
+<span class="koostis">Kukkel, 100% veiselihapihv, cheddar juustu kaste, Uulitsa ürdimajonees, Uulitsa ketšup. Bun, 100% angus beef patty, cheddar cheese sauce, Uulits herb mayonnaise and ketchup</span>
