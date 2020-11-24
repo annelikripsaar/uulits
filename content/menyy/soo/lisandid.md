@@ -9,7 +9,7 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Kõiki burgereid saab tellida lisanditega ja wrapi vahel. Kukli saab asendada leiva või salatiga. All burgers can also be ordered as wraps and with extras or replace the bun with rye bread or salad.
+> Kõiki burgereid saab tellida lisanditega ja wrapi vahel. Kukli saab asendada leiva või salatiga. Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. All burgers can also be ordered as wraps and with extras or replace the bun with rye bread or salad. All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise. 
 
 Käsitöö täisteraleib /  
 Handmade rye bread  
