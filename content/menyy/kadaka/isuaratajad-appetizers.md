@@ -44,6 +44,11 @@ Uulitsa bataadifriikad trühvlimajoneesi ja parmesaniga /
 Uulits handmade sweet potato wedges with truffle mayonnaise and parmesan   
 **5,50 €**
 
+<span class="spicy"></span> Uulitsa käsitöökartulid rebitud sealihaga /  
+Uulits' handmade potato wedges with pulled pork  
+**7 €**  
+<span class="koostis">Cheddar juust, sriracha majonees, punased ja rohelised jalapenod, rebitud sealiha, roheline sibul. Cheddar cheese, sriracha mayonnaise, red and green jalapenos, pulled pork, green onion</span>
+
 <span class="spicy"></span>
 Mozzarellaga täidetud jalapenod crème fraîche´ga /  
 Mozzarella filled jalapenos with crème fraîche  
