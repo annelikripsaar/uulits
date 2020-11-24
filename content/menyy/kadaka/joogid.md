@@ -7,7 +7,7 @@ parent_slug: kadaka
 new: false
 
 ---
-Kohv  
+Kohv / Coffee  
 **2,00 €**
 
 Espresso  
@@ -19,40 +19,34 @@ Latte
 Cappuccino  
 **2,50 €**
 
-Tee  
+Tee / Tea  
 **1,50 €**
 
-ON Lemon mahlalimonaadid  
+ON Lemon limonaadid / lemonades  
 **3,30 €**
 
-Fritz karastusjoogid  
+Fritz limonaadid / lemonades  
 **3,30 €**
 
-MAMM mahlajoogid  
+Dagö Berry mahlajoogid /juice drinks  
 **3,50 €**
 
-<span class="special"></span>
-Bundaberg ingverilimonaad /  
-Ginger lemonade  
-**3,80 €**
+<span class="special"></span> Pimento  
+**2,80 €**
 
-Karastusjook Fuze Tea  
-**2,50 €**
-<span class="koostis">sidrun, virsik lemon, peach</span>
-
-Karastusjook CocaCola või Fanta  
+CocaCola / Fanta /Fuze Tea  
 **2,50 €**
 
-Käsitöö-õlled - erinevad  
+Käsitöö-õlled - erinevad / Craft beer  
 **3,90 €**
 <span class="koostis">Tähelepanu! Tegemist on alkoholiga. Alkohol võib kahjustada teie tervist.</span>
 
-Käsitöö-siider - erinevad  
+Käsitöö-siider - erinevad / Craft cider  
 **3,50 €**
 <span class="koostis">Tähelepanu! Tegemist on alkoholiga. Alkohol võib kahjustada teie tervist.</span>
 
 Kali/Kvass  
 **3,50 €**
 
-Vesi pudelis  
+Vesi pudelis / Bottled water   
 **2,50 €**
