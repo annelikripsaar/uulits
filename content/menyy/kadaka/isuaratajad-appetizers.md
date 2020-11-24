@@ -4,8 +4,9 @@ title: ISUÄRATAJAD / APPETIZERS
 order: 1
 in_nav: false
 parent_slug: kadaka
----
+new: false
 
+---
 <div class="ellipsis"></div>
 
 > Vali siit mõnusaid lisandeid ja kastmeid ning tuuni tänavagurmeed oma maitse järgi!
@@ -20,12 +21,10 @@ Uulits sweet potato wedges with cheddar sauce
 **5,00 €**  
 <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
-<span class="spicy"></span>
-Vürtsikad käsitöökartulid cheddar-juustu ja jalapenoga  
+<span class="spicy"></span> Vürtsikad käsitöökartulid cheddar-juustu ja jalapenodega  
 **4,00 €**
 
-<span class="spicy"></span>
-Vürtsikad bataadifriikad cheddar-juustu ja jalapenoga /  
+<span class="spicy"></span> Vürtsikad bataadifriikad cheddar-juustu ja jalapenodega /  
 Spicy sweet potato wedges with cheddar and jalapenos  
 **5,00 €**
 
@@ -66,5 +65,7 @@ Peekon / juust / jalapeno
 
 Kastmed /  
 Sauces  
-**1,50 €**  
-<span class="koostis">Ketšup, ürdimajonees, trühvlimajonees, cheddar-juustu kaste, sibulamoos, paprikamoos, chorizo kaste jne Uulits herb mayonnaise, truffle mayonnaise, ketchup, chorizo sauce, cheddar cheese sauce, red onion jam, paprika jam, black currant marmelade etc</span>
+**2 €**  
+<span class="koostis">Ketšup, ürdimajonees, trühvlimajonees, cheddar juustu kaste, sibulamoos, chorizo kaste jne Uulits herb mayonnaise, truffle mayonnaise, ketchup, chorizo sauce, cheddar cheese sauce, red onion jam etc</span>
+
+Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise. 
