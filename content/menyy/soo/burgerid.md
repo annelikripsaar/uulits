@@ -9,7 +9,13 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise. Kukli saab asendada wrapi, leiva või salatiga. Kõiki burgereid saab tellida beyond-pihviga ja lisapihviga. Pihvid on vaikimisi medium-küpsusastmega. Kõiki kastmeid saab asendada vegan raita kastmega või vagan chipotle majoneesiga.
+> Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise. Kukli saab asendada wrapi, leiva või salatiga. Kõiki burgereid saab tellida beyond-pihviga ja lisapihviga. Pihvid on vaikimisi medium-küpsusastmega. 
+>
+> </span>
+>
+> Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.
+>
+> <span class="vege"></span><span class="vegan"></span>
 
 Uulitsa burger  
 **7,00 €**  
