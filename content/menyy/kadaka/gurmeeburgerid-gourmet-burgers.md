@@ -11,7 +11,11 @@ new: false
 
 > Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada leiva või wrapiga. Kõiki burgereid saab tellida lisapihviga. Lisapihv 3 €.
 >
+> </span>
+>
 > Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.
+>
+> <span class="vege"></span><span class="vegan"></span>
 
 <span class="special"></span> Uulitsa burger  
 **7,00 €**  
