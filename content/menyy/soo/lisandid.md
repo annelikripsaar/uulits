@@ -11,7 +11,9 @@ new: false
 
 > Kõiki burgereid saab tellida lisanditega ja wrapi vahel. Kukli saab asendada leiva või salatiga.  All burgers can also be ordered as wraps and with extras or replace the bun with rye bread or salad.
 >
-> </span>
+> > </span>
+> >
+> > </span>
 >
 > Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.
 >
