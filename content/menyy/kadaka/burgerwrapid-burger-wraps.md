@@ -1,6 +1,6 @@
 ---
-slug: burgerwrapid
-title: BURGERWRAPID / BURGER WRAPS
+slug: wrapid
+title: WRAPID / WRAPS
 order: 3
 in_nav: false
 parent_slug: kadaka
@@ -9,7 +9,7 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Mis on burgerwrap? See on burgeri sisu wrapi ümbrises. Naiste lemmikud - mõnusalt kerged, kuid toitvad!
+> Mõnusalt kerged, kuid toitvad!
 
 <span class="spicy"></span>
 Kanawrap /
