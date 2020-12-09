@@ -1,6 +1,6 @@
 ---
-slug: burgerwrapid
-title: BURGERWRAPID / BURGER WRAPS
+slug: wrapid
+title: WRAPID / WRAPS
 order: 5
 in_nav: false
 parent_slug: soo
@@ -9,7 +9,7 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Kõik meie burgerid on saadaval ka naked-burgerina, wrapina või leiva vahel. Küsi lisa teenindajalt! All our burgers are available also as naked burgers, burgerwraps or with bread.
+> Kõik meie burgerid on saadaval ka naked-burgerina, wrapina või leiva vahel. Küsi lisa teenindajalt! All our burgers are available also as naked burgers, wraps or with bread.
 
 Kanawrap /
 Chicken wrap  
