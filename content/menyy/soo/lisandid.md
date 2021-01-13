@@ -33,6 +33,12 @@ Extra sauce
 **2,00 €**  
 <span class="koostis">Uulitsa ürdimajonees, trühvlimajonees, cheddar juustu kaste, Uulitsa ketšup, crème fraîche, magusa sinepi kaste, sibulamoos jne Uulits herb mayonnaise, truffle mayonnaise, cheddar cheese sauce, Uulits ketchup, crème fraîche, red onion jam, sweet mustard sauce, etc</span>
 
+> </span>
+
+> Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.
+>
+> <span class="vege"></span><span class="vegan"></span>
+
 <span class="special"></span>
 Lisapihv + väikesed käsitöökartulid /  
 Extra patty + small potato wedges  
