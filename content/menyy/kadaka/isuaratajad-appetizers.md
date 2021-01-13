@@ -21,6 +21,12 @@ Uulits sweet potato wedges with cheddar sauce
 **5,00 €**  
 <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
+> </span>
+
+> Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.
+>
+> <span class="vege"></span><span class="vegan"></span>
+
 <span class="spicy"></span> Vürtsikad käsitöökartulid cheddar-juustu ja jalapenodega  
 **4,00 €**
 
@@ -73,4 +79,4 @@ Sauces
 **2 €**  
 <span class="koostis">Ketšup, ürdimajonees, trühvlimajonees, cheddar juustu kaste, sibulamoos, chorizo kaste jne Uulits herb mayonnaise, truffle mayonnaise, ketchup, chorizo sauce, cheddar cheese sauce, red onion jam etc</span>
 
-Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise. 
+Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.
