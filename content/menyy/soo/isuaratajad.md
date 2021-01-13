@@ -25,7 +25,7 @@ Uulitsa bataadifriikad suitsuse aiooliga /
 Uulits sweet potato wedges with smoky aioli  
 **5,00 €**
 
-> <span style="color: #66AA69;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.</span>
+> <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.</span>
 >
 > <span class="vege"></span><span class="vegan"></span>
 
