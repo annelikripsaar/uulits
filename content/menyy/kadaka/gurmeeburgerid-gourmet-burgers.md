@@ -13,9 +13,11 @@ new: false
 >
 > </span>
 >
-> Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.
+> > </span>
 >
-> <span class="vege"></span><span class="vegan"></span>
+> > Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.
+> >
+> > <span class="vege"></span><span class="vegan"></span>
 
 <span class="special"></span> Uulitsa burger  
 **7,00 €**  
