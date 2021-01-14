@@ -9,7 +9,7 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Kõiki burgereid saab tellida lisanditega ja wrapi vahel. Kukli saab asendada leiva või salatiga.  
+> Kõiki burgereid saab tellida lisanditega ja wrapi vahel. Kukli saab asendada leiva või salatiga.
 >
 > All burgers can also be ordered as wraps and with extras or replace the bun with rye bread or salad.
 >
@@ -17,11 +17,10 @@ new: false
 > >
 > > </span>
 >
-> Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. 
->
-> All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.
->
-> <span class="vege"></span><span class="vegan"></span>
+> > <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.  
+> > All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.</span>
+> >
+> > <span class="vege"></span><span class="vegan"></span>
 
 Käsitöö täisteraleib /  
 Handmade rye bread  
@@ -39,16 +38,15 @@ Extra sauce
 
 > </span>
 
-> Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. 
->
-> All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.
->
-> <span class="vege"></span><span class="vegan"></span>
+> > <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.  
+> > All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.</span>
+> >
+> > <span class="vege"></span><span class="vegan"></span>
 
 <span class="special"></span>
 Lisapihv + väikesed käsitöökartulid /  
 Extra patty + small potato wedges  
 **4,50 €**  
-<span class="koostis">Kõiki burgereid saab tellida ka lisapihviga + maja poolt lisaks väikesed käsitöökartulid! 
+<span class="koostis">Kõiki burgereid saab tellida ka lisapihviga + maja poolt lisaks väikesed käsitöökartulid!
 
 All burgers can be ordered with an extra patty + small Uulits' handmade potato wedges on the house!</span>
