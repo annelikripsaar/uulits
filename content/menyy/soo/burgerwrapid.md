@@ -9,7 +9,9 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Kõik meie burgerid on saadaval ka naked-burgerina, wrapina või leiva vahel. Küsi lisa teenindajalt! All our burgers are available also as naked burgers, wraps or with bread.
+> Kõik meie burgerid on saadaval ka naked-burgerina, wrapina või leiva vahel. Küsi lisa teenindajalt! 
+>
+> All our burgers are available also as naked burgers, wraps or with bread.
 
 Kanawrap /
 Chicken wrap  
