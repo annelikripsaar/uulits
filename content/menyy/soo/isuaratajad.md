@@ -30,9 +30,8 @@ Uulits sweet potato wedges with smoky aioli
 >
 > <span class="vege"></span><span class="vegan"></span>
 
-<span class="special"></span>
-Uulitsa käsitöö-kananagitsad shriracha majoneesi ja coleslaw'ga /  
-Uulits handmade chicken nuggets with sriracha mayonnaise and coleslaw  
+<span class="special"></span> Uulitsa käsitöö-kananagitsad shriracha majoneesiga /  
+Uulits handmade chicken nuggets with sriracha mayonnaise   
 **5,90 €**
 
 <span class="special"></span>
