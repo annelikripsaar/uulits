@@ -17,6 +17,14 @@ Chicken wrap
 **7,90 €**  
 <span class="koostis">Nisutortilla, krõbekana, Uulitsa feta-juustu kreem päikesekuivatatud tomatitega, värske kapsas, salatisibul, tomat, kõrvitsaseemned. Durum tortilla, chicken fillet, Uulits feta-cheese cream with sun dried tomatos, fresh cabbage, pickled red onions, tomato, roasted pumpkin seeds</span>
 
+Täistera kanawrap / Wholegrain Chicken wrap  
+**6,50 €**  
+<span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%;</span>
+
+Fitlap 376 kcal.</span>
+
+Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%</span>
+
 <span class="special"></span> Rebitud sealiha wrap /  
 Pulled pork wrap  
 **8,50 €**  
