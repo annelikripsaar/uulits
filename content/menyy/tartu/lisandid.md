@@ -14,7 +14,7 @@ Peekon / juust / jalapeno
 Kastmed /  
 Sauces  
 **2,00 €**  
-<span class="koostis">Uulitsa ürdimajonees, Uulitsa ketšup, crème fraîche, sibulamoos, cheddar juustu kaste jm. Uulits herb mayo, Uulits ketchup, crème fraîche, red onion jam, cheddar cheese sauce etc</span>
+<span class="koostis">Uulitsa ürdimajonees, Uulitsa ketšup,  sibulamoos, cheddar juustu kaste jm. Uulits herb mayo, Uulits ketchup, red onion jam, cheddar cheese sauce etc</span>
 
 > > <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.  
 > > All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.</span>
