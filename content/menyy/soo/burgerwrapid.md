@@ -20,9 +20,7 @@ Chicken wrap
 
 Täistera kanawrap / Wholegrain Chicken wrap  
 **6,50 €**  
-<span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>
-
-Fitlap 376 kcal.</span>
+<span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>Fitlap 376 kcal.</span>
 
 <span class="special"></span>
 <span class="spicy"></span>
