@@ -9,7 +9,7 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada leiva või wrapiga. Kõiki burgereid saab tellida lisapihviga. Lisapihv 3 €.
+> Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada salati või wrapiga. Kõiki burgereid saab tellida lisapihviga. Lisapihv 3 €.
 >
 > </span>
 >
@@ -28,16 +28,6 @@ Topeltjuustuburger /
 Double cheeseburger  
 **7,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, 2x cheddar juust, salati-mix, salatisibul, tomat, ketšup Bun, 100% angus beef patty, Uulits herb mayonnaise, 2x cheddar cheese, salad-mix, onion, tomato, Uulits ketchup</span>
-
-Vegeburger tofu pihviga /  
-Veggie burger with tofu patty  
-**7,50 €**  
-<span class="koostis">Vegan kukkel, paneeritud tofu pihv, vegan majonees, salati-mix, tomat, salatisibul. Vegan bun, breaded tofu patty, vegan mayonnaise, tomato, onion, salad-mix</span> <span class="vegan"></span>
-
-<span class="special"></span> Karamellise sibulaga burger /  
-Burger with caramelized onion  
-**7,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmentali juust, karamelliseeritud sibul. Bun, 100% angus beef patty, Uulits truffle mayonnaise, Emmental cheese, caramelized onion.</span>
 
 Sinihallitusjuustu burger /  
 Blue cheese burger  
@@ -58,11 +48,6 @@ Soolakaramelli ja peekoniga burger /
 Burger with bacon and salted caramel  
 **8,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rucola, salatisibul, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, rucola, bacon, onions, salted caramel sauce</span>
-
-<span class="special"></span> Rebitud sealiha burger /  
-Pulled pork burger  
-**8,50 €**  
-<span class="koostis">Kukkel, suitsune rebitud sealiha, sriracha majonees, coleslaw, salatisibul, salati-mix. Bun, smoky pulled pork, coleslaw, onion, sriracha mayonnaise, salad-mix</span>
 
 Veinise sibulamoosiga burger /  
 Red onion jam burger  
