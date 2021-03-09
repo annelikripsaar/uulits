@@ -7,6 +7,10 @@ parent_slug: kadaka
 new: false
 
 ---
+<div class="ellipsis"></div>
+
+> Meie jookide valiku kohta küsi lisa teenindajalt! 
+
 Kohv / Coffee  
 **2,00 €**
 
@@ -48,5 +52,5 @@ Käsitöö-siider - erinevad / Craft cider
 Kali/Kvass  
 **3,50 €**
 
-Vesi pudelis / Bottled water   
+Vesi pudelis / Bottled water  
 **2,50 €**
