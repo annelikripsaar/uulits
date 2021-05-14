@@ -11,7 +11,7 @@ new: false
 
 > Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada salati või wrapiga. Kõiki burgereid saab tellida lisapihviga. Lisapihv 3 €.
 >
-> Kaasa ostes lisandub pakenditasu 0.40
+> Kaasa ostes lisandub pakenditasu 0.40.
 >
 > </span>
 >
