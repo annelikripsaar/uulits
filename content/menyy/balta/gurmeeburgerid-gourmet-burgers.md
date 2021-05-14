@@ -9,9 +9,11 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. 
+> Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium.
 >
 > Kukli saab asendada leiva või wrapiga. Kõiki burgereid saab tellida lisapihviga. Lisapihv 3 €.
+>
+> Kaasa ostes lisandub pakenditasu 0.40.
 
 <span class="special"></span>
 Uulitsa burger /  
