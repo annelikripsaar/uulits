@@ -50,3 +50,5 @@ Extra patty + small potato wedges
 <span class="koostis">Kõiki burgereid saab tellida ka lisapihviga + maja poolt lisaks väikesed käsitöökartulid!
 
 All burgers can be ordered with an extra patty + small Uulits' handmade potato wedges on the house!</span>
+
+Kaasa ostes lisandub pakenditasu 0.40
