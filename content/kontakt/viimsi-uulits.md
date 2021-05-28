@@ -1,14 +1,14 @@
 ---
 title: Viimsi Uulits
-slug: ''
+slug: viimsi kontakt
 order: 
 in_nav: false
-address: ''
+address: Sõpruse tee 15, Haabneeme, Viimsi, Harjumaa
 address_extra: ''
 lat: 
 lng: 
 
 ---
-E-L kell 11.00-22.00
+**E-L** kell 11.00-22.00
 
-P kell 11.00-21.00
+**P** kell 11.00-21.00
