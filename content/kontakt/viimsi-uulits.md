@@ -1,6 +1,6 @@
 ---
 title: Viimsi Uulits
-slug: viimsi kontakt
+slug: viimsikontakt
 order: 
 in_nav: false
 address: Sõpruse tee 15, Haabneeme, Viimsi, Harjumaa
