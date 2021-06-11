@@ -100,6 +100,7 @@ const soo = { lat: 59.444861, lng: 24.742297 }
 const kadaka = { lat: 59.41213, lng: 24.668579 }
 const balta = { lat: 59.441073, lng: 24.736337 }
 const tartu = { lat: 58.380947, lng: 26.722218 }
+const viimsi = { lat: 59.504739, lng: 24.827066 }
 
 let resolveGoogleMapsSdkPromise
 const googleMapsSdkPromise = new Promise(resolve => {
@@ -157,6 +158,19 @@ function initializeMaps() {
   new window.google.maps.Marker({
     position: tartu,
     map: tartuMap,
+  })
+}
+
+  const viimsiMap = new window.google.maps.Map(
+    document.getElementById("viimsikontakt"),
+    {
+      center: viimsi,
+      zoom: 15,
+    }
+  )
+  new window.google.maps.Marker({
+    position: viimsi,
+    map: viimsiMap,
   })
 }
 
