@@ -159,8 +159,7 @@ function initializeMaps() {
     position: tartu,
     map: tartuMap,
   })
-}
-
+  
   const viimsiMap = new window.google.maps.Map(
     document.getElementById("viimsikontakt"),
     {
