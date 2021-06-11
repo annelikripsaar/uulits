@@ -22,6 +22,9 @@ fields:
     min: 
     max: 
     step: 
+- name: in_nav
+  type: boolean
+  label: Navigatsioonis
 pages:
 - content/menyy/balta/index.md
 - content/menyy/kadaka/index.md
