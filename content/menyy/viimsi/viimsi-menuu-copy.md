@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 1
 title: 'ISUÄRATAJAD / APPETIZERS '
 slug: Viimsi
 in_nav: false
