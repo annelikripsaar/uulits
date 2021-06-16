@@ -2,6 +2,6 @@
 order: 5
 title: Viimsi menüü
 slug: viimsi
-in_nav: false
+in_nav: true
 
 ---
