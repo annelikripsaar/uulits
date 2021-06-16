@@ -1,6 +1,6 @@
 ---
 order: 5
-title: 'ISUÄRATAJAD / APPETIZERS '
+title: ISUÄRATAJAD / APPETIZERS -(copy)
 slug: Viimsi
 in_nav: false
 
