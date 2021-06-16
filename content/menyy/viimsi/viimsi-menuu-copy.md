@@ -2,7 +2,7 @@
 order: 5
 title: 'ISUÄRATAJAD / APPETIZERS '
 slug: Viimsi
-in_nav: true
+in_nav: false
 
 ---
 ISUÄRATAJAD
