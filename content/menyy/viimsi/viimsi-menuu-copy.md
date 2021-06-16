@@ -5,8 +5,6 @@ slug: Viimsi
 in_nav: false
 
 ---
-ISUÄRATAJAD
-
 **Grillitud mais ürdivõiga**  **3,50**
 
 > <span class="vege"></span><span class="vegan">
