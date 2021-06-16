@@ -2,7 +2,7 @@
 order: 5
 title: BAOD
 slug: Viimsi
-in_nav: false
+in_nav: true
 
 ---
 **Krõbekana ja kimchiga 8,00**
