@@ -25,9 +25,9 @@ kukkel, 100% veiselihapihv, kitsejuust, Uulitsa ürdimajonees, sinepi-mee kaste,
 
 **Vegeburger portobello seente ja kitsejuustuga**  **8,90**
 
-kukkel, portobello-seened, kitsejuust, Uulitsa vegan-raita majonees, sinepi-mee kaste, jääsalat, tomat,
+kukkel, portobello-seened, kitsejuust, Uulitsa vegan-raita majonees, sinepi-mee kaste, jääsalat, tomat, salatisibul
 
-salatisibul
+> <span class="vege"></span><span class="vegan">
 
 **Krõbekana burger coleslaw salatiga 8,90**
 
@@ -35,9 +35,7 @@ kukkel, krõbekana, sriracha majonees, coleslaw, salati-mix, salatisibul
 
 **Veiselihaburger soolakaramelli ja peekoniga 8,90**
 
-kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, salatisibul, rukola,
-
-soolakaramelli kaste
+kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, salatisibul, rukola, soolakaramelli kaste
 
 **Veiselihaburger veinise sibulamoosiga 9,00**
 
