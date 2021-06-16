@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 2
 title: GRILLVÕIKUD / TOASTS
 slug: Viimsi
 in_nav: false
