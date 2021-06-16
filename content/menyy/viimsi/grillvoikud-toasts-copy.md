@@ -1,14 +1,14 @@
 ---
 order: 5
-title: GRILLVÕIKUD / TOASTS-(copy)
+title: BAOD
 slug: Viimsi
 in_nav: false
 
 ---
-**_Pulled pork toast_ karamellise sibula ja sriracha majoneesiga  9,00**
+**Krõbekana ja kimchiga 8,00**
 
-Brioche sai, rebitud sealiha, sriracha majonees, karamelline sibul, jääsalat, gouda juust, kimchi
+Aasiapärane aurukukkel krõbeda kanaliha, sriracha majoneesi ja kimchiga
 
-**Caesari krõbe kreveti _toast_ 9,00**
+**Tiigerkreveti – Caesari 8,00**
 
-Brioche sai, krõbedad tiigerkrevetid, sojasiirup, rooma salat, Caesari kaste, tomat
+Aasiapärane aurukukkel, tiigerkrevetid, Caesari kaste, rooma salat, parmesan
