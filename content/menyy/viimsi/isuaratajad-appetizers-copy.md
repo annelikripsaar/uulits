@@ -2,7 +2,7 @@
 order: 5
 title: GRILLVÕIKUD / TOASTS
 slug: Viimsi
-in_nav: false
+in_nav: true
 
 ---
 **_Pulled pork toast_ karamellise sibula ja sriracha majoneesiga  9,00**
