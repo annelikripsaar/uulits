@@ -9,6 +9,8 @@ in_nav: false
 
 Brioche sai, rebitud sealiha, sriracha majonees, karamelline sibul, jääsalat, gouda juust, kimchi
 
+<span class="spicy"></span>
+
 **Caesari krõbe kreveti _toast_ 9,00**
 
 Brioche sai, krõbedad tiigerkrevetid, sojasiirup, rooma salat, Caesari kaste, tomat
