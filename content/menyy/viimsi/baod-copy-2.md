@@ -2,7 +2,7 @@
 order: 5
 title: LISANDID
 slug: Viimsi
-in_nav: true
+in_nav: false
 
 ---
 **Käsitööleib** **0,60**
