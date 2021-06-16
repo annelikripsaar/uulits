@@ -9,6 +9,8 @@ ISUÄRATAJAD
 
 **Grillitud mais ürdivõiga**  **3,50**
 
+> <span class="vege"></span><span class="vegan">
+
 **Uulitsa käsitöökartulid** cheddar-juustuga **4,50**
 
 cheddar-juustu ja jalapenodega  **4,50**
