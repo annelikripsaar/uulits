@@ -1,14 +1,20 @@
 ---
 order: 5
-title: BAOD-(copy)
+title: LISANDID
 slug: Viimsi
 in_nav: false
 
 ---
-**Krõbekana ja kimchiga 8,00**
+**Käsitööleib** **0,60**
 
-Aasiapärane aurukukkel krõbeda kanaliha, sriracha majoneesi ja kimchiga
+**Peekon/juust/jalapeno** **1,00**
 
-**Tiigerkreveti – Caesari 8,00**
+**Lisapihv** **3,00**
 
-Aasiapärane aurukukkel, tiigerkrevetid, Caesari kaste, rooma salat, parmesan
+**Lisapihv + väikesed käsitöökartulid** **4,50**
+
+**Lisakaste** **2,00**
+
+Uulitsa ürdimajonees, Uulitsa ketšup, sriracha majonees, sibulamoos, cheddar-juustu kaste jt
+
+**Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.** 
