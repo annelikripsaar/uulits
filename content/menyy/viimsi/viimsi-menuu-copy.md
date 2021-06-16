@@ -13,7 +13,7 @@ ISUÄRATAJAD
 
 **Uulitsa käsitöökartulid** cheddar-juustuga **4,50**
 
-cheddar-juustu ja jalapenodega  **4,50**
+cheddar-juustu ja jalapenodega  **4,50** <span class="spicy"></span>
 
 trühvlimajoneesi ja parmesaniga **4,50**
 
@@ -21,9 +21,13 @@ trühvlimajoneesi ja parmesaniga **4,50**
 
 **Uulitsa käsitöökartulid kimchi, original ja sriracha majoneesiga  5,00**
 
+<span class="spicy"></span>
+
 **Uulitsa käsitöökartulid rebitud sealihaga**  **7,00**
 
 cheddar juust, sriracha majonees, punased ja rohelised jalapenod, rebitud sealiha, roheline sibul
+
+<span class="spicy"></span>
 
 **Uulitsa käsitöökartulid juustuse hakklihaga 7,00**
 
