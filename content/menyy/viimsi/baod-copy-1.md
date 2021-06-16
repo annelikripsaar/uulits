@@ -1,14 +1,10 @@
 ---
 order: 5
-title: BAOD-(copy)
+title: MIDAGI MAGUSAT / SOMETHING SWEET
 slug: Viimsi
 in_nav: false
 
 ---
-**Krõbekana ja kimchiga 8,00**
+**Uulitsa käsitöövahvel 4,50**
 
-Aasiapärane aurukukkel krõbeda kanaliha, sriracha majoneesi ja kimchiga
-
-**Tiigerkreveti – Caesari 8,00**
-
-Aasiapärane aurukukkel, tiigerkrevetid, Caesari kaste, rooma salat, parmesan
+Belgia vahvel soolakaramelli, laimi-toorjuustukreemi ja värske toormoosiga
