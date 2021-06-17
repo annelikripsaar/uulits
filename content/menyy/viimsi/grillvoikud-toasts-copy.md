@@ -1,8 +1,10 @@
 ---
 order: 5
 title: BAOD
-slug: Viimsi
+slug: baod
 in_nav: false
+parent_slug: viimsi
+new: false
 
 ---
 **Krõbekana ja kimchiga 8,00**
