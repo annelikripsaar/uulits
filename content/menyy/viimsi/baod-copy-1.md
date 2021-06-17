@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 6
 title: MIDAGI MAGUSAT / SOMETHING SWEET
 slug: midagi-magusat
 in_nav: false
