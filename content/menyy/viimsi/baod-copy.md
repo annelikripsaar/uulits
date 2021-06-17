@@ -1,8 +1,10 @@
 ---
 order: 5
 title: GURMEEBURGERID / GOURMET BURGERS
-slug: Viimsi
+slug: gurmeeburgerid
 in_nav: false
+parent_slug: viimsi
+new: false
 
 ---
 **Uulitsa burger 7,50**
