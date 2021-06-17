@@ -1,8 +1,10 @@
 ---
 order: 5
 title: MIDAGI MAGUSAT / SOMETHING SWEET
-slug: Viimsi
+slug: midagi-magusat
 in_nav: false
+parent_slug: viimsi
+new: false
 
 ---
 **Uulitsa käsitöövahvel 4,50**
