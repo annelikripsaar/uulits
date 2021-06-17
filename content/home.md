@@ -6,7 +6,7 @@ in_nav: false
 ---
 > Kallid kliendid!
 
-Juba juunikuus avame Uulitsad Viimsi Keskuses, Sõpruse tee 15, Haabneeme, ning Pärnu Rannapargis.
+Just oleme avanud Uulitsa Viimsi Keskuses, Sõpruse tee 15, Haabneeme, ning oleme avamas Pärnu Rannapargis.
 
 Samuti ehitame uut, paremat ja suuremat Kadaka Uulitsat aadressil Kadaka tee 135a, Tallinn. Maja valmimiseni teenindab teid meie foodtruck.
 
