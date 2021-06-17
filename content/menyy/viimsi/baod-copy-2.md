@@ -19,4 +19,4 @@ new: false
 
 Uulitsa ürdimajonees, Uulitsa ketšup, sriracha majonees, sibulamoos, cheddar-juustu kaste jt
 
-**Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.** 
+**Kõiki kastmeid saab asendada vegan raita kastmega.**
