@@ -1,8 +1,10 @@
 ---
 order: 5
 title: LISANDID
-slug: Viimsi
+slug: lisandid
 in_nav: false
+parent_slug: viimsi
+new: false
 
 ---
 **Käsitööleib** **0,60**
