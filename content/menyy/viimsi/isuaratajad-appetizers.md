@@ -1,9 +1,9 @@
 ---
-slug: Viimsi
+slug: isuaratajad
 title: 'ISUÄRATAJAD / APPETIZERS '
 order: 1
 in_nav: false
-parent_slug: Viimsi
+parent_slug: viimsi
 new: false
 
 ---
