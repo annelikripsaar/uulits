@@ -1,7 +1,7 @@
 ---
 title: Kadaka tänavagurmee
 slug: kadakakontakt
-order: 2
+order: 1
 in_nav: false
 address: Kadaka tee 135A, Tallinn 12915
 address_extra: Uulitsa logoga maja Kadaka Selveri vastas
