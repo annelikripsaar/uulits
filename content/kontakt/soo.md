@@ -1,7 +1,7 @@
 ---
 title: Soo tänavagurmee
 slug: sookontakt
-order: 1
+order: 2
 in_nav: false
 address: Soo tn 1B/6, Tallinn 10414
 address_extra: Kalamaja ja vanalinna piiril
