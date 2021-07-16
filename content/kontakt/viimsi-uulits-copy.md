@@ -1,14 +1,13 @@
 ---
-title: Viimsi Uulits-(copy)
-slug: viimsikontakt
-order: 
+title: Pärnu Uulits
+slug: parnukontakt
+order: 6
 in_nav: false
-address: Sõpruse tee 15, Haabneeme, Viimsi, Harjumaa
-address_extra: Viimsi Keskuse I korrus
-lat: 59.504739
+address: Lehe tn -  Supeluse tn, Pärnu
+address_extra: Rannapark
+lat: 58.504739
 lng: 24.827066
 
 ---
-Tel 58 60 08 81  
-**E-L** kell 11.00-22.00  
-**P** kell 11.00-21.00
+Tel 51 11 16 49  
+**E-P** kell 12.00-00.00
