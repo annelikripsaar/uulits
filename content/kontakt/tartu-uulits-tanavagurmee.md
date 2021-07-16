@@ -1,7 +1,7 @@
 ---
 title: Tartu Uulits tänavagurmee
 slug: tartukontakt
-order: 4
+order: 5
 in_nav: false
 address: Rüütli 7, Tartu 51005
 address_extra: KAMPUS
