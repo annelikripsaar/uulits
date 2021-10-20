@@ -18,7 +18,7 @@ new: false
 
 **Pesto ja kitsejuustuga / With pesto and goat cheese**  
 **11,90 €**  
-<span class="koostis">TomatikasteNisutortilla, krõbekana, Uulitsa feta-juustu kreem päikesekuivatatud tomatitega, värske kapsas, salatisibul, tomat, kõrvitsaseemned. Durum tortilla, chicken fillet, Uulits feta-cheese cream with , pesto, päikesekuivatatud sun dried tomatos, fresh cabbage, pickled red onions, tomato, roasted pumpkin seeds</span>
+<span class="koostis">Tomatikaste, pesto, kitsejuust, päikesekuivatatud tomatid, seedermänni seemned. Tomato sauce, pesto, goat cheese, sun dried tomatos, cedar seeds</span>
 
 **Prosciutto ja parmesaniga / With prosciutto and parmesan**  
 **11,90 €**
