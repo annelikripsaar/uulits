@@ -58,10 +58,10 @@ Crispy Chickenburger**
 **9,00 €**  
 <span class="koostis">Kukkel, krõbekana, sriracha majonees, coleslaw salat. teriyaki kaste, salatisibul. Bun, crispy chicken, coleslaw, sriracha mayonnaise, teriyaki sauce, onion.</span>
 
-Soolakaramelli ja peekoniga burger /  
-Burger with bacon and salted caramel  
+**Trühvlimajoneesi ja peekoniga burger /  
+Burger with bacon and truffle mayonnaise**  
 **9,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rucola, salatisibul, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, rucola, bacon, onions, salted caramel sauce</span>
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmentali juust, peekon, salati-mix, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, Uulits' truffle mayonnaise, Emmental cheese, salad-mix, bacon, onions, pickles</span>
 
 Veinise sibulamoosiga burger /  
 Red onion jam burger  
