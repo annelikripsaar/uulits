@@ -9,22 +9,13 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Meie jookide valiku kohta küsi lisa teenindajalt! 
+> Meie jookide valiku kohta küsi lisa teenindajalt!
 
 Kohv / Coffee  
-**2,00 €**
-
-Espresso  
-**2,00 €**
-
-Latte  
 **2,50 €**
 
-Cappuccino  
-**2,50 €**
-
-Tee / Tea  
-**1,50 €**
+Tee tassis / kannus    Tea in cup/in jug  
+**1,90 €/ 3.90 €**
 
 ON Lemon limonaadid / lemonades  
 **3,30 €**
