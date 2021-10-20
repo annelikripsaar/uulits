@@ -63,9 +63,9 @@ Burger with bacon and truffle mayonnaise**
 **9,00 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmentali juust, peekon, salati-mix, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, Uulits' truffle mayonnaise, Emmental cheese, salad-mix, bacon, onions, pickles</span>
 
-Veinise sibulamoosiga burger /  
-Red onion jam burger  
-**8,90 €**  
+**Veinise sibulamoosiga burger /  
+Red onion jam burger**  
+**9,00 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, tomat, veinine sibulamoos Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, tomato, red onion jam</span>
 
 <span class="special"></span> Beyond burger  
