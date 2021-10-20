@@ -46,6 +46,11 @@ Blue cheese burger**
 **Soolakaramelli ja peekoniga burger /  
 Burger with bacon and salted caramel**  
 **8,90 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rucola, salatisibul, soolakaramelli kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, rucola, bacon, onions, salted caramel sauce, pickles</span>
+
+**Rebitud sealiha burger coleslaw salatiga /  
+Pulled pork burger with coleslaw**   
+**8,90 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rucola, salatisibul, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, rucola, bacon, onions, salted caramel sauce</span>
 
 <span class="special"></span> <span class="spicy"></span> **Krõbekanaburger /  
