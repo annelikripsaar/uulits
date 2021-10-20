@@ -31,26 +31,26 @@ new: false
 **Magusa sinepi kastmega burger /  
 Burger with sweet mustard sauce**  
 **8,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, salati-mix, salatisibul, tomat, magus sinepikaste, marineeritud kurk.  Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, salad-mix, salad onion, tomato, Uulits sweet mustard sauce, pickels</span>
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, salati-mix, salatisibul, tomat, magus sinepikaste, marineeritud kurk.  Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, salad-mix, salad onion, tomato, Uulits sweet mustard sauce, pickles</span>
 
 **Topeltjuustuburger /  
 Double cheeseburger**  
-**7,50 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, 2x cheddar juust, salati-mix, salatisibul, tomat, ketšup Bun, 100% angus beef patty, Uulits herb mayonnaise, 2x cheddar cheese, salad-mix, onion, tomato, Uulits ketchup</span>
-
-Sinihallitusjuustu burger /  
-Blue cheese burger  
-**8,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, salati-mix, salatisibul, tomat, Uulitsa ketšup Bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, salad-mix, onion, tomato, ketchup</span>
-
-Sinepi-meekastmega burger /  
-Burger with honey-mustard sauce  
-**8,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, salati-mix, salatisibul, tomat, sinepi-mee kaste Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, onion, tomato, Uulits honey-mustard sauce</span>
-
-<span class="special"></span> <span class="spicy"></span> Krõbekanaburger /  
-Crispy Chickenburger  
 **8,50 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, 2x cheddar juust, salati-mix, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk.  Bun, 100% angus beef patty, Uulits herb mayonnaise, 2x cheddar cheese, salad-mix, onion, tomato, Uulits ketchup, pickles</span>
+
+**Sinihallitusjuustu burger /  
+Blue cheese burger**  
+**8,90 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, salati-mix, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk.  Bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, salad-mix, onion, tomato, ketchup, pickles</span>
+
+**Soolakaramelli ja peekoniga burger /  
+Burger with bacon and salted caramel**  
+**8,90 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rucola, salatisibul, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, rucola, bacon, onions, salted caramel sauce</span>
+
+<span class="special"></span> <span class="spicy"></span> **Krõbekanaburger /  
+Crispy Chickenburger**  
+**9,00 €**  
 <span class="koostis">Kukkel, krõbekana, sriracha majonees, coleslaw, salati-mix, salatisibul. Bun, crispy chicken, coleslaw, sriracha mayonnaise, salad-mix, onion.</span>
 
 Soolakaramelli ja peekoniga burger /  
