@@ -28,6 +28,11 @@ new: false
 8,00 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmnetal cheese, coleslaw salad, salad onions, pickles</span>
 
+**Magusa sinepi kastmega burger /  
+Burger with sweet mustard sauce**  
+**8,00 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, salati-mix, salatisibul, tomat, magus sinepikaste, marineeritud kurk.  Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, salad-mix, salad onion, tomato, Uulits sweet mustard sauce, pickels</span>
+
 **Topeltjuustuburger /  
 Double cheeseburger**  
 **7,50 €**  
