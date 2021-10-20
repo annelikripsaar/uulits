@@ -9,7 +9,9 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Meie pitsad valmivad 24h kääritatud taignast ning puuküttega ahjus 450°C juures.
+> Meie pitsad valmivad 24h kääritatud taignast ning puuküttega ahjus 450°C juures. 
+>
+> Telli juurde pitsa ääre kaste!
 
 **Tomatikastme ja mozzarellaga / With tomato sauce and mozzarella**  
 **8,50 €**
