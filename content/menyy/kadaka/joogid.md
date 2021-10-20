@@ -17,11 +17,11 @@ Kohv / Coffee
 Tee tassis / kannus    Tea in cup/in jug  
 **1,90 €/ 3.90 €**
 
-ON Lemon limonaadid / lemonades  
-**3,30 €**
+ON Lemon naturaalsed limonaadid / natural lemonades  
+**3,50 €**
 
 Fritz limonaadid / lemonades  
-**3,30 €**
+**3,50 €**
 
 Dagö Berry mahlajoogid /juice drinks  
 **3,50 €**
