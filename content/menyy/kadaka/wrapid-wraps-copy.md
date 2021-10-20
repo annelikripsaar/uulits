@@ -42,4 +42,4 @@ new: false
 
 **Pitsa ääre kaste/ Pizza sauce**   
 **2 €**  
-<span class="koostis">Trühvlimajonees, basiilikumajonees, sidrunimajonees. Truffle om
+<span class="koostis">Trühvlimajonees, basiilikumajonees, sidrunimajonees. Truffle mayonnaise, basil mayonnaise, lemon mayonnaise</span>
