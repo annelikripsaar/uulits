@@ -9,7 +9,9 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada salati või wrapiga. Kõiki burgereid saab tellida lisapihviga. Lisapihv 3 €.
+> Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada käsitööleiva, salati või wrapiga. 
+>
+> Kõiki burgereid saab tellida lisapihviga. Lisapihv 3 €.
 >
 > Kaasa ostes lisandub pakenditasu 0.40.
 >
@@ -22,12 +24,12 @@ new: false
 > > >
 > > > <span class="vege"></span><span class="vegan"></span>
 
-<span class="special"></span> Uulitsa burger  
-**7,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw. Bun, 100% angus beef patty, fresh cabbage-feta cheese- mix, Uulits herb mayonnaise, onions, ketchup</span>
+<span class="special"></span> **Uulitsa burger  
+8,00 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmnetal cheese, coleslaw salad, salad onions, pickles</span>
 
-Topeltjuustuburger /  
-Double cheeseburger  
+**Topeltjuustuburger /  
+Double cheeseburger**  
 **7,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, 2x cheddar juust, salati-mix, salatisibul, tomat, ketšup Bun, 100% angus beef patty, Uulits herb mayonnaise, 2x cheddar cheese, salad-mix, onion, tomato, Uulits ketchup</span>
 
