@@ -66,11 +66,11 @@ Burger with bacon and truffle mayonnaise**
 **Veinise sibulamoosiga burger /  
 Red onion jam burger**  
 **9,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, tomat, veinine sibulamoos Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, tomato, red onion jam</span>
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, tomat, veinine sibulamoos, marineeritud kurk.  Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, tomato, red onion jam, pickles</span>
 
-<span class="special"></span> Beyond burger  
-**8,90 €**  
-<span class="koostis">Vegan kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, salati-mix, tomat, salatisibul. Vegan bun, beyond patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, onion, salad-mix</span><span class="vegan"></span>
+<span class="special"></span> **Vegan - Beyond burger**   
+**9,00 €**  
+<span class="koostis">Vegan kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, salati-mix, tomat, salatisibul, marineeritud kurk. Vegan bun, beyond patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, onion, salad-mix, pickles</span><span class="vegan"></span>
 
 <span class="spicy"></span> Vürtsikas chorizo-burger /  
 Spicy chorizo-burger  
