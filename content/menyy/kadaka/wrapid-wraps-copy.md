@@ -28,6 +28,10 @@ new: false
 **12,50 €**  
 <span class="koostis">Tomatikaste, prosciutto, trühvlikreem, mozzarella, rukola. Tomato sauce, prosciutto, truffle cream, mozzarella cheese, rucola</span>
 
+**Gorgonzola ja prosciutto cotto/ With gorgonzola and prosciutto cotto**  
+**12,50 €**  
+<span class="koostis">Tomatikaste, prosciutto cotto, gorgonzola juust, mozzarella, viigimari, kreega pähkel, rukola. Tomato sauce, prosciutto cotto, gorgonzola, mozzarella cheese, figs, walnuts, rucola</span>
+
 <span class="spicy"></span>
 Kanawrap /
 Chicken wrap  
