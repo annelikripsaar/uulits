@@ -77,7 +77,7 @@ Spicy chorizo-burger**
 **9,00 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, salatisibul, chorizo-kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, onion, chorizo sauce, pickles</span>
 
-Sai-pihv-sai /  
-Bun-Patty-Bun  
+**Sai-pihv-sai lastele /  
+Bun-Patty-Bun for kids**  
 **6,00 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, cheddar juustu kaste, Uulitsa ürdimajonees, Uulitsa ketšup. Bun, 100% angus beef patty, cheddar cheese sauce, Uulits herb mayonnaise and ketchup</span>
