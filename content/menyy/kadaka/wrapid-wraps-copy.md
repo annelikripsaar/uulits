@@ -32,10 +32,8 @@ new: false
 **12,50 €**  
 <span class="koostis">Tomatikaste, prosciutto cotto, gorgonzola juust, mozzarella, viigimari, kreega pähkel, rukola. Tomato sauce, prosciutto cotto, gorgonzola, mozzarella cheese, figs, walnuts, rucola</span>
 
-<span class="spicy"></span>
-Kanawrap /
-Chicken wrap  
-**7,90 €**  
+<span class="spicy"></span> **Salaami ja oliividega / With salami and olives**  
+**11,90 €**  
 <span class="koostis">Nisutortilla, krõbekana, Uulitsa feta-juustu kreem päikesekuivatatud tomatitega, värske kapsas, salatisibul, tomat, kõrvitsaseemned. Durum tortilla, chicken fillet, Uulits feta-cheese cream with sun dried tomatos, fresh cabbage, pickled red onions, tomato, roasted pumpkin seeds</span>
 
 Beyond wrap  
