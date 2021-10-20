@@ -56,7 +56,7 @@ Pulled pork burger with coleslaw**
 <span class="special"></span> <span class="spicy"></span> **Krõbekanaburger /  
 Crispy Chickenburger**  
 **9,00 €**  
-<span class="koostis">Kukkel, krõbekana, sriracha majonees, coleslaw salat. teriyaki kaste, salatisibul. Bun, crispy chicken, coleslaw, sriracha mayonnaise, salad-mix, onion.</span>
+<span class="koostis">Kukkel, krõbekana, sriracha majonees, coleslaw salat. teriyaki kaste, salatisibul. Bun, crispy chicken, coleslaw, sriracha mayonnaise, teriyaki sauce, onion.</span>
 
 Soolakaramelli ja peekoniga burger /  
 Burger with bacon and salted caramel  
