@@ -6,13 +6,11 @@ in_nav: false
 ---
 > Kallid kliendid!
 
-Just oleme avanud Uulitsa Viimsi Keskuses, Sõpruse tee 15, Haabneeme, ning Pärnu Rannapargis.
+Meie uhiuus, parem ja suurem Kadaka Uulits aadressil Kadaka tee 135a, Tallinn, on kohe-kohe valmis! Maja lõpliku avamiseni klientidele pakume kaasamüüki.
 
-Samuti oleme kohe-kohe avamas uut, paremat ja suuremat Kadaka Uulitsat aadressil Kadaka tee 135a, Tallinn. Maja valmimiseni teenindab teid meie foodtruck.
+Tule meie juurde nautima ehtsat Eesti tänavatoitu aastast 2014:  friikaid värsketest kodumaistest kartulitest, mahlaseid veiselihapihve käsitsi valmistatud krõbedate kuklite vahel ja imemaitsvaid lihamoose ja kastmeid, mis on valminud meie köögis. Viimsi Uulitsas pakume lisaks aasiapäraseid baosid ning Kadaka Uulitsas uudisena pitsat.
 
-Tule meie juurde nautima ehtsat Eesti tänavatoitu aastast 2014:  friikaid värsketest kodumaistest kartulitest, mahlaseid veiselihapihve käsitsi valmistatud krõbedate kuklite vahel ja imemaitsvaid lihamoose ja kastmeid, mis on valminud meie köögis.
-
-> Ootame Sind Uulitsates Tallinnas, Tartus ja suviti ka Pärnus!
+> Ootame Sind Uulitsates Tallinnas Kadakas, Kalamajas ja Viimsis, Tartu südalinnas ja suviti Pärnu Rannapargis!
 
 ![](uploads/uulitsapoisid.png)
 
