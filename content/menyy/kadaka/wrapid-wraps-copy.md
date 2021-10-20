@@ -40,6 +40,6 @@ new: false
 **11,90 €**  
 <span class="koostis">Tomatikaste, prosciutto cotto, mozzarella, parmesan, Caesari salat, Caesari kaste, balsamico.  Tomato sauce, prosciutto cotto, mozzarella, parmesan, Caesar salad, Caesar sauce, balsamico</span>
 
-**Pitsa ääre kaste/ Pizza sauce**   
+**Pitsa ääre kaste/ Sause for pizza crust**   
 **2 €**  
 <span class="koostis">Trühvlimajonees, basiilikumajonees, sidrunimajonees. Truffle mayonnaise, basil mayonnaise, lemon mayonnaise</span>
