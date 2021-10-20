@@ -40,8 +40,5 @@ Käsitöö-siider - erinevad / Craft cider
 **4,50 €**
 <span class="koostis">Tähelepanu! Tegemist on alkoholiga. Alkohol võib kahjustada teie tervist.</span>
 
-Kali/Kvass  
-**3,50 €**
-
 Vesi pudelis / Bottled water  
 **2,50 €**
