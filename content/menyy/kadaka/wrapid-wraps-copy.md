@@ -1,6 +1,6 @@
 ---
 slug: pitsad
-title: NAPOLI STIILIS PITSAD / PIZZAS BY NAPOLI
+title: NAPOLI STIILIS PITSAD / PIZZAS A LA NAPOLI
 order: 3
 in_nav: false
 parent_slug: kadaka
@@ -9,7 +9,7 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Mõnusalt kerged, kuid toitvad!
+> Meie pitsad valmivad puuküttega ahjus 450°C juures.
 
 <span class="spicy"></span>
 Kanawrap /
