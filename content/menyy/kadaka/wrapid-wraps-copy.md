@@ -39,3 +39,7 @@ new: false
 **Caesari Prosciutto cotto / With Caesar Prosciutto cotto**  
 **11,90 €**  
 <span class="koostis">Tomatikaste, prosciutto cotto, mozzarella, parmesan, Caesari salat, Caesari kaste, balsamico.  Tomato sauce, prosciutto cotto, mozzarella, parmesan, Caesar salad, Caesar sauce, balsamico</span>
+
+**Pitsa ääre kaste/ Pizza sauce**   
+**2 €**  
+<span class="koostis">Trühvlimajonees, basiilikumajonees, sidrunimajonees. Truffle om
