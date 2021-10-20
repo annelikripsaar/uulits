@@ -33,11 +33,11 @@ CocaCola / Fanta /Fuze Tea
 **2,50 €**
 
 Käsitöö-õlled - erinevad / Craft beer  
-**3,90 €**
+**4,50 €**
 <span class="koostis">Tähelepanu! Tegemist on alkoholiga. Alkohol võib kahjustada teie tervist.</span>
 
 Käsitöö-siider - erinevad / Craft cider  
-**3,50 €**
+**4,50 €**
 <span class="koostis">Tähelepanu! Tegemist on alkoholiga. Alkohol võib kahjustada teie tervist.</span>
 
 Kali/Kvass  
