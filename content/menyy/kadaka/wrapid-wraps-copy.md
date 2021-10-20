@@ -1,6 +1,6 @@
 ---
-slug: wrapid
-title: WRAPID / WRAPS-(copy)
+slug: pitsad
+title: NAPOLI STIILIS PITSAD / PIZZAS BY NAPOLI
 order: 3
 in_nav: false
 parent_slug: kadaka
