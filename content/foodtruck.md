@@ -10,6 +10,6 @@ extra: Firmapeod, pulmad ja muud üritused, kus sinu arvates peaks Uulits rahva 
 ---
 # Food Truck
 
-Kallid kliendid! Meil on hea meel teada anda, et meie food truckid vuravad ringi mööda suveüritusi ning teenindavad teid Kadaka Uulitsa uue maja avamiseni ka aadressil Kadaka tee 135a, Tallinn.
+Kallid kliendid! 
 
-Loodame teie mõistvale suhtumisele, sest sellega seoses on ka Kadaka Uulitsa menüü praegu lühem, koosnedes ainult meie klientide lemmikutest.
+Meil on hea meel teada anda, et meie foodtruckid vuravad ringi mööda üritusi ning teenindavad teid soovi korral ka eraüritustel .
