@@ -54,6 +54,18 @@ Uulits potato wedges with kimchi, sriracha and original mayonnaise
 Uulits sweet potato wedges with kimchi, sriracha and original  mayonnaise  
 **6,50 €**
 
+**Uulitsa käsitöökartulid rebitud sealihaga**  **7,00**
+
+<div class="ellipsis"></div>
+
+> cheddar juust, sriracha majonees, punased ja rohelised jalapenod, rebitud sealiha, roheline sibul
+
+<span class="spicy"></span>
+
+**Uulitsa käsitöökartulid juustuse hakklihaga 7,00**
+
+cheddar juust, juustukaste, majonees, hakkliha, salatisibul, roheline sibul
+
 Lisapihv /  
 Extra patty  
 **3,00 €**
