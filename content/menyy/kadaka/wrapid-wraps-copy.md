@@ -11,6 +11,16 @@ new: false
 
 > Meie pitsad valmivad puuküttega ahjus 450°C juures.
 
+**Tomatikastme ja mozzarellaga / With tomato sauce and mozzarella**   
+**8,50 €**
+
+**Pesto ja kitsejuustuga / With pesto and goat cheese**   
+**11,90 €**  
+<span class="koostis">TomatikasteNisutortilla, krõbekana, Uulitsa feta-juustu kreem päikesekuivatatud tomatitega, värske kapsas, salatisibul, tomat, kõrvitsaseemned. Durum tortilla, chicken fillet, Uulits feta-cheese cream with , pesto, päikesekuivatatud sun dried tomatos, fresh cabbage, pickled red onions, tomato, roasted pumpkin seeds</span>
+
+**Prosciutto ja parmesaniga / With prosciutto and parmesan**   
+**11,90 €**
+
 <span class="spicy"></span>
 Kanawrap /
 Chicken wrap  
