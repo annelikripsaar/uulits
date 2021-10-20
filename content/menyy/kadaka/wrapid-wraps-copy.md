@@ -34,7 +34,7 @@ new: false
 
 <span class="spicy"></span> **Salaami ja oliividega / With salami and olives**  
 **11,90 €**  
-<span class="koostis">Nisutortilla, krõbekana, Uulitsa feta-juustu kreem päikesekuivatatud tomatitega, värske kapsas, salatisibul, tomat, kõrvitsaseemned. Durum tortilla, chicken fillet, Uulits feta-cheese cream with sun dried tomatos, fresh cabbage, pickled red onions, tomato, roasted pumpkin seeds</span>
+<span class="koostis">Tomatikaste, salaami, mozzarella, oliivid, rukola. Tomato sauce, salami, mozzarella, olives,  rucola</span>
 
 Beyond wrap  
 **7,90 €**  
