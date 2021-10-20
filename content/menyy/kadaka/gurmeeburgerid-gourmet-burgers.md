@@ -72,10 +72,10 @@ Red onion jam burger**
 **9,00 €**  
 <span class="koostis">Vegan kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, salati-mix, tomat, salatisibul, marineeritud kurk. Vegan bun, beyond patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, onion, salad-mix, pickles</span><span class="vegan"></span>
 
-<span class="spicy"></span> Vürtsikas chorizo-burger /  
-Spicy chorizo-burger  
+<span class="spicy"></span> **Vürtsikas chorizo-burger /  
+Spicy chorizo-burger**  
 **9,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, salatisibul, chorizo-kaste. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, onion, chorizo sauce</span>
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, salatisibul, chorizo-kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, onion, chorizo sauce, pickles</span>
 
 Sai-pihv-sai /  
 Bun-Patty-Bun  
