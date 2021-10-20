@@ -36,6 +36,6 @@ new: false
 **11,90 €**  
 <span class="koostis">Tomatikaste, salaami, mozzarella, oliivid, rukola. Tomato sauce, salami, mozzarella, olives,  rucola</span>
 
-Beyond wrap  
-**7,90 €**  
-<span class="koostis">Nisutortilla, taimsest lihast pihv, vegan chipotle majonees, salati-mix, salatisibul, tomat. Durum tortilla, beyond patty, vegan chipotle mayonnaise, salad-mix, tomato, onion</span> <span class="vegan"></span>
+**Caesari Prosciutto cotto / With Caesar Prosciutto cotto**  
+**11,90 €**  
+<span class="koostis">Tomatikaste, prosciutto cotto, mozzarella, parmesan, Caesari salat, Caesari kaste, balsamico.  Tomato sauce, prosciutto cotto, mozzarella, parmesan, Caesar salad, Caesar sauce, balsamico</span>
