@@ -13,12 +13,12 @@ new: false
 
 Uulitsa käsitöökartulid cheddar-juustuga /  
 Uulits handmade potato wedges with cheddar cheese sauce  
-**4,00 €**  
+**4,50 €**  
 <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
 Uulitsa bataadifriikad cheddar-juustuga /  
 Uulits sweet potato wedges with cheddar sauce  
-**5,00 €**  
+**5,50 €**  
 <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
 > </span>
@@ -32,18 +32,10 @@ Uulits sweet potato wedges with cheddar sauce
 
 Spicy potato wedges with cheddar and jalapenos
 
-**4,00 €**
+**4,50 €**
 
 <span class="spicy"></span> Vürtsikad bataadifriikad cheddar-juustu ja jalapenodega /  
 Spicy sweet potato wedges with cheddar and jalapenos  
-**5,00 €**
-
-Uulitsa käsitöökartulid ketšupi ja majoneesiga /  
-Uulits potato wedges with ketchup and mayonnaise  
-**4,50 €**
-
-Uulitsa bataadifriikad ketšupi ja majoneesiga /  
-Uulits sweet potato wedges with ketchup and mayonnaise  
 **5,50 €**
 
 Uulitsa käsitöökartulid trühvlimajoneesi ja parmesaniga /  
@@ -53,6 +45,14 @@ Uulits handmade potato wedges with truffle mayonnaise and parmesan
 Uulitsa bataadifriikad trühvlimajoneesi ja parmesaniga /  
 Uulits handmade sweet potato wedges with truffle mayonnaise and parmesan   
 **5,50 €**
+
+<span class="spicy"></span>Uulitsa  käsitöökartulid kimchi, sriracha ja original majoneesiga /  
+Uulits potato wedges with kimchi, sriracha and original mayonnaise  
+**5,50 €**
+
+<span class="spicy"></span>Uulitsa  bataadifriikad kimchi, sriracha ja original majoneesiga /  
+Uulits sweet potato wedges with kimchi, sriracha and original  mayonnaise  
+**6,50 €**
 
 Lisapihv /  
 Extra patty  
@@ -65,10 +65,10 @@ Peekon / juust / jalapeno
 Kastmed /  
 Sauces  
 **2 €**  
-<span class="koostis">Ketšup, ürdimajonees, trühvlimajonees, cheddar juustu kaste, sibulamoos, chorizo kaste jne / 
+<span class="koostis">Ketšup, ürdimajonees, trühvlimajonees, cheddar juustu kaste, sibulamoos, chorizo kaste jne /
 
 Uulits herb mayonnaise, truffle mayonnaise, ketchup, chorizo sauce, cheddar cheese sauce, red onion jam etc</span>
 
-Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. / 
+Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga. /
 
 All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.
