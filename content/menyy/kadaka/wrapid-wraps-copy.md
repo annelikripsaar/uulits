@@ -21,7 +21,8 @@ new: false
 <span class="koostis">Tomatikaste, pesto, kitsejuust, päikesekuivatatud tomatid, seedermänni seemned. Tomato sauce, pesto, goat cheese, sun dried tomatos, cedar seeds</span>
 
 **Prosciutto ja parmesaniga / With prosciutto and parmesan**  
-**11,90 €**
+**11,90 €**  
+<span class="koostis">Tomatikaste, prosciutto, mozzarella, parmesan, rukola. Tomato sauce, prosciutto, mozzarella cheese, parmesan, rucola</span>
 
 <span class="spicy"></span>
 Kanawrap /
