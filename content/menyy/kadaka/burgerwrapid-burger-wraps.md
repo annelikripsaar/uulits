@@ -12,10 +12,10 @@ new: false
 > Mõnusalt kerged, kuid toitvad!
 
 <span class="spicy"></span>
-Kanawrap /
-Chicken wrap  
-**7,90 €**  
-<span class="koostis">Nisutortilla, krõbekana, Uulitsa feta-juustu kreem päikesekuivatatud tomatitega, värske kapsas, salatisibul, tomat, kõrvitsaseemned. Durum tortilla, chicken fillet, Uulits feta-cheese cream with sun dried tomatos, fresh cabbage, pickled red onions, tomato, roasted pumpkin seeds</span>
+**Kanawrap /
+Chicken wrap**  
+**9,00 €**  
+<span class="koostis">Nisutortilla, krõbekana, Uulitsa sriracha majonees, Uulitsa teriyaki kaste, coleslaw salat, salatisibul, tomat. Durum tortilla, chicken fillet, Uulits sriracha mayonnaise, Uulits teriyaki sauce, coleslaw, salad onions, tomato</span>
 
 Beyond wrap  
 **7,90 €**  
