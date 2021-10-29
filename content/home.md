@@ -16,17 +16,15 @@ Tule meie juurde nautima ehtsat Eesti tänavatoitu aastast 2014:  friikaid värs
 
 Uulitsapoisid **Artur** & **Mario**
 
-###### Meie juures on turvaline ka COVID-19 ajal!
+**Meie juures on turvaline ka COVID-19 ajal!**
 
-Kallid kliendid! 
-
-Oleme teinud omalt poolt kõik selleks, et võiksite end meie juures turvaliselt tunda: 
+Oleme teinud omalt poolt kõik selleks, et võiksite end meie juures turvaliselt tunda:
 
 * puhastame ja desinfitseerime pindu regulaarselt
 * kassade juurest leiate desovahendi
 * hoiame end kursis Terviseameti nõuetega
 * hajutame istekohti meie teenindusalades
-* ootame, et ka meie kliendid on vastutustundlikud ning järgivad kehtivaid riiklikke regulatsioone, kandes maski või kasutades alternatiivseid isikukaitsevahendeid ning ei viibi haigustunnuste ilmnedes avalikes ruumides.   
+* ootame, et ka meie kliendid on vastutustundlikud ning järgivad kehtivaid riiklikke regulatsioone, kandes maski või kasutades alternatiivseid isikukaitsevahendeid ning ei viibi haigustunnuste ilmnedes avalikes ruumides.
+
     
-  **  
-  Lisainfot kehtivate piirangute kohta leiate** [**SIIT**](https://www.kriis.ee/et/eriolukord-koroonaviirus)**.**
+  Lisainfot kehtivate piirangute kohta leiate [**SIIT**](https://www.kriis.ee/et/eriolukord-koroonaviirus)**.**
