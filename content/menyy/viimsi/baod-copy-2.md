@@ -13,8 +13,6 @@ new: false
 
 **Lisapihv** **3,00**
 
-**Lisapihv + väikesed käsitöökartulid** **4,50**
-
 **Lisakaste** **2,00**
 
 Uulitsa ürdimajonees, Uulitsa ketšup, sriracha majonees, sibulamoos, cheddar-juustu kaste jt
