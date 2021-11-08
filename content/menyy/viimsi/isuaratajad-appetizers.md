@@ -23,13 +23,13 @@ kimchi, original ja sriracha majoneesiga  **5,50** <span class="spicy"></span>
 
 cheddar-juustuga **5,50**
 
-cheddar-juustu ja jalapenodega  **5,50** <span class="spicy"></span>
+cheddar-juustu ja jalapenodega  **5,50** 
+
+<span class="spicy"></span>
 
 trühvlimajoneesi ja parmesaniga **5,50**
 
-kimchi, original ja sriracha majoneesiga  **6,50** <span class="spicy"></span>
-
-**Uulitsa käsitöökartulid kimchi, original ja sriracha majoneesiga  5,00**
+kimchi, original ja sriracha majoneesiga  **6,50** 
 
 <span class="spicy"></span>
 
@@ -45,6 +45,4 @@ kimchi, original ja sriracha majoneesiga  **6,50** <span class="spicy"></span>
 
 cheddar juust, juustukaste, majonees, hakkliha, salatisibul, roheline sibul
 
-**Krõbedad kartulipallid _Tater tots_ sriracha majoneesi ja parmesaniga** **4,90**
-
-**Krõbedad tiigerkrevetid passiooni aiooliga 7,00**
+**Käsitöö kananagitsad tartar kastme ja vanakooli kastmega 6,00**
