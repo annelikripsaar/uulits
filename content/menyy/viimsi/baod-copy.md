@@ -7,31 +7,29 @@ parent_slug: viimsi
 new: false
 
 ---
-**Uulitsa burger 7,50**
+**Uulitsa burger 8,00**
 
 kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw salat, salatisibul
 
-**Veiselihaburger topeltjuustuga** **7,90**
+**Veiselihaburger topeltjuustuga** **8,50**
 
 kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup, tomat, jääsalat, salatisibul
 
-**Veiselihaburger magusa sinepikastmega 7,90**
+**Veiselihaburger magusa sinepikastmega 8,00**
 
-kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, jääsalat, Emmentali juust, magus sinepikaste,
+kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, jääsalat, Emmentali juust, magus sinepikaste, tomat, salatisibul
 
-tomat, salatisibul
+**Veiselihaburger soolakaramelli ja peekoniga 8,90**
 
-**Veiselihaburger kitsejuustu ja sinepi-mee kastmega** **8,90**
+kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, salatisibul, rukola, soolakaramelli kaste
 
-kukkel, 100% veiselihapihv, kitsejuust, Uulitsa ürdimajonees, sinepi-mee kaste, jääsalat, salatisibul
+**Vegeburger falafeli ja sidruni aiooliga 9,00**
 
-**Vegeburger portobello seente ja kitsejuustuga**  **8,90**
-
-kukkel, portobello-seened, kitsejuust, Uulitsa vegan-raita majonees, sinepi-mee kaste, jääsalat, tomat, salatisibul
+kukkel, falafel, sidruni aiooli, jääsalat, tomat, salatisibul, marineeritud kurk
 
 > <span class="vege"></span><span class="vegan">
 
-**Krõbekana burger coleslaw salatiga 8,90**
+**Krõbekana burger coleslaw salatiga 9,00**
 
 kukkel, krõbekana, sriracha majonees, coleslaw, salati-mix, salatisibul
 
@@ -43,6 +41,6 @@ kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, salati
 
 kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, jääsalat, tomat, veinine sibulamoos
 
-**Laste juustuburger + käsitöö friikad 5,50**
+**Laste juustuburger + käsitöö friikad 6,00**
 
 kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup
