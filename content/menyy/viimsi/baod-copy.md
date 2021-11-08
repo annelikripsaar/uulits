@@ -49,3 +49,7 @@ Spicy chorizo-burger**
 **Laste juustuburger + käsitöö friikad 6,00**
 
 kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup
+
+<span class="spicy"></span> **Krõbekana wrap / Crispy chicken wrap**  
+**9,00 €**  
+<span class="koostis">Nisutortilla, krõbekana, Uulitsa sriracha majonees, Uulitsa teriyaki kaste, coleslaw salat, salatisibul, tomat. Durum tortilla, chicken fillet, Uulits sriracha mayonnaise, Uulits teriyaki sauce, coleslaw, salad onions, tomato</span>
