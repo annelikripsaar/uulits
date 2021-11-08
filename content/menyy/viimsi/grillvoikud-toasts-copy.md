@@ -7,10 +7,10 @@ parent_slug: viimsi
 new: false
 
 ---
-**Krõbekana ja kimchiga 8,00**
+**Krõbekana ja korea salatiga 9,00**
 
-Aasiapärane aurukukkel krõbeda kanaliha, sriracha majoneesi ja kimchiga
+Aasiapärane aurukukkel, krõbe kanaliha, teriyaki kaste, küüslaugune korea salat, sriracha majonees
 
-**Tiigerkreveti – Caesari 8,00**
+**_Pork belly_ ja korea salatiga 9,00**
 
-Aasiapärane aurukukkel, tiigerkrevetid, Caesari kaste, rooma salat, parmesan
+Aasiapärane aurukukkel, madalküpsetatud seakõht, originaal majonees, teriyaki kaste, korea salat
