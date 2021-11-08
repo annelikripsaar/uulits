@@ -53,3 +53,7 @@ kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšu
 <span class="spicy"></span> **Krõbekana wrap / Crispy chicken wrap**  
 **9,00 €**  
 <span class="koostis">Nisutortilla, krõbekana, Uulitsa sriracha majonees, Uulitsa teriyaki kaste, coleslaw salat, salatisibul, tomat. Durum tortilla, chicken fillet, Uulits sriracha mayonnaise, Uulits teriyaki sauce, coleslaw, salad onions, tomato</span>
+
+<span class="special"></span> **Uulitsa krõbekala & -kartul / Uulits' fish'n'chips**  
+**11,50 €**  
+<span class="koostis">Valge kala filee panko paneeringus, tartar kaste, Uulitsa käsitöökartulid, coleslaw salat, laim. White fish fillet in panko, tartar sauce, colesalw, lime, Uulits' handmade potato wedges</span>
