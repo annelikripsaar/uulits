@@ -9,10 +9,12 @@ new: false
 ---
 **_Pulled pork toast_ karamellise sibula ja sriracha majoneesiga  9,00**
 
-Brioche sai, rebitud sealiha, sriracha majonees, karamelline sibul, jääsalat, gouda juust, kimchi
+Brioche sai, rebitud sealiha, sriracha majonees, karamelline sibul, kimchi
 
 <span class="spicy"></span>
 
-**Caesari krõbe kreveti _toast_ 9,00**
+**Krõbekana _toast_ 9,00**
 
-Brioche sai, krõbedad tiigerkrevetid, sojasiirup, rooma salat, Caesari kaste, tomat
+Brioche sai, krõbekana, sojasiirup, sriracha majonees, kimchi
+
+<span class="spicy"></span>
