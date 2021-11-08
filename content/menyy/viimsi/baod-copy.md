@@ -29,13 +29,13 @@ kukkel, falafel, sidruni aiooli, jääsalat, tomat, salatisibul, marineeritud ku
 
 > <span class="vege"></span><span class="vegan">
 
-**Krõbekana burger coleslaw salatiga 9,00**
+**Krõbekana burger sriracha majoneesi ja coleslaw salatiga 9,00**
 
 kukkel, krõbekana, sriracha majonees, coleslaw, salati-mix, salatisibul
 
-**Veiselihaburger soolakaramelli ja peekoniga 8,90**
+**Veiselihaburger trühvlimajoneesi ja peekoniga 9,00**
 
-kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, salatisibul, rukola, soolakaramelli kaste
+kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmentali juust, peekon, salatisibul, jääsalat, marineeritud kurk
 
 **Veiselihaburger veinise sibulamoosiga 9,00**
 
