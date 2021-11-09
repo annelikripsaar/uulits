@@ -9,15 +9,15 @@ new: false
 ---
 **Uulitsa burger 8,00**
 
-kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw salat, salatisibul
+kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw salat, salatisibul, marineeritud kurk
 
 **Veiselihaburger topeltjuustuga** **8,50**
 
-kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup, tomat, jääsalat, salatisibul
+kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup, tomat, jääsalat, salatisibul, marineeritud kurk
 
 **Veiselihaburger magusa sinepikastmega 8,00**
 
-kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, jääsalat, Emmentali juust, magus sinepikaste, tomat, salatisibul
+kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, jääsalat, Emmentali juust, magus sinepikaste, tomat, salatisibul, marineeritud kurk
 
 **Veiselihaburger soolakaramelli ja peekoniga 8,90**
 
@@ -39,7 +39,7 @@ kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmentali juust, peekon, s
 
 **Veiselihaburger veinise sibulamoosiga 9,00**
 
-kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, jääsalat, tomat, veinine sibulamoos
+kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, jääsalat, tomat, veinine sibulamoos, marineeritud kurk
 
 <span class="spicy"></span> **Vürtsikas chorizo-burger /  
 Spicy chorizo-burger**  
@@ -56,4 +56,4 @@ kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšu
 
 <span class="special"></span> **Uulitsa krõbekala & -kartul / Uulits' fish'n'chips**  
 **11,50 €**  
-<span class="koostis">Valge kala filee panko paneeringus, tartar kaste, Uulitsa käsitöökartulid, coleslaw salat, laim. White fish fillet in panko, tartar sauce, colesalw, lime, Uulits' handmade potato wedges</span>
+<span class="koostis">Valge kala filee, tartar kaste, Uulitsa käsitöökartulid. White fish fillet, tartar sauce, Uulits' handmade potato wedges</span>
