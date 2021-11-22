@@ -12,4 +12,4 @@ extra: Firmapeod, pulmad ja muud üritused, kus sinu arvates peaks Uulits rahva 
 
 Kallid kliendid!
 
-Meil on hea meel teada anda, et meie foodtruckid vuravad ringi mööda üritusi ning teenindavad teid soovi korral ka eraüritustel taas kevadhooajal.
+Anname teada, et meie foodtruckid vuravad taas ringi mööda üritusi ning teenindavad teid soovi korral ka eraüritustel  kevadhooajal.
