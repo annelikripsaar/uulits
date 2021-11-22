@@ -10,6 +10,6 @@ extra: Firmapeod, pulmad ja muud üritused, kus sinu arvates peaks Uulits rahva 
 ---
 # Food Truck
 
-Kallid kliendid! 
+Kallid kliendid!
 
-Meil on hea meel teada anda, et meie foodtruckid vuravad ringi mööda üritusi ning teenindavad teid soovi korral ka eraüritustel .
+Meil on hea meel teada anda, et meie foodtruckid vuravad ringi mööda üritusi ning teenindavad teid soovi korral ka eraüritustel taas kevadhooajal.
