@@ -2,7 +2,7 @@
 title: Pärnu Uulits
 slug: parnukontakt
 order: 6
-in_nav: false
+in_nav: true
 address: Lehe tn -  Supeluse tn, Pärnu
 address_extra: Rannapark
 lat: 58.504739
