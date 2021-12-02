@@ -9,6 +9,8 @@ lat: 58.504739
 lng: 24.827066
 
 ---
+AVATUD AINULT SUVEHOOAJAL!
+
 Tel 51 11 16 49  
 **E-T** kell 12.00-22.00
 
