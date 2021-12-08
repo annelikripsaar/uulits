@@ -6,7 +6,7 @@ in_nav: false
 ---
 > Kallid kliendid!
 
-Meie uhiuus, parem ja suurem Kadaka Uulits aadressil Kadaka tee 135a, Tallinn, on valmis! 
+Meie uhiuus, parem ja suurem Kadaka Uulits aadressil Kadaka tee 135a, Tallinn, on valmis!
 
 Tule meie juurde nautima ehtsat Eesti tänavatoitu aastast 2014:  friikaid värsketest kodumaistest kartulitest, mahlaseid veiselihapihve käsitsi valmistatud krõbedate kuklite vahel ja imemaitsvaid lihamoose ja kastmeid, mis on valminud meie köögis. Viimsi Uulitsas pakume lisaks aasiapäraseid baosid ning Kadaka Uulitsas uudisena Napoli stiilis pitsasid.
 
@@ -17,6 +17,8 @@ Tule meie juurde nautima ehtsat Eesti tänavatoitu aastast 2014:  friikaid värs
 Uulitsapoisid **Artur** & **Mario**
 
 **Meie juures on turvaline ka COVID-19 ajal!**
+
+![](uploads/siin-on-turvaline-margis_2.jpg)
 
 Oleme teinud omalt poolt kõik selleks, et võiksite end meie juures turvaliselt tunda:
 
