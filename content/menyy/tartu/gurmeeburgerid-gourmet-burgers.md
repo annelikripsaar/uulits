@@ -21,46 +21,45 @@ Uulits beef burger
 
 Veiselihaburger magusa sinepikastmega /  
 Beef burger with sweet mustard sauce  
-**7,50 €**
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, tomat, jääsalat, salatisibul, Emmentali juust, magusa sinepi kaste. Bun, 100% angus beef patty, Uulits herb mayonnaise, tomato, iceberg lettuce, onion, Emmental cheese, sweet mustard sauce</span>
+**8,00 €** <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, tomat, jääsalat, salatisibul, Emmentali juust, magusa sinepi kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, tomato, iceberg lettuce, onion, Emmental cheese, sweet mustard sauce, pickles</span>
 
 Juustuburger /  
 Cheeseburger  
-**7,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, Uulitsa ketšup, tomat, jääsalat, salatisibul. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, Uulits ketchup, tomato, iceberg lettuce, onion</span>
+**8,50 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, Uulitsa ketšup, tomat, jääsalat, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, Uulits ketchup, tomato, iceberg lettuce, salad onion, pickles</span>
 
 Veiselihaburger sinihallitusjuustuga /  
 Blue cheese burger  
-**7,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, jääsalat, salatisibul, tomat, Uulitsa ketšup. Bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, iceberg lettuce, onion, tomato, ketchup</span>
+**8,90 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, jääsalat, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, iceberg lettuce, salad onion, tomato, ketchup, pickles</span>
 
 <span class="special"></span> Beyond burger  
-**8,50 €**  
-<span class="koostis">Vegan kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul. Vegan bun, beyond patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, onion, iceberg lettuce</span><span class="vegan"></span>
+**9,00 €**  
+<span class="koostis">Vegan kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, beyond patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, salad onion, iceberg lettuce, pickles</span><span class="vegan"></span>
 
-Kana-Caesari burger /  
-Chicken Caesar burger  
-**8,50 €**  
-<span class="koostis">Kukkel, kana kintsuliha, Caesari kaste, rooma salat, parmesan, tomat. Bun, chicken thigh meat, caesar sauce, roman salad, parmesan, tomato, onion</span>
+<span class="spicy"></span> Krõbekana burger /  
+Crispy Chicken burger  
+**9,00 €**  
+<span class="koostis">Kukkel, krõbe kanaliha, sriracha majonees, coleslaw, jääsalat, salatisibul, teriyaki kaste. Bun, crispy chicken meat, sriracha mayonnaise, coleslaw, crisphead lettuce,  teriyaki sauce, salad onion</span>
 
 Veiselihaburger soolakaramelli ja peekoniga /  
 Beef burger with bacon and salted caramel  
-**8,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rukola, salatisibul, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, ruccola, bacon, onions, salted caramel sauce</span>
+**9,00 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rukola, salatisibul, tomat, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, ruccola, bacon, salad onion, tomato, salted caramel sauce</span>
 
 Veiselihaburger sibulamoosiga /  
 Beef burger with red onion jam  
-**8,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, jääsalat, tomat, veinine sibulamoos. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, tomato, red onion jam</span>
+**9,00 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, jääsalat, tomat, marineeritud kurk, veinine sibulamoos. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, tomato, pickles, red onion jam</span>
 
 <span class="special"></span>
 <span class="spicy"></span>
 Vürtsikas chorizo-burger /  
 Spicy chorizo-burger  
 **8,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, jääsalat, salatisibul, chorizo-kaste. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, iceberg lettuce, onion, chorizo sauce</span>
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, jääsalat, salatisibul, chorizo-kaste. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, iceberg lettuce, salad onion, chorizo sauce</span>
 
 <span class="spicy"></span> Rebitud sealiha burger /  
 Pulled pork burger  
 **8,90 €**  
-<span class="koostis">Kukkel, rebitud sealiha, sriracha majonees, cheddar juust, coleslaw salat. Bun, pulled pork , sriracha mayonnaise, cheddar cheese, coleslaw.</span>
+<span class="koostis">Kukkel, rebitud sealiha, sriracha majonees, cheddar juust, coleslaw salat, salatisibul, marineeritud kurk. Bun, pulled pork , sriracha mayonnaise, cheddar cheese, coleslaw, salad onion, pickles.</span>
