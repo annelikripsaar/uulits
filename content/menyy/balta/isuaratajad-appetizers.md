@@ -9,12 +9,12 @@ new: false
 ---
 Uulitsa käsitöökartulid cheddar-juustuga /  
 Uulits handmade potato wedges with cheddar cheese sauce  
-**4,00 €**  
+**4,90 €**  
 <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
 <span class="spicy"></span>
 Vürtsikad käsitöökartulid cheddar-juustu ja jalapenoga  
-**4,00 €**
+**4,90 €**
 
 Uulitsa käsitöökartulid trühvlimajoneesiga /  
 Uulits handmade potato wedges with truffle mayonnaise  
@@ -32,7 +32,7 @@ Uulits potato wedges with ketchup and vegan mayonnaise
 <span class="special"></span>
 Uulitsa bataadifriikad suitsuse aiooliga /  
 Uulits sweet potato wedges with smoky aioli  
-**5,00 €**
+**5,50 €**
 
 > </span>
 
