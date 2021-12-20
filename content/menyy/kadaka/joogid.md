@@ -17,6 +17,11 @@ Kohv / Coffee
 Tee tassis / kannus    Tea in cup/in jug  
 **1,90 €/ 3.90 €**
 
+Uulitsa käsitöölimonaad / Uulits' lemonades
+
+mango-laim  
+**4,50 €**
+
 ON Lemon naturaalsed limonaadid / natural lemonades  
 **3,50 €**
 
