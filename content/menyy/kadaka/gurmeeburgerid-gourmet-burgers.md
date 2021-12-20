@@ -49,12 +49,12 @@ Burger with bacon and salted caramel**
 <span class="spicy"></span>**Rebitud sealiha burger coleslaw salatiga /  
 Pulled pork burger with coleslaw**  
 **8,90 €**  
-<span class="koostis">Kukkel, suitsune rebitud sealiha,  Uulitsa sriracha majonees, salatisibul, coleslaw salat. Bun, smoky pulled pork, Uulits' sriracha mayonnaise, coleslaw, salad onions</span>
+<span class="koostis">Kukkel, suitsune rebitud sealiha,  Uulitsa sriracha majonees, salatisibul, coleslaw salat. Bun, smoky pulled pork, Uulits' sriracha mayonnaise, coleslaw, salad onion</span>
 
 <span class="special"></span> <span class="spicy"></span> **Krõbekanaburger /  
 Crispy Chickenburger**  
 **9,00 €**  
-<span class="koostis">Kukkel, krõbekana, sriracha majonees, coleslaw salat. teriyaki kaste, salatisibul. Bun, crispy chicken, coleslaw, sriracha mayonnaise, teriyaki sauce, onion.</span>
+<span class="koostis">Kukkel, krõbekana, sriracha majonees, coleslaw salat, teriyaki kaste, salatisibul. Bun, crispy chicken, coleslaw, sriracha mayonnaise, teriyaki sauce, salad onion.</span>
 
 **Trühvlimajoneesi ja peekoniga burger /  
 Burger with bacon and truffle mayonnaise**  
