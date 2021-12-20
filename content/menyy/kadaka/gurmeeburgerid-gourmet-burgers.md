@@ -73,7 +73,7 @@ Red onion jam burger**
 <span class="spicy"></span> **Vürtsikas chorizo-burger /  
 Spicy chorizo-burger**  
 **9,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, salatisibul, chorizo-kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, onion, chorizo sauce, pickles</span>
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, rukola, salatisibul, chorizo-kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, rucola, salad onion, chorizo sauce, pickles</span>
 
 **Sai-pihv-sai lastele /  
 Bun-Patty-Bun for kids**  
