@@ -11,29 +11,37 @@ new: false
 
 **Uulitsa käsitöökartulid / Uulits' handmade potato wedges**
 
-cheddar-juustuga **4,50 €**
+cheddar-juustuga/ with cheddar cheese sauce 
 
-cheddar-juustu ja jalapenodega  **4,50** **€**<span class="spicy"></span>
+**4,50 €**
 
-trühvlimajoneesi ja parmesaniga **4,50 €**
+<span class="spicy"></span> cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos 
 
-kimchi, original ja sriracha majoneesiga  **5,50** **€**<span class="spicy"></span>
+**4,50** **€**
 
-**Uulitsa bataadifriikad**
+trühvlimajoneesi ja parmesaniga / with truffle mayonnaise and jalapenos 
 
-cheddar-juustuga **5,50 €**
+**4,50 €**
 
-cheddar-juustu ja jalapenodega  **5,50 €**
+kimchi, originaal- ja sriracha majoneesiga /with kimchi, original and sriracha mayonnaise  **5,50** **€**<span class="spicy"></span>
 
-<span class="spicy"></span>
+**Uulitsa bataadifriikad / Uulits' sweet potato wedges**
 
-trühvlimajoneesi ja parmesaniga **5,50 €**
+cheddar-juustuga/with cheddar cheese sauce 
 
-kimchi, original ja sriracha majoneesiga  **6,50 €**
+ **5,50 €**
 
-<span class="spicy"></span>
+cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos **5,50 €** <span class="spicy"></span>
 
-**Uulitsa käsitöökartulid rebitud sealihaga**  **7,00 €**
+trühvlimajoneesi ja parmesaniga/ with truffle mayonnaise and parmesan cheese
+
+ **5,50 €**
+
+kimchi, originaal- ja sriracha majoneesiga / with kimchi, original and sriracha mayonnaise   
+
+**6,50 €** <span class="spicy"></span>
+
+**Uulitsa käsitöökartulid rebitud sealihaga/ Uulits' loaded**  **7,00 €**
 
 <div class="ellipsis"></div>
 
