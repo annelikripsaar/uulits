@@ -37,10 +37,9 @@ Burger with sweet mustard sauce**
 **8,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, 2x cheddar juust, jääsalat, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk.  Bun, 100% angus beef patty, Uulits herb mayonnaise, 2x cheddar cheese, crisphead lettuce, salad onion, tomato, Uulits ketchup, pickles</span>
 
-**Sinihallitusjuustu burger /  
-Blue cheese burger**  
+**Sinihallitusjuustu burger / Blue cheese burger**  
 **8,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, salati-mix, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk.  Bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, salad-mix, onion, tomato, ketchup, pickles</span>
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, jääsalat, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk.  Bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, crisphead lettuce, salad onion, tomato, ketchup, pickles</span>
 
 **Soolakaramelli ja peekoniga burger /  
 Burger with bacon and salted caramel**  
