@@ -11,11 +11,9 @@ new: false
 
 > Mõnusalt kerged, kuid toitvad!
 
-<span class="spicy"></span>
-**Kanawrap /
-Chicken wrap**  
+<span class="spicy"></span> **Krõbekanawrap / Crispy Chicken wrap**  
 **9,00 €**  
-<span class="koostis">Nisutortilla, krõbekana, Uulitsa sriracha majonees, Uulitsa teriyaki kaste, coleslaw salat, salatisibul, tomat. Durum tortilla, chicken fillet, Uulits sriracha mayonnaise, Uulits teriyaki sauce, coleslaw, salad onions, tomato</span>
+<span class="koostis">Nisutortilla, krõbekana, Uulitsa sriracha majonees, Uulitsa teriyaki kaste, coleslaw salat, salatisibul, tomat. Durum tortilla, chicken fillet, Uulits sriracha mayonnaise, Uulits teriyaki sauce, coleslaw, salad onion, tomato</span>
 
 **Vegan wrap**  
 **9,00 €**  
