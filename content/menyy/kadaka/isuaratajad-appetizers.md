@@ -13,12 +13,12 @@ new: false
 
 Uulitsa käsitöökartulid cheddar-juustuga /  
 Uulits handmade potato wedges with cheddar cheese sauce  
-**4,50 €**  
+**4,90 €**  
 <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
 Uulitsa bataadifriikad cheddar-juustuga /  
 Uulits sweet potato wedges with cheddar sauce  
-**5,50 €**  
+**5,90 €**  
 <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
 > </span>
@@ -32,21 +32,29 @@ Uulits sweet potato wedges with cheddar sauce
 
 Spicy potato wedges with cheddar and jalapenos
 
-**4,50 €**
+**4,90 €**
 
 <span class="spicy"></span> Vürtsikad bataadifriikad cheddar-juustu ja jalapenodega /  
 Spicy sweet potato wedges with cheddar and jalapenos  
-**5,50 €**
+**5,90 €**
+
+Uulitsa käsitöökartulid ketšupi ja majoneesiga /  
+Uulits handmade potato wedges with ketchup and mayonnaise  
+**4,90 €**
+
+Uulitsa bataadifriikad ketšupi ja majoneesiga /  
+Uulits sweet potato wedges with ketchup and mayonnaise  
+**5,90 €**
 
 Uulitsa käsitöökartulid trühvlimajoneesi ja parmesaniga /  
 Uulits handmade potato wedges with truffle mayonnaise and parmesan  
-**4,50 €**
+**5,00 €**
 
 Uulitsa bataadifriikad trühvlimajoneesi ja parmesaniga /  
 Uulits handmade sweet potato wedges with truffle mayonnaise and parmesan   
-**5,50 €**
+**6,00 €**
 
-<span class="spicy"></span>Uulitsa  käsitöökartulid kimchi, sriracha ja original majoneesiga /  
+<span class="spicy"></span>Uulitsa  käsitöökartulid kimchi, sriracha ja originaal majoneesiga /  
 Uulits potato wedges with kimchi, sriracha and original mayonnaise  
 **5,50 €**
 
