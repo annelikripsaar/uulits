@@ -41,15 +41,19 @@ kimchi, originaal- ja sriracha majoneesiga / with kimchi, original and sriracha 
 
 **6,50 €** <span class="spicy"></span>
 
-**Uulitsa käsitöökartulid rebitud sealihaga/ Uulits' loaded**  **7,00 €**
+**Uulitsa käsitöökartulid rebitud sealihaga/ Uulits' loaded**  **potato wedges with pulled pork** 
+
+**7,00 €**
 
 <div class="ellipsis"></div>
 
-> cheddar juust, sriracha majonees, punased ja rohelised jalapenod, rebitud sealiha, roheline sibul
+> cheddar juust, sriracha majonees, punased ja rohelised jalapenod, rebitud sealiha, roheline sibul. Cheddar cheese, sriracha mayonnaise, red and green jalapenos, pulled pork, green onion. 
+>
+> <span class="spicy"></span>
 
-<span class="spicy"></span>
+**Uulitsa käsitöökartulid juustuse hakklihaga / Uulits' loaded potato wedges with cheesy minced meat**
 
-**Uulitsa käsitöökartulid juustuse hakklihaga 7,00 €**
+ **7,00 €**
 
 cheddar juust, juustukaste, majonees, hakkliha, salatisibul, roheline sibul
 
