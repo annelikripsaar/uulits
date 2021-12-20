@@ -61,19 +61,19 @@ Uulits sweet potato wedges with kimchi, sriracha and original  mayonnaise**
 
 **Uulitsa käsitöökartulid rebitud sealihaga / Uulits loaded potato wedges with pulled pork**
 
- **7,00 €**
+**7,00 €**
 
 <div class="ellipsis"></div>
 
-> cheddar juust, sriracha majonees, punased ja rohelised jalapenod, rebitud sealiha, roheline sibul. Cheddar, sriracha mayonnaise, red and green jalapenos, pulled pork, green onion.
+> <span class="koostis"> Cheddar juust, sriracha majonees, punased ja rohelised jalapenod, rebitud sealiha, roheline sibul. Cheddar, sriracha mayonnaise, red and green jalapenos, pulled pork, green onion.
 
 <span class="spicy"></span>
 
 **Uulitsa käsitöökartulid juustuse hakklihaga /  Uulits loaded potato wedges with cheesy minced meat**
 
- **7,00 €**
+**7,00 €**
 
-cheddar juust, juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar, cheese sauce, minced meat, salad onion, green onion.
+<span class="koostis"> Cheddar juust, juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar, cheese sauce, minced meat, salad onion, green onion.
 
 **Lisapihv / Extra patty**  
 **3,00 €**
