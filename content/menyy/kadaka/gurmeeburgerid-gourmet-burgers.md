@@ -24,7 +24,7 @@ new: false
 > > >
 > > > <span class="vege"></span><span class="vegan"></span>
 
-<span class="special"></span> **Uulitsa burger  
+<span class="special"></span> **Uulitsa burger / Uulits' burger  
 8,00 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw, salatisibul. Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmnetal cheese, coleslaw salad, salad onions</span>
 
