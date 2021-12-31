@@ -11,13 +11,13 @@ new: false
 
 **8,00 €**
 
-<span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw salat, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, herb mayonnaise, Emmental cheese, coleslaw, salad onion, pickles. 
+<span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw salat, salatisibul. Bun, 100% angus beef patty, herb mayonnaise, Emmental cheese, coleslaw, salad onion. 
 
-**Veiselihaburger topeltjuustuga** 
+**Veiselihaburger topeltjuustuga / Double cheeseburger**
 
 **8,50 €**
 
-<span class="koostis"> kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup, tomat, jääsalat, salatisibul, marineeritud kurk
+<span class="koostis"> Kukkel, 100% veiselihapihv, 2x cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup, tomat, jääsalat, salatisibul, marineeritud kurk, Bun, 100% angus beef patty, 2x cheddar cheese, herb mayonnaise, ketchup, tomato, crisphead lettuce, salad onion, pickles.
 
 **Veiselihaburger magusa sinepikastmega** 
 
