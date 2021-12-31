@@ -21,7 +21,7 @@ All burgers can be ordered with extra patty.
 
 **Lisakaste** **/ Extra sauce** **2,00 €**
 
-Uulitsa ürdimajonees, Uulitsa ketšup, sriracha majonees, sibulamoos, cheddar-juustu kaste jt
+Uulitsa ürdimajonees, Uulitsa ketšup, sriracha majonees, sibulamoos, cheddar juustu kaste jne. Uulits herb mayonnaise, ketchup, sriracha mayonnaise, red onion jam, cheddar cheese sauce etc
 
 **Kõiki kastmeid saab asendada vegan raita kastmega. All sauces can be replaced with vegan raita sauce.**
 
