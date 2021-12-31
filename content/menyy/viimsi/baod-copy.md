@@ -47,9 +47,11 @@ new: false
 
 <span class="spicy"></span>
 
-**Veiselihaburger trühvlimajoneesi ja peekoniga 9,00 €**
+**Veiselihaburger trühvlimajoneesi ja peekoniga / Beef burger with bacon and truffle mayonnaise**
 
-<span class="koostis"> kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmentali juust, peekon, salatisibul, jääsalat, marineeritud kurk. Bun, 100% angus beef patty, 2x cheddar cheese, herb mayonnaise, ketchup, tomato, crisphead lettuce, salad onion, pickles.
+**9,00 €**
+
+<span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmentali juust, peekon, salatisibul, jääsalat, marineeritud kurk. Bun, 100% angus beef patty, truffle mayonnaise, Emmental cheese, bacon, crisphead lettuce, salad onion, pickles.
 
 **Veiselihaburger veinise sibulamoosiga 9,00 €**
 
