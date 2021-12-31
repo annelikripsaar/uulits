@@ -57,4 +57,6 @@ kimchi, originaal- ja sriracha majoneesiga / with kimchi, original and sriracha 
 
 <span class="koostis">cheddar juust, juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar, cheese sauce, mayonnaise, minced meat, salad onion, green onion.
 
-**Käsitöö kananagitsad tartar kastme ja vanakooli kastmega 6,00 €**
+**Käsitöö kananagitsad tartar kastme ja vanakooli kastmega / Handmade chicken nuggets with tartar sauce and traditional sauce**
+
+**6,00 €**
