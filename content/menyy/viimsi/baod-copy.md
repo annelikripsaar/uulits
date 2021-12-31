@@ -31,11 +31,11 @@ new: false
 
 <span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, salatisibul, rukola, soolakaramelli kaste. Bun, 100% angus beef patty, cheddar cheese, herb mayonnaise, bacon, rucola, salad onion, salted caramel.
 
-**Vegeburger falafeli ja sidruni aiooliga** 
+**Vegeburger falafeli ja sidrunimajoneesiga / Vegeburger with falafel and lemon mayonnaise**
 
 **9,00 €**
 
-<span class="koostis"> kukkel, falafel, sidruni aiooli, jääsalat, tomat, salatisibul, marineeritud kurk. 
+<span class="koostis"> Vegan kukkel, falafel pihv, vegan juust, sidrunimajonees, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, falafel patty, vegan cheese, lemon mayonnaise, crisphead lettuce, tomato, salad onion, pickles.
 
 > <span class="vege"></span><span class="vegan">
 
