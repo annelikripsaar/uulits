@@ -64,11 +64,13 @@ Spicy chorizo-burger**
 
 **9,00 €** 
 
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, salatisibul, chorizo-kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, onion, chorizo sauce, pickles</span>
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, rukola, salatisibul, chorizo kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, rucola, salad onion, chorizo sauce, pickles</span>
 
-**Laste juustuburger + käsitöö friikad 6,00 €**
+**Laste juustuburger + käsitöö friikad / Cheeseburger + potato wedges for kids**
 
-<span class="koostis"> kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup
+**6,00 €**
+
+<span class="koostis"> Kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup. 
 
 <span class="spicy"></span> **Krõbekana wrap / Crispy chicken wrap**  
 **9,00 €**  
