@@ -7,10 +7,14 @@ parent_slug: viimsi
 new: false
 
 ---
-**Krõbekana ja korea salatiga 9,00**
+**Krõbekana ja korea salatiga / Crispy chicken and korea salad**
 
-Aasiapärane aurukukkel, krõbe kanaliha, teriyaki kaste, küüslaugune korea salat, sriracha majonees
+**9,00 €**
 
-**_Pork belly_ ja korea salatiga 9,00**
+<span class="koostis">Aasiapärane aurukukkel, krõbe kanaliha, teriyaki kaste, küüslaugune korea salat, sriracha majonees
 
-Aasiapärane aurukukkel, madalküpsetatud seakõht, originaal majonees, teriyaki kaste, korea salat
+**_Pork belly_ ja korea salatiga / Pork belly and korean salad**
+
+**9,00 €**
+
+<span class="koostis">Aasiapärane aurukukkel, madalküpsetatud seakõht, originaal majonees, teriyaki kaste, korea salat
