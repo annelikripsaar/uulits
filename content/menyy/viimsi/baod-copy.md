@@ -25,7 +25,7 @@ new: false
 
 <span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, jääsalat, Emmentali juust, magus sinepikaste, tomat, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, herb mayonnaise, crisphead lettuce, Emmental cheese, sweet mustard sauce, tomato, salad onion, pickles.
 
-**Veiselihaburger soolakaramelli ja peekoniga** 
+**Veiselihaburger soolakaramelli ja peekoniga / Beef burger with bacon and salted caramel**
 
 **8,90 €**
 
