@@ -39,9 +39,13 @@ new: false
 
 > <span class="vege"></span><span class="vegan">
 
-**Krõbekana burger sriracha majoneesi ja coleslaw salatiga 9,00 €**
+**Krõbekana burger sriracha majoneesi ja coleslaw salatiga/ Crispy chicken burger with  sriracha and coleslaw**
 
-<span class="koostis"> kukkel, krõbekana, sriracha majonees, coleslaw, salati-mix, salatisibul. Bun, 100% angus beef patty, 2x cheddar cheese, herb mayonnaise, ketchup, tomato, crisphead lettuce, salad onion, pickles.
+**9,00 €**
+
+<span class="koostis"> Kukkel, krõbekana, sriracha majonees, teriyaki kaste, coleslaw, salatisibul. Bun, crispy chicken meat, sriracha mayonnaise, teriyaki sauce, coleslaw, salad onion.
+
+<span class="spicy"></span>
 
 **Veiselihaburger trühvlimajoneesi ja peekoniga 9,00 €**
 
