@@ -7,7 +7,7 @@ parent_slug: viimsi
 new: false
 
 ---
-**Käsitööleib/ Handmade rye bread** **0,60 €**
+<span class="special"></span>**Käsitööleib/ Handmade rye bread** **0,60 €**
 
 Bun can be replaced by wrap, bread or salad.
 
@@ -15,7 +15,7 @@ Bun can be replaced by wrap, bread or salad.
 
 **1,00 €**
 
-**Lisapihv / Extra patty**  **3,00 €**
+<span class="special"></span>**Lisapihv / Extra patty**  **3,00 €**
 
 All burgers can be ordered with extra patty.
 
@@ -25,7 +25,7 @@ All burgers can be ordered with extra patty.
 
 <span class="vege"></span><span class="vegan">
 
-> **Kõiki kastmeid saab asendada vegan raita kastmega.** 
+> **Kõiki kastmeid saab asendada vegan raita kastmega.**
 >
 > **All sauces can be replaced with vegan raita sauce.**
 
