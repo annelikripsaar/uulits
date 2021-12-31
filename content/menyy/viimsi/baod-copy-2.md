@@ -11,9 +11,9 @@ new: false
 
 **Peekon/juust/jalapeno** **1,00**
 
-**Lisapihv** **3,00**
+**Lisapihv / Extra patty**  **3,00**
 
-**Lisakaste** **2,00**
+**Lisakaste** **/ Extra sauce** **2,00**
 
 Uulitsa ürdimajonees, Uulitsa ketšup, sriracha majonees, sibulamoos, cheddar-juustu kaste jt
 
