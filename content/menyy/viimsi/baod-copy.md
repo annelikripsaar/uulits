@@ -60,8 +60,10 @@ new: false
 <span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, jääsalat, tomat, veinine sibulamoos, marineeritud kurk. Bun, 100% angus beef patty,  cheddar cheese, herb mayonnaise, tomato, crisphead lettuce, red onion jam, pickles.
 
 <span class="spicy"></span> **Vürtsikas chorizo-burger /  
-Spicy chorizo-burger**  
-**9,00 €**   
+Spicy chorizo-burger**
+
+**9,00 €** 
+
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, salatisibul, chorizo-kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, onion, chorizo sauce, pickles</span>
 
 **Laste juustuburger + käsitöö friikad 6,00 €**
