@@ -7,46 +7,56 @@ parent_slug: viimsi
 new: false
 
 ---
-**Uulitsa burger 8,00**
+**Uulitsa burger / Uulits' burger**
 
-<span class="koostis"> kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw salat, salatisibul, marineeritud kurk
+**8,00 €**
 
-**Veiselihaburger topeltjuustuga** **8,50**
+<span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw salat, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, herb mayonnaise, Emmental cheese, coleslaw, salad onion, pickles. 
+
+**Veiselihaburger topeltjuustuga** 
+
+**8,50 €**
 
 <span class="koostis"> kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup, tomat, jääsalat, salatisibul, marineeritud kurk
 
-**Veiselihaburger magusa sinepikastmega 8,00**
+**Veiselihaburger magusa sinepikastmega** 
+
+**8,00 €**
 
 <span class="koostis"> kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, jääsalat, Emmentali juust, magus sinepikaste, tomat, salatisibul, marineeritud kurk
 
-**Veiselihaburger soolakaramelli ja peekoniga 8,90**
+**Veiselihaburger soolakaramelli ja peekoniga** 
+
+**8,90 €**
 
 <span class="koostis"> kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, salatisibul, rukola, soolakaramelli kaste
 
-**Vegeburger falafeli ja sidruni aiooliga 9,00**
+**Vegeburger falafeli ja sidruni aiooliga** 
+
+**9,00 €**
 
 <span class="koostis"> kukkel, falafel, sidruni aiooli, jääsalat, tomat, salatisibul, marineeritud kurk
 
 > <span class="vege"></span><span class="vegan">
 
-**Krõbekana burger sriracha majoneesi ja coleslaw salatiga 9,00**
+**Krõbekana burger sriracha majoneesi ja coleslaw salatiga 9,00 €**
 
 <span class="koostis"> kukkel, krõbekana, sriracha majonees, coleslaw, salati-mix, salatisibul
 
-**Veiselihaburger trühvlimajoneesi ja peekoniga 9,00**
+**Veiselihaburger trühvlimajoneesi ja peekoniga 9,00 €**
 
 <span class="koostis"> kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmentali juust, peekon, salatisibul, jääsalat, marineeritud kurk
 
-**Veiselihaburger veinise sibulamoosiga 9,00**
+**Veiselihaburger veinise sibulamoosiga 9,00 €**
 
- <span class="koostis"> kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, jääsalat, tomat, veinine sibulamoos, marineeritud kurk
+<span class="koostis"> kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, jääsalat, tomat, veinine sibulamoos, marineeritud kurk
 
 <span class="spicy"></span> **Vürtsikas chorizo-burger /  
 Spicy chorizo-burger**  
-**9,00 €**  
+**9,00 €**   
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, salatisibul, chorizo-kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, onion, chorizo sauce, pickles</span>
 
-**Laste juustuburger + käsitöö friikad 6,00**
+**Laste juustuburger + käsitöö friikad 6,00 €**
 
 <span class="koostis"> kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup
 
