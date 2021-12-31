@@ -11,7 +11,9 @@ new: false
 
 Bun can be replaced by wrap, bread or salad.  
 
-**Peekon/juust/jalapeno** **1,00  €**
+**Peekon/juust/jalapeno**   **Bacon/cheese/jalapeno**
+
+**1,00 €**
 
 **Lisapihv / Extra patty**  **3,00 €**
 
