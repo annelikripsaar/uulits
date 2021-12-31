@@ -53,7 +53,9 @@ new: false
 
 <span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmentali juust, peekon, salatisibul, jääsalat, marineeritud kurk. Bun, 100% angus beef patty, truffle mayonnaise, Emmental cheese, bacon, crisphead lettuce, salad onion, pickles.
 
-**Veiselihaburger veinise sibulamoosiga 9,00 €**
+**Veiselihaburger veinise sibulamoosiga /Beef burger with red onion jam**
+
+**9,00 €**
 
 <span class="koostis"> kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, jääsalat, tomat, veinine sibulamoos, marineeritud kurk. Bun, 100% angus beef patty, 2x cheddar cheese, herb mayonnaise, ketchup, tomato, crisphead lettuce, salad onion, pickles.
 
