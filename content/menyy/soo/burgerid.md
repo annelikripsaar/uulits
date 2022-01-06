@@ -69,20 +69,12 @@ Beef burger with blue cheese
 
 Vegeburger tofu pihviga /
 Veggie burger with tofu patty  
-**7,90 €**  
-<span class="koostis">Vegekukkel, paneeritud tofu pihv, vegan majonees, salati-mix, tomat, salatisibul. Vegan bun, breaded tofu patty, vegan mayonnaise, tomato, onion, salad-mix</span>
-<span class="vege"></span><span class="vegan"></span>
+**9,00 €**  
+<span class="koostis">Vegan kukkel, paneeritud tofu pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, breaded tofu patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, salad onion, crisphead lettuce, pickles</span> <span class="vege"></span><span class="vegan"></span>
 
-Beyond burger  
-**8,90 €**  
-<span class="koostis">Kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, salati-mix, tomat, salatisibul. Bun, beyond meat patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, salad-mix, onions</span>
-<span class="vege"></span><span class="vegan"></span>
-
-Vegeburger portobello seente ja kitsejuustuga /  
-Veggie burger with portobello mushrooms and goat cheese  
-**8,90 €**  
-<span class="koostis">Kukkel, portobello seened, kitsejuust, vegan majonees, sinepi-mee kaste, salati-mix, tomat, salatisibul. Bun, portobello mushrooms, goat cheese, vegan mayonnaise, mustard-honey sauce, tomato, salad-mix, onions</span>
-<span class="vege"></span>
+Vegan - Beyond burger Bon soya vegan pihvi ja raita kastmega/ with Bon soya vegan patty and vegan raita sauce  
+**9,00 €**  
+<span class="koostis">Kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Bun, beyond meat patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, crisphead lettuce, salad onion, pickles</span> <span class="vege"></span><span class="vegan"></span>
 
 Rebitud sealiha burger /  
 Pulled Pork burger  
