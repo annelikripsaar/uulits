@@ -7,11 +7,6 @@ parent_slug: soo
 new: false
 
 ---
-<span class="special"></span>
-Uulitsa Tiramisu purgis /  
+<span class="special"></span> Uulitsa mascarpone kreem Tiramisu purgis /  
 Uulits' Tiramisu in a jar  
-**4,00 €**
-
-<span class="special"></span> Uulitsa brüleekreem/  
-Uulits' Crème brûlée  
-**3,90 €**
+**5,00 €**
