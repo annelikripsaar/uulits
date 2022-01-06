@@ -74,7 +74,7 @@ Tee tassis/  kannus   Cup of tea/ Pot of tea
 
 <div class="ellipsis"></div>
 
-> KUUMAD JOOGID / HOT DRINKS
+> LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS
 
 Bulldog Easy Rider õlu /  
 Beer  
