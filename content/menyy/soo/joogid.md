@@ -37,32 +37,24 @@ FRITZ limonaad / Soft drink
 <span class="koostis">cola, rabarber cola, rhubarb</span>
 
 Punch limonaad / lemonade  
-**3,50 €** <span class="koostis">cola, rabarber cola, rhubarb</span>
+**3,50 €** <span class="koostis">mate ja lemon, passion fruit ja mate</span>
 
 Värskelt pressitud mahl / Fresh juice 0.33l  
 **5,50 €**
 <span class="koostis">apelsini, greibi orange, grapefruit</span>
 
-Pudelivesi /  
-Bottled water  
+Pudelivesi / Bottled water  
 **2,50 €**
 <span class="koostis">mulliga ja mullita carbonated and still</span>
 
-Kohv /  
-Coffee
-**2,50 €**
+Kohv / Coffee  **3,00 €**
 
-Suur kohv /  
-Large coffee
-**3,90 €**
+Suur kohv / Large coffee **4,00 €**
 
-Cappuccino, Latte, Kakao  
-**3,00 €**
+Cappuccino, Kakao  **3,00 €**
 
-Tee /  
-Cup of tea  
-**1,90 €**
-<span class="koostis">Kannus / Pot of tea 3,90</span>
+Tee tassis/  kannus   Cup of tea/ Pot of tea  
+**2,00 € / 4,00 €**
 
 Bulldog Easy Rider õlu /  
 Beer  
