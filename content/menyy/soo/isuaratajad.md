@@ -48,10 +48,11 @@ Uulitsa bataadifriikad kimchi, sriracha ja originaal majoneesiga /
 Uulits sweet potato wedges with kimchi, sriracha and original mayonnaise**  
 6,50 €**
 
-<span class="special"></span> <span class="spicy"></span>  Mozzarellaga täidetud jalapenod _crème fraîche_’ ga , 5 tk/ Mozzarella filled jalapenos with _crème fraîche, 5 pc_
+<span class="special"></span> <span class="spicy"></span>  Mozzarellaga täidetud jalapenod _crème fraîche_’ ga , 5 tk/ Mozzarella filled jalapenos with _crème fraîche, 5 pc_ 
 
-<span class="koostis">Jalapenod, toorsuitsu peekon, mozzarella, ananass, rohelise sibula _crème fraîche._ Jalapenos, bacon, mozzarella, pineapple, green onion _crème fraîche_  
 **6,00 €**
+
+<span class="koostis">Jalapenod, toorsuitsu peekon, mozzarella, ananass, rohelise sibula _crème fraîche._ Jalapenos, bacon, mozzarella, pineapple, green onion _crème fraîche_
 
 > <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastme või vegan majoneesiga.  
 > All sauces can be replaced with vegan raita sauce or vegan mayonnaise.</span>
