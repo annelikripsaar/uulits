@@ -43,6 +43,10 @@ Beef burger with bacon and truffle mayonnaise
 **9,00 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmnetali juust, peekon, jääsalat, marineeritud kurk. Bun, 100% angus beef patty, Uulits' truffle mayonnaise, Emmental cheese, crisphead lettuce, bacon, pickles</span>
 
+Krõbekana burger / Crispy Chickenburger   
+**9,00 €**  
+<span class="koostis">Kukkel, kanafilee, Caesari kaste, rooma salat, parmesan, tomat. Bun, chicken fillet, Caesar sauce, roman salad, parmesan, tomato</span>
+
 Veiselihaburger karamellise sibulaga /  
 Beef burger with caramelized onions  
 **7,90 €**  
