@@ -47,6 +47,11 @@ Beef burger with bacon and truffle mayonnaise
 **9,00 €**  
 <span class="koostis">Kukkel, kanaliha, sriracha majonees, teriyaki kaste, salatisibul, coleslaw salat. Bun, crispy chicken meat, sriracha mayonnaise, teriyaki sauce, coleslaw, salad onion</span>
 
+Veiselihaburger soolakaramelli ja peekoniga /  
+Beef burger with bacon and salted caramel  
+**8,90 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rukola, salatisibul, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, ruccola, bacon, salad onion, salted caramel sauce</span>
+
 Veiselihaburger karamellise sibulaga /  
 Beef burger with caramelized onions  
 **7,90 €**  
