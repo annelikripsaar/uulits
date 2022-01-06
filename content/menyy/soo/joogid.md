@@ -51,6 +51,14 @@ Pudelivesi / Bottled water
 **2,50 €**
 <span class="koostis">mulliga ja mullita carbonated and still</span>
 
+Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer
+
+**4,00 €**
+
+Alkoholivaba õlu Kronenbourg 1664 Blanc / alcohol-free beer
+
+**3,50 €**
+
 <div class="ellipsis"></div>
 
 > KUUMAD JOOGID / HOT DRINKS
