@@ -13,6 +13,10 @@ new: false
 >
 > Küsi lisa teenindajalt!
 
+<div class="ellipsis"></div>
+
+> KÜLMAD JOOGID / SOFT DRINKS
+
 Klaas piima või mahla /  
 Glass of milk or juice  
 **2,50 €**
@@ -47,6 +51,10 @@ Pudelivesi / Bottled water
 **2,50 €**
 <span class="koostis">mulliga ja mullita carbonated and still</span>
 
+<div class="ellipsis"></div>
+
+> KUUMAD JOOGID / HOT DRINKS
+
 Kohv / Coffee  **3,00 €**
 
 Suur kohv / Large coffee **4,00 €**
@@ -55,6 +63,10 @@ Cappuccino, Kakao  **3,00 €**
 
 Tee tassis/  kannus   Cup of tea/ Pot of tea  
 **2,00 € / 4,00 €**
+
+<div class="ellipsis"></div>
+
+> KUUMAD JOOGID / HOT DRINKS
 
 Bulldog Easy Rider õlu /  
 Beer  
