@@ -11,4 +11,4 @@ new: false
 Uulits' Mascarpone cream  
 **5,00 €**
 
-<span class="koostis">Kaneeline õun, soolakaramell, karamelliseeritud kreeka pähklid. Cinnamon apple, salted caramel, caramelized
+<span class="koostis">Kaneeline õun, soolakaramell, karamelliseeritud kreeka pähklid. Cinnamon apple, salted caramel, caramelized walnuts
