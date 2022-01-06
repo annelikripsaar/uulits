@@ -9,21 +9,15 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Kõiki burgereid saab tellida lisanditega ja wrapi vahel. Kukli saab asendada leiva või salatiga.
+> Kõiki burgereid saab tellida lisanditega ja wrapi vahel. Kukli saab asendada wrapi, leiva või salatiga.
 >
 > All burgers can also be ordered as wraps and with extras or replace the bun with rye bread or salad.
 >
 > > </span>
 > >
 > > </span>
->
-> > <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.  
-> > All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.</span>
-> >
-> > <span class="vege"></span><span class="vegan"></span>
 
-Käsitöö täisteraleib /  
-Handmade rye bread  
+Käsitöö täisteraleib / Handmade rye bread  
 **0,60 €**  
 <span class="koostis">Proovi gurmeeburgereid leiva vahel! Try gourmet burgers with rye bread!</span>
 
@@ -34,7 +28,7 @@ Bacon/cheese/jalapeno
 Lisakaste /  
 Extra sauce  
 **2,00 €**  
-<span class="koostis">Uulitsa ürdimajonees, trühvlimajonees, cheddar juustu kaste, Uulitsa ketšup, crème fraîche, magusa sinepi kaste, sibulamoos jne Uulits herb mayonnaise, truffle mayonnaise, cheddar cheese sauce, Uulits ketchup, crème fraîche, red onion jam, sweet mustard sauce, etc</span>
+<span class="koostis">Uulitsa ürdimajonees, trühvlimajonees, cheddar juustu kaste, Uulitsa ketšup, crème fraîche, sibulamoos jne. Uulits herb mayonnaise, truffle mayonnaise, cheddar cheese sauce, Uulits ketchup, crème fraîche, red onion jam, etc</span>
 
 > </span>
 
@@ -43,12 +37,6 @@ Extra sauce
 > >
 > > <span class="vege"></span><span class="vegan"></span>
 
-<span class="special"></span>
-Lisapihv + väikesed käsitöökartulid /  
-Extra patty + small potato wedges  
-**4,50 €**  
-<span class="koostis">Kõiki burgereid saab tellida ka lisapihviga + maja poolt lisaks väikesed käsitöökartulid!
+Kaasa ostes karp /Takeaway box 
 
-All burgers can be ordered with an extra patty + small Uulits' handmade potato wedges on the house!</span>
-
-Kaasa ostes lisandub pakenditasu 0.40
+**0,40 €**
