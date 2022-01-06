@@ -20,7 +20,11 @@ new: false
 > >
 > > <span class="vege"></span><span class="vegan"></span>
 
-Uulitsa burger  
+<span class="special"></span> Laste juustuburger + käsitöö friikad/ Kids' cheeseburger + handmade potato wedges  
+**6,00 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, Uulitsa ketšup. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, Uulits ketchup</span>
+
+Uulitsa burger / Uulits' burger  
 **7,00 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa majonees, Emmentali juust, coleslaw salat, salatisibul. Bun, 100% angus beef patty, Uulits mayonnaise, Emmental cheese, coleslaw salad, onion</span>
 
