@@ -116,8 +116,10 @@ Pinot Grigio DOC Friuli 2019, Reguta 2018, vol12,5%, Italy, Friuli
 Soave DOC 2019 ILatium Morini, vol12,5%, Italy, Veneto </span>
 
 Punane vein, klaas/pudel      Red wine, glass/bottle   
-**5,00 € / 21,00 €**
-<span class="koostis">Conti Formentini Cabernet 2017 Franc Collio DOC, vol13%, Italy, Friuli Lindemans Gentleman’s Collection 2018 Cabernet Savignon vol14,5%, Australia</span>
+**5,00 € / 21,00 €** <span class="koostis">Valpolicella DOC 2017 ILatium Morini, vol13%, Italy, Veneto </span>
+
+Prosecco Spumante DOC Extra Dry Parolvini, vol11%, Italy, Veneto   pudel/bottle   
+**5,00 €** 
 
 Gin 4cl+tonic  
 **7,00 €**
