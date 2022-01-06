@@ -48,13 +48,12 @@ Uulitsa bataadifriikad kimchi, sriracha ja originaal majoneesiga /
 Uulits sweet potato wedges with kimchi, sriracha and original mayonnaise**  
 6,50 €**
 
-<span class="special"></span>
-Uulitsa bataadifriikad suitsuse aiooliga /  
+<span class="special"></span> <span class="spicy"></span>  Mozzarellaga täidetud jalapenod creme Uulitsa bataadifriikad suitsuse aiooliga /  
 Uulits sweet potato wedges with smoky aioli  
-**5,00 €**
+**6,00 €**
 
-> <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.  
-> All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.</span>
+> <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastme või vegan majoneesiga.  
+> All sauces can be replaced with vegan raita sauce or vegan mayonnaise.</span>
 >
 > <span class="vege"></span><span class="vegan"></span>
 
