@@ -7,6 +7,8 @@ parent_slug: soo
 new: false
 
 ---
-<span class="special"></span> Uulitsa mascarpone kreem Tiramisu purgis /  
-Uulits' Tiramisu in a jar  
+<span class="special"></span> Uulitsa mascarpone kreem  /  
+Uulits' Mascarpone cream   
 **5,00 €**
+
+kaneeline õun, soolakaramell, karamelliseeritud kreeka pähklid. Cinnamon apple, saltes caramel, caramelized  
