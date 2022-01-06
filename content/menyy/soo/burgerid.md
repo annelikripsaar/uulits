@@ -64,8 +64,8 @@ Spicy chorizo-burger
 
 Veiselihaburger sinihallitusjuustuga /  
 Beef burger with blue cheese  
-**7,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, salati-mix, salatisibul, tomat, Uulitsa ketšup Bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, salad-mix, onion, tomato, Uulits ketchup</span>
+**8,90 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, jääsalat, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk,  Bun, 100% angus beef patty, Uulits herb mayonnaise, gorgonzola cheese, crisphead lettuce, salad onion, tomato, Uulits ketchup, pickles</span>
 
 Vegeburger tofu pihviga /
 Veggie burger with tofu patty  
