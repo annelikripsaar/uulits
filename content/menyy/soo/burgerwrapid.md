@@ -11,6 +11,8 @@ new: false
 
 > Maitse toitvaid grillvõikusid! Küsi lisa teenindajalt!
 
+<span class="spicy"></span>
+
 **Grillvõiku rebitud sealiha, karamellise sibula ja sriracha majoneesiga/ Pulled pork toast with caramelized onion and sriracha mayonnaise**
 
 **9,00 €**
@@ -27,9 +29,8 @@ new: false
 
 <span class="spicy"></span>
 
-Kanawrap /
-Chicken wrap  
-**7,90 €**  
+Krõbekana wrap / Crispy chicken wrap  
+**9,00 €**  
 <span class="koostis">Nisutortilla, kanafilee, Uulitsa feta-juustu kreem päikesekuivatatud tomatitega, värske kapsas, salatisibul, tomat, kõrvitsaseemned. Durum tortilla, chicken fillet, Uulits feta-cheese cream with sun dried tomatos, fresh cabbage, onions, tomato, roasted pumpkin seeds</span>
 
 Täistera kanawrap / Wholegrain Chicken wrap  
