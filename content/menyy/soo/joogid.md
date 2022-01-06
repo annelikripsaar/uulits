@@ -85,9 +85,10 @@ Valmiermuiža õlu / Beer 0.33l
 **4,50 €**
 <span class="koostis">tume, hele / pale, dark</span>
 
-MULL käsitöösiider /  
-Craft cider  
-**5,50 €**
+Sheppy's Vintage Cider  
+**6,00 €**
+
+
 <span class="koostis">poolkuiv õunasiider, rabarberi pikero apple cider semi-dry, rhubarb pikero</span>
 
 Sheppy's Vintage Cider  
