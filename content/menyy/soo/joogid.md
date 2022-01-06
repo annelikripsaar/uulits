@@ -88,20 +88,35 @@ Valmiermuiža õlu / Beer 0.33l
 Sheppy's Vintage Cider  
 **6,00 €**
 
+Saku Kuld vaadiõlu /draft beer 5,2% 0.33L/0.5L
 
+**4,00 € / 4,50 €**
+
+Kronenbourg 1664 Blanc 5% vaadiõlu / draft beer
+
+**5,00 €**
+
+ANTVÄRK Paljas Õun vaadisiider / Naked Apple draft cider
+
+4,5% 0.33L 
+
+**4,00 €**
 <span class="koostis">poolkuiv õunasiider, rabarberi pikero apple cider semi-dry, rhubarb pikero</span>
 
-Sheppy's Vintage Cider  
-**6,00 €**
+<div class="ellipsis"></div>
 
-Valge vein, klaas /  
-White wine, glass  
-**4,80 €**
-<span class="koostis">Ca’Bolani Pinot Grigio DOC 2018 vol13%, Italy, Friuli Wild Rock Marlborough Sauvignon Blanc 2018, vol13%, New-Zealand</span>
+> VEINID / WINES
 
-Punane vein, klaas /  
-Red wine, glass  
-**4,80 €**
+Valge vein, klaas/pudel      White wine, glass/bottle  
+**4,50 € / 19,00 €**
+<span class="koostis">
+
+Pinot Grigio DOC Friuli 2019, Reguta 2018, vol12,5%, Italy, Friuli 
+
+Soave DOC 2019 ILatium Morini, vol12,5%, Italy, Veneto </span>
+
+Punane vein, klaas/pudel      Red wine, glass/bottle   
+**5,00 € / 21,00 €**
 <span class="koostis">Conti Formentini Cabernet 2017 Franc Collio DOC, vol13%, Italy, Friuli Lindemans Gentleman’s Collection 2018 Cabernet Savignon vol14,5%, Australia</span>
 
 Gin 4cl+tonic  
