@@ -9,14 +9,14 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise. Kukli saab asendada wrapi, leiva või salatiga. Kõiki burgereid saab tellida beyond-pihviga ja lisapihviga. Pihvid on vaikimisi medium-küpsusastmega. 
+> Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise. Kukli saab asendada wrapi, leiva või salatiga. Kõiki burgereid saab tellida beyond-pihviga ja lisapihviga. Pihvid on vaikimisi medium-küpsusastmes.
 >
 > Kaasa ostes lisandub pakenditasu 0.40.
 >
 > </span>
 >
-> > <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.  
-> > All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.</span>
+> > <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan majoneesiga.  
+> > All sauces can be replaced with vegan raita sauce or vegan mayonnaise.</span>
 > >
 > > <span class="vege"></span><span class="vegan"></span>
 
