@@ -36,6 +36,9 @@ FRITZ limonaad / Soft drink
 **3,50 €**
 <span class="koostis">cola, rabarber cola, rhubarb</span>
 
+Punch limonaad / lemonade  
+**3,50 €** <span class="koostis">cola, rabarber cola, rhubarb</span>
+
 Värskelt pressitud mahl / Fresh juice 0.33l  
 **5,50 €**
 <span class="koostis">apelsini, greibi orange, grapefruit</span>
