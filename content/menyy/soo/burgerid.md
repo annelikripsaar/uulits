@@ -38,6 +38,11 @@ Beef burger with double cheese
 **8,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, 2x cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup, tomat, salatisibul, jääsalat, marineeritud kurk.  Bun, 100% angus beef patty, 2x cheddar cheese, tomato, crisphead lettuce, Uulits herb mayonnaise, Uulits ketchup, salad onion, pickles</span>
 
+Veiselihaburger trühvlimajoneesi ja peekoniga /  
+Beef burger with bacon and truffle mayonnaise  
+**9,00 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmnetali juust, peekon, jääsalat, marineeritud kurk. Bun, 100% angus beef patty, Uulits' truffle mayonnaise, Emmental cheese, crisphead lettuce, bacon, pickles</span>
+
 Veiselihaburger karamellise sibulaga /  
 Beef burger with caramelized onions  
 **7,90 €**  
@@ -47,16 +52,6 @@ Veiselihaburger sinihallitusjuustuga /
 Beef burger with blue cheese  
 **7,90 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, salati-mix, salatisibul, tomat, Uulitsa ketšup Bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, salad-mix, onion, tomato, Uulits ketchup</span>
-
-Veiselihaburger topeltjuustuga /  
-Beef burger with double cheese  
-**7,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup, tomat, salati-mix, sibul Bun, 100% angus beef patty, cheddar cheese, tomato, salad-mix, Uulits herb mayonnaise, Uulits ketchup, onions</span>
-
-Laste juustuburger /  
-Kids' cheeseburger  
-**5,50 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, Uulitsa ketšup. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, Uulits ketchup</span>
 
 Vegeburger tofu pihviga /
 Veggie burger with tofu patty  
