@@ -76,32 +76,10 @@ Vegan - Beyond burger Bon soya vegan pihvi ja raita kastmega/ with Bon soya vega
 **9,00 €**  
 <span class="koostis">Kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Bun, beyond meat patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, crisphead lettuce, salad onion, pickles</span> <span class="vege"></span><span class="vegan"></span>
 
-Rebitud sealiha burger /  
-Pulled Pork burger  
+Rebitud sealiha burger / Pulled Pork burger  
 **8,90 €**  
-<span class="koostis">Kukkel, suitsune rebitud sealiha, Uulitsa sriracha majonees, salatisibul, coleslaw salat. Bun, smoky pulled pork, Uulits sriracha mayonnaise, onions, coleslaw</span>
+<span class="koostis">Kukkel, suitsune rebitud sealiha, Uulitsa sriracha majonees, salatisibul, coleslaw salat. Bun, smoky pulled pork, Uulits sriracha mayonnaise, salad onion, coleslaw</span>
 
-<span class="special"></span>
-Veiselihaburger veinise sibulamoosiga /  
-Beef burger with red onion jam  
-**8,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, tomat, veinine sibulamoos. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, tomato, red onion jam</span>
-
-<span class="special"></span>
-<span class="spicy"></span>
-Vürtsikas chorizo-burger /  
-Spicy chorizo-burger  
-**9,00 €**  
-<span class="koostis">kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, salati-mix, salatisibul, chorizo-kaste bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, onion, chorizo sauce</span>
-
-<span class="special"></span>
-Lisapihv + väikesed Uulitsa käsitöökartulid /  
-Extra patty + small Uulits' potato wedges  
-**4,50 €**  
-<span class="koostis">Kõiki burgereid saab tellida ka lisapihviga + maja poolt lisaks väikesed käsitöökartulid! All burgers can be ordered with an extra patty + small Uulits' handmade potato wedges on the house!</span>
-
-<span class="special"></span>
-Uulitsa krõbekala & -kartul /  
-Uulits' fish'n'chips  
-**10,90 €**  
+<span class="special"></span> Uulitsa krõbekala & -kartul / Uulits' fish'n'chips  
+**11,90 €**  
 <span class="koostis">Valge kala filee panko paneeringus, tartarkaste, Uulitsa käsitöökartulid, coleslaw salat, laim. White fish fillet in panko, tartar sauce, colesalw, lime, Uulits' handmade potato wedges</span>
