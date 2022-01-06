@@ -121,6 +121,8 @@ Punane vein, klaas/pudel      Red wine, glass/bottle
 Prosecco Spumante DOC Extra Dry Parolvini, vol11%, Italy, Veneto   pudel/bottle   
 **5,00 €** 
 
-Gin 4cl+tonic  
-**7,00 €**
-<span class="koostis">mango-chilli, ürdi/herbal, rabarber/rhubarb, tavaline/regular</span>
+<div class="ellipsis"></div>
+
+> PUNCH KOKTEILID / PUNCH COCTAILS
+
+**7,00 €** <span class="koostis">Orange Black Tea Collins, Gin Tonic, Elderflower Spritz, Ginger and Mule, Whiskey Sour, Veneziano Spritz</span>
