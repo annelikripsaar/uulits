@@ -48,7 +48,7 @@ Uulitsa bataadifriikad kimchi, sriracha ja originaal majoneesiga /
 Uulits sweet potato wedges with kimchi, sriracha and original mayonnaise**  
 6,50 €**
 
-<span class="special"></span> <span class="spicy"></span>  Mozzarellaga täidetud jalapenod _crème fraîche_’ ga , 5 tk/ Mozzarella filled jalapenos with _crème fraîche, 5 pc_ 
+<span class="special"></span> <span class="spicy"></span>  Mozzarellaga täidetud jalapenod _crème fraîche_’ ga , 5 tk/ Mozzarella filled jalapenos with _crème fraîche, 5 pc_
 
 **6,00 €**
 
