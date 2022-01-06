@@ -58,9 +58,9 @@ Uulits sweet potato wedges with kimchi, sriracha and original mayonnaise**
 >
 > <span class="vege"></span><span class="vegan"></span>
 
-<span class="special"></span> Uulitsa käsitöö-kananagitsad shriracha majoneesiga /  
-Uulits handmade chicken nuggets with sriracha mayonnaise  
-**5,90 €**
+<span class="special"></span> Uulitsa käsitöö-kananagitsad tartar kastmegas/  
+Uulits handmade chicken nuggets with tartar sauce  
+**6,00 €**
 
 <span class="special"></span>
 Uulitsa käsitöökartulid juustu ja majoneesiga /  
