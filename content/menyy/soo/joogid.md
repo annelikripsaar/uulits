@@ -76,24 +76,13 @@ Tee tassis/  kannus   Cup of tea/ Pot of tea
 
 > LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS
 
-Bulldog Easy Rider õlu /  
-Beer  
-**4,00 €**
-<span class="koostis">alkoholivaba alcohol-free</span>
+Raasiku käsitööõlu / Craft beer 0.33l  
+**4,50 €** 
 
-Raasiku käsitööõlu /  
-Craft beer  
+<span class="koostis">pilsner, märzen, meeõlu /honey</span>
+
+Valmiermuiža õlu / Beer 0.33l  
 **4,50 €**
-<span class="koostis">pilsner, märzen, meeõlu/honey</span>
-
-KOLK käsitööõlu /  
-Craft beer  
-**5,00 €**
-<span class="koostis">pale ale, indian pale ale, saison, honey triple, robust porter</span>
-
-Valmiermuiža õlu /  
-Beer  
-**5,00 €**
 <span class="koostis">tume, hele / pale, dark</span>
 
 MULL käsitöösiider /  
