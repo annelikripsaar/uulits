@@ -9,45 +9,34 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja limonaadid. Väike vein hea toidu kõrvale. 
+> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja limonaadid. Väike vein hea toidu kõrvale.
 >
 > Küsi lisa teenindajalt!
 
 Klaas piima või mahla /  
 Glass of milk or juice  
-**2,00 €**
+**2,50 €**
 <span class="koostis">õuna, ploomi, apelsini, tomati, jõhvika, segu apple, plum, orange, tomato, cranberry, multi juice</span>
 
-Raasiku kali /  
-Raasiku Kvass  
+Karl Friedrich kali / Kvass 0.33l  
 **3,00 €**
 
-ÄPU mulliga õunamahl /  
-Apple juice 0.33l  
-**3,00 €**
-
-UULITS limonaad /  
-Lemonade  
-**3,50 €**
+Uulitsa limonaad /  Uulits' fresh lemonade   
+**4,00 €**
 <span class="koostis">greibi, sidruni, apelsini, mango-laimi grapefruit, lemon, orange, mango-lime</span>
 
-ON Lemon naturaalne limonaad /  
-Natural lemonade  
-**3,50 €**
-<span class="koostis">tikri, mustsõstra gooseberry, blackcurrant</span>
+ON Lemon naturaalne limonaad / Natural lemonade  
+**3,50 €** <span class="koostis">tikri, mustsõstra. gooseberry, blackcurrant</span>
 
-WOSTOK limonaad /  
-Lemonade  
+WOSTOK limonaad / Lemonade  
 **3,50 €**
 <span class="koostis">ploomi-kardemoni plum-cardamom</span>
 
-FRITZ limonaad /  
-Soft drink  
+FRITZ limonaad / Soft drink  
 **3,50 €**
 <span class="koostis">cola, rabarber cola, rhubarb</span>
 
-Värskelt pressitud mahl /  
-Fresh juice 0.33l  
+Värskelt pressitud mahl / Fresh juice 0.33l  
 **4,50 €**
 <span class="koostis">apelsini, greibi orange, grapefruit</span>
 
