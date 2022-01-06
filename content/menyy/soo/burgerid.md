@@ -57,10 +57,10 @@ Beef burger with red onion jam
 **9,00 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, jääsalat, tomat, marineeritud kurk, veinine sibulamoos. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, crisphead lettuce, tomato, pickles, red onion jam</span>
 
-Veiselihaburger karamellise sibulaga /  
-Beef burger with caramelized onions  
-**7,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, Emmentali juust, karamelliseeritud sibul. Bun, 100% angus beef patty, Uulits truffle mayonnaise, Emmental cheese, caramelized onions</span>
+<span class="spicy"></span> Vürtsikas chorizo-burger /  
+Spicy chorizo-burger  
+**9,00 €**  
+<span class="koostis">kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, rukola, salatisibul, chorizo-kaste. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, rucola, salad onion, chorizo sauce</span>
 
 Veiselihaburger sinihallitusjuustuga /  
 Beef burger with blue cheese  
