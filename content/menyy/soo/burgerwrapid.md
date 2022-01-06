@@ -1,6 +1,6 @@
 ---
 slug: wrapid
-title: WRAPID / WRAPS
+title: GRILLVÕIKUD JA WRAPID / TOASTS AND WRAPS
 order: 5
 in_nav: false
 parent_slug: soo
