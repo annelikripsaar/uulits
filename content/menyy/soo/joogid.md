@@ -9,7 +9,9 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, vaadiõlu Raasiku Õlletehaselt, naturaalsed mahlajoogid ja limonaadid. Väike vein hea toidu kõrvale.
+> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja limonaadid. Väike vein hea toidu kõrvale. 
+>
+> Küsi lisa teenindajalt!
 
 Klaas piima või mahla /  
 Glass of milk or juice  
