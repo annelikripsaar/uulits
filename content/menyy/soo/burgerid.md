@@ -26,12 +26,17 @@ new: false
 
 Uulitsa burger / Uulits' burger  
 **7,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa majonees, Emmentali juust, coleslaw salat, salatisibul. Bun, 100% angus beef patty, Uulits mayonnaise, Emmental cheese, coleslaw salad, onion</span>
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw salat, salatisibul. Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, coleslaw salad, salad onion</span>
 
 Veiselihaburger magusa sinepikastmega /  
 Beef burger with sweet mustard sauce  
-**7,50 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, salati-mix, salatisibul, tomat, magus sinepikaste Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, salad-mix, onions, tomato, Uulits sweet mustard sauce</span>
+**8,00 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, jääsalat, salatisibul, tomat, magus sinepikaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, crisphead lettuce, salad onion, tomato, Uulits sweet mustard sauce</span>
+
+Veiselihaburger topeltjuustuga /  
+Beef burger with double cheese  
+**8,50 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, 2x cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup, tomat, salatisibul, jääsalat, marineeritud kurk.  Bun, 100% angus beef patty, 2x cheddar cheese, tomato, crisphead lettuce, Uulits herb mayonnaise, Uulits ketchup, salad onion, pickles</span>
 
 Veiselihaburger karamellise sibulaga /  
 Beef burger with caramelized onions  
