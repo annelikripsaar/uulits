@@ -52,6 +52,11 @@ Beef burger with bacon and salted caramel
 **8,90 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rukola, salatisibul, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, ruccola, bacon, salad onion, salted caramel sauce</span>
 
+Veiselihaburger veinise sibulamoosiga /  
+Beef burger with red onion jam  
+**9,00 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, jääsalat, tomat, marineeritud kurk, veinine sibulamoos. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, crisphead lettuce, tomato, pickles, red onion jam</span>
+
 Veiselihaburger karamellise sibulaga /  
 Beef burger with caramelized onions  
 **7,90 €**  
@@ -78,22 +83,6 @@ Veggie burger with portobello mushrooms and goat cheese
 **8,90 €**  
 <span class="koostis">Kukkel, portobello seened, kitsejuust, vegan majonees, sinepi-mee kaste, salati-mix, tomat, salatisibul. Bun, portobello mushrooms, goat cheese, vegan mayonnaise, mustard-honey sauce, tomato, salad-mix, onions</span>
 <span class="vege"></span>
-
-Kana Caesari burger /  
-Chickenburger with Caesar sauce  
-**8,90 €**  
-<span class="koostis">Kukkel, kanafilee, Caesari kaste, rooma salat, parmesan, tomat. Bun, chicken fillet, Caesar sauce, roman salad, parmesan, tomato</span>
-
-<span class="special"></span>
-Veiselihaburger kitsejuustu ja sinepi-mee kastmega /  
-Beef burger with goat cheese and honey-mustard sauce  
-**8,90 €**  
-<span class="koostis">kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, kitsejuust, salati-mix, sibul, sinepi-mee kaste Bun, 100% angus beef patty, Uulits herb mayonnaise, goat cheese, salad-mix, onion, honey-mustard sauce</span>
-
-Veiselihaburger soolakaramelli ja peekoniga /  
-Beef burger with bacon and salted caramel  
-**8,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rukola, salatisibul, soolakaramelli kaste Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, ruccola, bacon, onions, salted caramel sauce</span>
 
 Rebitud sealiha burger /  
 Pulled Pork burger  
