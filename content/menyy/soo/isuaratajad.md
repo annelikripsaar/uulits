@@ -63,20 +63,14 @@ Uulits handmade chicken nuggets with tartar sauce
 **6,00 €**
 
 <span class="special"></span>
-Uulitsa käsitöökartulid juustu ja majoneesiga /  
-Loaded potato wedges with cheese sauce and mayonnaise  
-**6,00 €**  
-<span class="koostis">juustukaste, majonees, salatisibul, roheline sibul cheese sauce, mayonnaise, onion, green onion</span>
-
-<span class="special"></span>
 Uulitsa käsitöökartulid juustuse hakklihaga /  
 Uulits loaded potato wedges with cheesy minced meat  
 **7,00 €**  
-<span class="koostis">cheddar juust, juustukaste, majonees, hakkliha, salatisibul, roheline sibul cheddar, cheese sauce, mayonnaise, minced meat, green onion</span>
+<span class="koostis">Cheddar juust, juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar, cheese sauce, mayonnaise, minced meat, green onion</span>
 
 <span class="special"></span>
 <span class="spicy"></span>
 Uulitsa käsitöökartulid rebitud sealihaga /  
 Uulits loaded potato wedges with pulled pork  
 **7,00 €**  
-<span class="koostis">cheddar juust, sriracha majonees, punased ja rohelised jalapenod, rebitud sealiha, roheline sibul cheddar, sriracha mayonnaise, red and green jalapenos, pulled pork, green onion</span>
+<span class="koostis">Cheddar juust, sriracha majonees, punased ja rohelised jalapenod, rebitud sealiha, roheline sibul. Cheddar, sriracha mayonnaise, red and green jalapenos, pulled pork, green onion</span>
