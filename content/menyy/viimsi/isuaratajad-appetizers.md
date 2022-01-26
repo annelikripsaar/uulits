@@ -13,15 +13,15 @@ new: false
 
 cheddar-juustuga/ with cheddar cheese sauce
 
-**4,50 €**
+**4,90 €**
 
 <span class="spicy"></span> cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos
 
-**4,50** **€**
+**4,90** **€**
 
 trühvlimajoneesi ja parmesaniga / with truffle mayonnaise and jalapenos
 
-**4,50 €**
+**5,00 €**
 
 kimchi, originaal- ja sriracha majoneesiga /with kimchi, original and sriracha mayonnaise  **5,50** **€**<span class="spicy"></span>
 
@@ -29,13 +29,13 @@ kimchi, originaal- ja sriracha majoneesiga /with kimchi, original and sriracha m
 
 cheddar-juustuga/with cheddar cheese sauce
 
-**5,50 €**
+**5,90 €**
 
-cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos **5,50 €** <span class="spicy"></span>
+cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos **5,90 €** <span class="spicy"></span>
 
 trühvlimajoneesi ja parmesaniga/ with truffle mayonnaise and parmesan cheese
 
-**5,50 €**
+**6,00 €**
 
 kimchi, originaal- ja sriracha majoneesiga / with kimchi, original and sriracha mayonnaise
 
