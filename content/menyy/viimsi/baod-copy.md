@@ -11,7 +11,7 @@ new: false
 
 **8,00 €**
 
-<span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw salat, salatisibul. Bun, 100% angus beef patty, herb mayonnaise, Emmental cheese, coleslaw, salad onion. 
+<span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw salat, salatisibul. Bun, 100% angus beef patty, herb mayonnaise, Emmental cheese, coleslaw, salad onion.
 
 **Veiselihaburger topeltjuustuga / Double cheeseburger**
 
@@ -31,11 +31,11 @@ new: false
 
 <span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, salatisibul, rukola, soolakaramelli kaste. Bun, 100% angus beef patty, cheddar cheese, herb mayonnaise, bacon, rucola, salad onion, salted caramel.
 
-**Vegeburger falafeli ja sidrunimajoneesiga / Vegeburger with falafel and lemon mayonnaise**
+**Beyond burger / Vegan burger with Beyond patty**
 
 **9,00 €**
 
-<span class="koostis"> Vegan kukkel, falafel pihv, vegan juust, sidrunimajonees, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, falafel patty, vegan cheese, lemon mayonnaise, crisphead lettuce, tomato, salad onion, pickles.
+<span class="koostis"> Vegan kukkel, Beyond pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, Beyond patty, vegan chipotle mayonnaise, vegan raita sauce, crisphead lettuce, tomato, salad onion, pickles.
 
 > <span class="vege"></span><span class="vegan">
 
@@ -62,7 +62,7 @@ new: false
 <span class="spicy"></span> **Vürtsikas chorizo-burger /  
 Spicy chorizo-burger**
 
-**9,00 €** 
+**9,00 €**
 
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, rukola, salatisibul, chorizo kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, rucola, salad onion, chorizo sauce, pickles</span>
 
