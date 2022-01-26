@@ -15,10 +15,8 @@ new: false
 
 <span class="spicy"></span>
 
-**Grillvõiku krõbekanaga_/ Crispy chicken toast_**
+**Grillvõiku Caesari ja krõbeda tiigerkrevetiga/ Crispy tiger prawn toast with Caesar sauce**
 
 **9,00 €**
 
-<span class="koostis"> Brioche sai, krõbekana, sojasiirup, sriracha majonees, kimchi. Brioche, crispy chicken, soya syrup, sriracha mayonnaise, kimchi.
-
-<span class="spicy"></span>
+<span class="koostis"> Brioche sai, krõbe tiigerkrevett, teriyaki kaste, Caesari kaste, parmesan, rooma salat. Brioche, crispy tiger prawn, teriyaki sauce, Caesar's sauce, parmesan, salad. 
