@@ -6,7 +6,7 @@ in_nav: false
 ---
 > Kallid kliendid!
 
-Tule meie juurde nautima ehtsat Eesti tänavatoitu: friikaid värsketest kodumaistest kartulitest, mahlaseid veiselihapihve käsitsi valmistatud krõbedate kuklite vahel ja imemaitsvaid lihamoose ja kastmeid, mis on valminud meie köögis. 
+Tule meie juurde nautima ehtsat Eesti tänavatoitu: friikaid värsketest kodumaistest kartulitest, mahlaseid veiselihapihve käsitsi valmistatud krõbedate kuklite vahel ja imemaitsvaid lihamoose ja kastmeid, mis on valminud meie köögis.
 
 Viimsi Uulitsas pakume lisaks aasiapäraseid baosid ning Kadaka Uulitsas uudisena Napoli stiilis pitsasid.
 
@@ -30,6 +30,6 @@ Oleme teinud omalt poolt kõik selleks, et võiksite end meie juures turvaliselt
 
   Lisainfot kehtivate piirangute kohta leiate [**SIIT**](https://www.kriis.ee/et/eriolukord-koroonaviirus)**.**
 
-_Märgisega "Siin on COVID-19 turvaline" kinnitame, et järgime meie tegutsemisvaldkonnale kehtestatud Vabariigi Valitsuse korraldusi ja Terviseameti juhiseid, hoiame end nende järgimiseks infoga pidevalt kursis ning aitame külastajatel täita kohapeal viiruse vältimise reegleid._
+_Visit Tallinn poolt välja antud märgisega "Siin on COVID-19 turvaline" kinnitame, et järgime meie tegutsemisvaldkonnale kehtestatud Vabariigi Valitsuse korraldusi ja Terviseameti juhiseid, hoiame end nende järgimiseks infoga pidevalt kursis ning aitame külastajatel täita kohapeal viiruse vältimise reegleid._
 
-_With the COVID-19 safety label we confirm that we follow the requirements and instructions of the Government and the Health Board of Estonia (_[_https://kriis.ee/en_](https://kriis.ee/en "https://kriis.ee/en")_) established for our industry or field, that we keep up to date with the information, and that we help visitors comply with the infection-prevention guidelines on site._
+_With the COVID-19 safety label, trusted to us by Visit Tallinn, we confirm that we follow the requirements and instructions of the Government and the Health Board of Estonia (_[_https://kriis.ee/en_](https://kriis.ee/en "https://kriis.ee/en")_) established for our industry or field, that we keep up to date with the information, and that we help visitors comply with the infection-prevention guidelines on site._
