@@ -77,9 +77,3 @@ Spicy chorizo-burger**
 **9,00 €**
 
 <span class="koostis">Nisutortilla, krõbekana, Uulitsa sriracha majonees, Uulitsa teriyaki kaste, coleslaw salat, salatisibul, tomat. Durum tortilla, crispy chicken meat, Uulits sriracha mayonnaise, Uulits teriyaki sauce, coleslaw, salad onions, tomato</span>
-
-<span class="special"></span> **Uulitsa krõbekala & -kartul / Uulits' fish'n'chips**
-
-**11,50 €**
-
-<span class="koostis">Valge kala filee, tartar kaste, Uulitsa käsitöökartulid. White fish fillet, tartar sauce, Uulits' handmade potato wedges</span>
