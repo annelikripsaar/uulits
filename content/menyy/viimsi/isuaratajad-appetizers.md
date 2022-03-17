@@ -19,7 +19,7 @@ cheddar-juustuga/ with cheddar cheese sauce
 
 **4,90** **€**
 
-trühvlimajoneesi ja parmesaniga / with truffle mayonnaise and jalapenos
+trühvlimajoneesi ja parmesaniga / with truffle mayonnaise and parmesan
 
 **5,00 €**
 
