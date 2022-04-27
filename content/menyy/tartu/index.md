@@ -2,7 +2,7 @@
 slug: tartu
 title: Tartu menüü
 order: 4
-in_nav: true
+in_nav: false
 
 ---
 <div class="warning">
