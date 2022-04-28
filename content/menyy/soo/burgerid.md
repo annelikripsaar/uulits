@@ -72,13 +72,13 @@ Veggie burger with tofu patty
 **9,00 €**  
 <span class="koostis">Vegan kukkel, paneeritud tofu pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, breaded tofu patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, salad onion, crisphead lettuce, pickles</span> <span class="vege"></span><span class="vegan"></span>
 
-Vegan burger No Beef taimse pihvi ja raita kastmega/ with Bon soya vegan patty and vegan raita sauce  
-**9,00 €**  
+Vegan burger No Beef taimse pihvi ja raita kastmega/ with No Beef vegan patty and vegan raita sauce  
+**9,90 €**  
 <span class="koostis">Kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Bun, beyond meat patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, crisphead lettuce, salad onion, pickles</span> <span class="vege"></span><span class="vegan"></span>
 
-Rebitud sealiha burger / Pulled Pork burger  
-**8,90 €**  
-<span class="koostis">Kukkel, suitsune rebitud sealiha, Uulitsa sriracha majonees, salatisibul, coleslaw salat. Bun, smoky pulled pork, Uulits sriracha mayonnaise, salad onion, coleslaw</span>
+<span class="spicy"></span> Rebitud sealiha burger / Pulled Pork burger  
+**9,50 €**  
+<span class="koostis">Kukkel, suitsune rebitud sealiha, Uulitsa sriracha majonees, cheddar juust, salatisibul, coleslaw salat. Bun, smoky pulled pork, Uulits sriracha mayonnaise, cheddar cheese, salad onion, coleslaw</span>
 
 <span class="special"></span> Uulitsa krõbekala & -kartul / Uulits' fish'n'chips  
 **11,90 €**  
