@@ -16,9 +16,9 @@ new: false
 **Tomatikastme ja mozzarellaga / With tomato sauce and mozzarella**  
 **8,50 €**
 
-**Pesto ja kitsejuustuga / With pesto and goat cheese**  
-**11,90 €**  
-<span class="koostis">Tomatikaste, pesto, kitsejuust, päikesekuivatatud tomatid, seedermänni seemned. Tomato sauce, pesto, goat cheese, sun dried tomatos, cedar seeds</span>
+**Nelja juustuga / With four cheese**  
+**13,50 €**  
+<span class="koostis">Tomatikaste, mozzarella, gorgonzola, kitsejuust, parmesan, prosciutto drudo, rukola. Tomato sauce, mozzarella, gorgonzola, goat cheese, parmesan, prosciutto crudo, rucola</span>
 
 **Prosciutto ja parmesaniga / With prosciutto and parmesan**  
 **11,90 €**  
@@ -30,15 +30,15 @@ new: false
 
 **Gorgonzola ja prosciutto cotto/ With gorgonzola and prosciutto cotto**  
 **12,50 €**  
-<span class="koostis">Tomatikaste, prosciutto cotto, gorgonzola juust, mozzarella, viigimari, kreega pähkel, rukola. Tomato sauce, prosciutto cotto, gorgonzola, mozzarella cheese, figs, walnuts, rucola</span>
+<span class="koostis">Tomatikaste, prosciutto cotto, gorgonzola juust, mozzarella, viigimari, kreeka pähkel, rukola. Tomato sauce, prosciutto cotto, gorgonzola, mozzarella cheese, figs, walnuts, rucola</span>
 
 <span class="spicy"></span> **Salaami ja oliividega / With salami and olives**  
 **11,90 €**  
 <span class="koostis">Tomatikaste, salaami, mozzarella, oliivid, rukola. Tomato sauce, salami, mozzarella, olives,  rucola</span>
 
-**Caesari Prosciutto cotto / With Caesar Prosciutto cotto**  
-**11,90 €**  
-<span class="koostis">Tomatikaste, prosciutto cotto, mozzarella, parmesan, Caesari salat, Caesari kaste, balsamico.  Tomato sauce, prosciutto cotto, mozzarella, parmesan, Caesar salad, Caesar sauce, balsamico</span>
+**Rebitud sealiha / With pulled pork**  
+**12,50 €**  
+<span class="koostis">Rebitud sealiha, küüslaugupasta, sriracha, tomatikaste, mozzarella, rukola, ananass.  Pulled pork, garlic cream, sriracha, tomato sauce, mozzarella, rucola, pineapple</span>
 
 **Pitsa ääre kaste/ Sause for pizza crust**  
 **2 €**  
