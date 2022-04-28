@@ -7,8 +7,6 @@ parent_slug: soo
 new: false
 
 ---
-<span class="special"></span> Uulitsa mascarpone kreem  /  
-Uulits' Mascarpone cream  
+<span class="special"></span> Uulitsa toorjuustu kook purgis /  
+Uulits' cream cheese cake in the jar  
 **5,00 €**
-
-<span class="koostis">Kaneeline õun, soolakaramell, karamelliseeritud kreeka pähklid. Cinnamon apple, salted caramel, caramelized walnuts
