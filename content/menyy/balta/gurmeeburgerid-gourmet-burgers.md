@@ -35,11 +35,6 @@ Beef burger with bacon and salted caramel
 **9,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rukola, salatisibul, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, ruccola, bacon, salad onion, salted caramel sauce</span>
 
-Veiselihaburger sinihallitusjuustuga /  
-Blue cheese burger  
-**8,90 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, jääsalat, salatisibul, tomat, marineeritud kurk, Uulitsa ketšup. Bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, iceberg lettuce, onion, tomato, pickles, ketchup</span>
-
 <span class="spicy"></span>
 Veiselihaburger chipotle majoneesi ja suitsuse soolakurgiga /  
 Beef burger with chipotle mayo and smoky cucumber  
