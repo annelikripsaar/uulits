@@ -9,18 +9,32 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Kõiki burgereid saab tellida wrapi vahel!
+> Maitse toitvaid grillvõikusid! Küsi lisa teenindajalt!
 
-Tofupihviga burger /  
-Tofu burger  
-**8,00 €**  
-<span class="koostis">Vegan kukkel, paneeritud tofu pihv, vegan majonees, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, tofu patty, vegan mayonnaise, tomato, onion, iceberg lettuce, pickles</span><span class="vegan"></span>
+<span class="spicy"></span>
 
-Kikerhernepihviga burger /  
-Chickpea patty burger  
-**8,50 €**  
-<span class="koostis">Vegan kukkel, kikerhernepihv, vegan majonees, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, chickpea patty, vegan mayonnaise, tomato, onion, iceberg lettuce, pickles</span><span class="vegan"></span>
+Grillvõiku rebitud sealiha, karamellise sibula ja sriracha majoneesiga/ Pulled pork toast with caramelized onion and sriracha mayonnaise
 
-<span class="special"></span> Beyond burger  
-**9,00 €**  
-<span class="koostis">Vegan kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, beyond patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, onion, iceberg lettuce, pickles</span><span class="vegan"></span>
+**9,50 €**
+
+<span class="koostis">Brioche sai, rebitud sealiha, sriracha majonees, karamelline sibul, kimchi. Brioche, pulled pork, sriracha mayonnaise, caramelized onion, kimchi
+
+<span class="spicy"></span>
+
+Grillvõiku krõbekana ja kimchiga_/ Crispy chicken toast with kimchi
+
+**9,50 €**
+
+<span class="koostis"> Brioche sai, krõbekana, sojasiirup, sriracha majonees, kimchi. Brioche, crispy chicken, soya syrup, sriracha mayonnaise, kimchi.
+
+<span class="spicy"></span>
+
+Krõbekana wrap / Crispy chicken wrap  
+**9,50 €**  
+<span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa sriracha majonees, teriyaki kaste, coleslaw salat, tomat,  salatisibul, jääsalat. Durum tortilla, crispy chicken meat, Uulits' sriracha mayonnaise, teriyaki sauce, coleslaw, tomato, salad onion, crisphead lettuce</span>
+
+<span class="special"></span>
+
+Fitlap kanawrap / Wholegrain Chicken wrap =376 kcal  
+**7,00 €**  
+<span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>Fitlap 376 kcal</span>
