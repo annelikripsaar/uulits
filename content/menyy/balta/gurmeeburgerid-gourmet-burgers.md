@@ -36,10 +36,9 @@ Beef burger with bacon and salted caramel
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rukola, salatisibul, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, ruccola, bacon, salad onion, salted caramel sauce</span>
 
 <span class="spicy"></span>
-Veiselihaburger chipotle majoneesi ja suitsuse soolakurgiga /  
-Beef burger with chipotle mayo and smoky cucumber  
-**9,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, chipotle majonees, cheddar juust, salatisibul, värskelt soolatud suitsune kurk. Bun, 100% angus beef patty, chipotle mayonnaise, cheddar cheese, onion, fresh salted smoky cucumber</span>
+Rebitud sealiha burger / Pulled Pork burger  
+**9,50 €**  
+<span class="koostis">Kukkel, suitsune rebitud sealiha, Uulitsa sriracha majonees, cheddar juust, salatisibul, coleslaw salat. Bun, smoky pulled pork, Uulits sriracha mayonnaise, cheddar cheese, salad onion, coleslaw</span>
 
 Veiselihaburger sibulamoosiga /  
 Beef burger with red onion jam  
