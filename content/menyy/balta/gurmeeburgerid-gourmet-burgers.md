@@ -18,17 +18,17 @@ new: false
 <span class="special"></span>
 Uulitsa burger /  
 Uulits beef burger  
-**8,00 €**  
+**8,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw. Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, coleslaw</span>
 
 Veiselihaburger magusa sinepikastmega /  
 Beef burger with sweet mustard sauce  
-**8,00 €** <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, tomat, jääsalat, salatisibul, marineeritud kurk, Emmentali juust, magusa sinepi kaste. Bun, 100% angus beef patty, Uulits herb mayonnaise, tomato, iceberg lettuce, onion, Emmental cheese, pickles, sweet mustard sauce</span>
+**8,50 €** <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, tomat, jääsalat, salatisibul, marineeritud kurk, Emmentali juust, magusa sinepi kaste. Bun, 100% angus beef patty, Uulits herb mayonnaise, tomato, iceberg lettuce, onion, Emmental cheese, pickles, sweet mustard sauce</span>
 
-Veiselihaburger juustutrioga /  
-Triple cheese burger  
-**8,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, tomat, jääsalat, salatisibul, cheddar juust, gouda juust, suitsujuust, ketšup, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, tomato, iceberg lettuce, onion, cheddar cheese, gouda cheese, smoked cheese, ketchup, pickles </span>
+Veiselihaburger topeltjuustuga /  
+Double cheeseburger  
+**9,00 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, tomat, jääsalat, salatisibul, 2xcheddar juust,  ketšup, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, tomato, iceberg lettuce, onion, 2xcheddar cheese, ketchup, pickles </span>
 
 <span class="special"></span> Veiselihaburger karamellise sibula ja trühvlimajoneesiga /  
 Burger with caramelized onion and truffle mayo  
@@ -48,10 +48,5 @@ Beef burger with chipotle mayo and smoky cucumber
 
 Veiselihaburger sibulamoosiga /  
 Beef burger with red onion jam  
-**9,00 €**  
+**9,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, jääsalat, tomat, marineeritud kurk, veinine sibulamoos. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, tomato, pickles, red onion jam</span>
-
-Kanawrap Caesari kastmega /  
-Chicken wrap with Caesar sauce  
-**8,90 €**  
-<span class="koostis">Durum tortilla, kanafilee, Caesari kaste, rooma salat, parmesan, tomat. Durum tortilla, chicken fillet, Caesar sauce, roman salad, parmesan, tomato</span>
