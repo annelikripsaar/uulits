@@ -1,6 +1,6 @@
 ---
-slug: vegan
-title: VEGAN MENÜÜ / VEGAN MENU
+slug: võikud
+title: GRILLVÕIKUD JA WRAPID / TOASTS AND WRAPS
 order: 3
 in_nav: false
 parent_slug: balta
