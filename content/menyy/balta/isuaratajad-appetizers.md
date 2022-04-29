@@ -7,34 +7,39 @@ parent_slug: balta
 new: false
 
 ---
-Uulitsa käsitöökartulid cheddar-juustuga /  
-Uulits handmade potato wedges with cheddar cheese sauce  
-**4,90 €**  
-<span class="koostis">Kastmeks vedel cheddar-juust</span>
-
-<span class="spicy"></span>
-Vürtsikad käsitöökartulid cheddar-juustu ja jalapenoga  
-**4,90 €**
-
-Uulitsa käsitöökartulid trühvlimajoneesiga /  
-Uulits handmade potato wedges with truffle mayonnaise  
-**4,50 €**
-
 Uulitsa käsitöökartulid ketšupi ja ürdimajoneesiga /  
 Uulits potato wedges with ketchup and mayonnaise  
-**4,50 €**
-
-Uulitsa käsitöökartulid ketšupi ja vegan majoneesiga /  
-Uulits potato wedges with ketchup and vegan mayonnaise  
-**4,50 €**  
-<span class="vegan"></span>
-
-<span class="special"></span>
-Uulitsa bataadifriikad suitsuse aiooliga /  
-Uulits sweet potato wedges with smoky aioli  
 **5,50 €**
 
-> </span>
+Uulitsa bataadifriikad ketšupi ja ürdimajoneesiga /  
+Uulits sweet potato wedges with ketchup and mayonnaise  
+**6,50 €**
+
+Uulitsa käsitöökartulid cheddar-juustuga /  
+Uulits handmade potato wedges with cheddar cheese sauce  
+**5,50 €**  
+<span class="koostis">Kastmeks vedel cheddar-juust</span>
+
+Uulitsa bataadifriikad cheddar-juustuga /  
+Uulits sweet potato wedges with cheddar cheese sauce  
+**6,50 €**  
+<span class="koostis">Kastmeks vedel cheddar-juust</span>
+
+<span class="spicy"></span> Uulitsa käsitöökartulid cheddar-juustu ja jalapenoga/ Uulits handmade potato wedges with cheddar cheese and jalapenos  
+**5,50 €**
+
+<span class="spicy"></span> Uulitsa btaadifriikad cheddar-juustu ja jalapenoga/ Uulits sweet potato wedges with cheddar cheese and jalapenos  
+**6,50 €**
+
+Uulitsa käsitöökartulid trühvlimajoneesi ja parmesaniga /  
+Uulits handmade potato wedges with truffle mayonnaise and parmesan  
+**5,80 €**
+
+Uulitsa bataadifriikad trühvlimajoneesi ja parmesaniga /  
+Uulits sweet potato wedges with truffle mayonnaise and parmesan  
+**6,80 €**
+
+</span>
 
 > > <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.  
 > > All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.</span>
