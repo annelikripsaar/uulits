@@ -32,9 +32,3 @@ Grillvõiku krõbekana ja kimchiga_/ Crispy chicken toast with kimchi
 Krõbekana wrap / Crispy chicken wrap  
 **9,50 €**  
 <span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa sriracha majonees, teriyaki kaste, coleslaw salat, tomat,  salatisibul, jääsalat. Durum tortilla, crispy chicken meat, Uulits' sriracha mayonnaise, teriyaki sauce, coleslaw, tomato, salad onion, crisphead lettuce</span>
-
-<span class="special"></span>
-
-Fitlap kanawrap / Wholegrain Chicken wrap =376 kcal  
-**7,00 €**  
-<span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>Fitlap 376 kcal</span>
