@@ -30,10 +30,10 @@ Double cheeseburger
 **9,00 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, tomat, jääsalat, salatisibul, 2xcheddar juust,  ketšup, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, tomato, iceberg lettuce, onion, 2xcheddar cheese, ketchup, pickles </span>
 
-<span class="special"></span> Veiselihaburger karamellise sibula ja trühvlimajoneesiga /  
-Burger with caramelized onion and truffle mayo  
-**8,00 €**  
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa trühvlimajonees, cheddar juust, marineeritud kurk, karamelliseeritud sibul. Bun, 100% angus beef patty, Uulits truffle mayonnaise, cheddar cheese, pickles, caramelized onion.</span>
+Veiselihaburger soolakaramelli ja peekoniga /  
+Beef burger with bacon and salted caramel  
+**9,50 €**  
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rukola, salatisibul, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, ruccola, bacon, salad onion, salted caramel sauce</span>
 
 Veiselihaburger sinihallitusjuustuga /  
 Blue cheese burger  
