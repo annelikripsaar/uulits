@@ -39,6 +39,13 @@ Uulitsa bataadifriikad trühvlimajoneesi ja parmesaniga /
 Uulits sweet potato wedges with truffle mayonnaise and parmesan  
 **6,80 €**
 
+Uulitsa käsitöökartulid kimchi, sriracha ja originaal majoneesiga /  
+Uulits handmade potato wedges with kimchi, sriracha and original mayonnaise  
+**6 €**
+
+Uulitsa bataadifriikad kimchi, sriracha ja originaal majoneesiga / Uulits sweet potato wedges with kimchi, sriracha and original mayonnaise  
+**7 €**
+
 </span>
 
 > > <span style="color: #839446;">Kõiki kastmeid saab asendada vegan raita kastmega või vegan chipotle majoneesiga.  
