@@ -13,37 +13,37 @@ new: false
 
 cheddar-juustuga/ with cheddar cheese sauce
 
-**4,90 €**
+**5,50 €**
 
 <span class="spicy"></span> cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos
 
-**4,90** **€**
+**5,50** **€**
 
 trühvlimajoneesi ja parmesaniga / with truffle mayonnaise and parmesan
 
-**5,00 €**
+**5,80 €**
 
-kimchi, originaal- ja sriracha majoneesiga /with kimchi, original and sriracha mayonnaise  **5,50** **€**<span class="spicy"></span>
+kimchi, originaal- ja sriracha majoneesiga /with kimchi, original and sriracha mayonnaise  **6,00** **€**<span class="spicy"></span>
 
 **Uulitsa bataadifriikad / Uulits' sweet potato wedges**
 
 cheddar-juustuga/with cheddar cheese sauce
 
-**5,90 €**
+**6,50 €**
 
-cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos **5,90 €** <span class="spicy"></span>
+cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos **6,50 €** <span class="spicy"></span>
 
 trühvlimajoneesi ja parmesaniga/ with truffle mayonnaise and parmesan cheese
 
-**6,00 €**
+**6,80 €**
 
 kimchi, originaal- ja sriracha majoneesiga / with kimchi, original and sriracha mayonnaise
 
-**6,50 €** <span class="spicy"></span>
+**7,00 €** <span class="spicy"></span>
 
 **Uulitsa käsitöökartulid rebitud sealihaga/ Uulits' loaded**  **potato wedges with pulled pork**
 
-**7,00 €**
+**7,90 €**
 
 <div class="ellipsis"></div>
 
@@ -53,10 +53,10 @@ kimchi, originaal- ja sriracha majoneesiga / with kimchi, original and sriracha 
 
 **Uulitsa käsitöökartulid juustuse hakklihaga / Uulits' loaded potato wedges with cheesy minced meat**
 
-**7,00 €**
+**7,90 €**
 
 <span class="koostis">cheddar juust, juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar, cheese sauce, mayonnaise, minced meat, salad onion, green onion.
 
-**Käsitöö kananagitsad tartar kastme ja vanakooli kastmega / Handmade chicken nuggets with tartar sauce and traditional sauce**
+**Käsitöö kananagitsad klassikalise majoneesiga / Handmade chicken nuggets with original mayonnaise**
 
-**6,00 €**
+**6,90 €**
