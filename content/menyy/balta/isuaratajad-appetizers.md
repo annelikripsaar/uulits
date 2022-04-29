@@ -52,3 +52,14 @@ Uulitsa bataadifriikad kimchi, sriracha ja originaal majoneesiga / Uulits sweet 
 > > All sauces can be replaced with vegan raita sauce or vegan chipotle mayonnaise.</span>
 > >
 > > <span class="vege"></span><span class="vegan"></span>
+>
+> <span class="special"></span> Uulitsa käsitöökartulid juustuse hakklihaga /  
+> Uulits loaded potato wedges with cheesy minced meat  
+> **7,90 €**
+>
+> <span class="koostis">Cheddar juust ja juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar and cheddar cheese sauce, mayonnaise, minced meat, green onion</span>
+>
+> <span class="special"></span> <span class="spicy"></span> Uulitsa käsitöökartulid rebitud sealihaga /  
+> Uulits loaded potato wedges with pulled pork  
+> **7,90 €**  
+> <span class="koostis">Cheddar juust, sriracha majonees, jalapeno, rebitud sealiha, roheline sibul. Cheddar, sriracha mayonnaise, jalapenos, pulled pork, green onion</span>
