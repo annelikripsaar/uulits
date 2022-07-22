@@ -85,56 +85,59 @@ Valmiermuiža õlu / Beer 0.33l
 **5,50 €**
 <span class="koostis">tume, hele / pale, dark</span>
 
+Põhjala käsitööõlu / Craft beer 0.33l
+
+<span class="koostis">Virmalised, Rasberry Sour, Session Ipa</span>
+
+**5,50 €**
+
 Sheppy's Vintage Cider  
 **8,00 €**
 
-Sheppy's Rasberry cider 4% 0,5l 
+Sheppy's Rasberry cider 4% 0,5l
 
 **7,30 €**
 
 Sheppys Elderflower cider 4,5% 0,5l  
 **7,30 €**
 
-Saku Kuld vaadiõlu /draft beer 5,2% 0.33L/0.5L
+Saku Hele vaadiõlu /draft beer 5,2% 0.5L
 
-**4,00 € / 4,50 €**
+**4,90 €**
 
 Kronenbourg 1664 Blanc 5% vaadiõlu / draft beer
 
-**5,00 €**
+**5,50 €**
 
-ANTVÄRK Paljas Õun vaadisiider / Naked Apple draft cider
+Grimbergen Double Ambree tume ōlu / dark beer 6,5% 0,5l
 
-4,5% 0.33L
-
-**4,00 €**
-<span class="koostis">poolkuiv õunasiider, rabarberi pikero apple cider semi-dry, rhubarb pikero</span>
+**5,50 €**
 
 <div class="ellipsis"></div>
 
 > VEINID / WINES
 
-Prosecco Spumante DOC Extra Dry, Parolvini 20 Cl 12% 
+Prosecco Spumante DOC Extra Dry, Parolvini 20 Cl 12%
 
 **8,00 €**
 
-Prosecco Rosé Millesimato DOC Extra Dry, Parolvini 20 Cl 12 % 
+Prosecco Rosé Millesimato DOC Extra Dry, Parolvini 20 Cl 12 %
 
 **8,00 €**
 
-Pinot Grigio Delle Venezie DOC, Fabiano 25 Cl 12% valge vein 
+Pinot Grigio Delle Venezie DOC, Fabiano 25 Cl 12% valge vein
 
 **9,00 €**
 
-Pinot Grigio Delle Venezie Rose DOC, Fabiano 25 cl 12% roosa vein 
+Pinot Grigio Delle Venezie Rose DOC, Fabiano 25 cl 12% roosa vein
 
 **9,00 €**
 
-Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein 
+Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein
 
 **9,00 €**
 
- <div class="ellipsis"></div>
+<div class="ellipsis"></div>
 
 > UULITSA KOKTEILID / COCTAILS
 
