@@ -13,48 +13,51 @@ new: false
 
 **Uulitsa käsitöökartulid cheddar-juustuga /  
 Uulits handmade potato wedges with cheddar cheese sauce**  
-**5,50 €**  
+**5,90 €**  
 <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
 **Uulitsa bataadifriikad cheddar-juustuga /  
 Uulits sweet potato wedges with cheddar sauce  
-6,50 €**  
+6,90 €**  
 <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
 <span class="spicy"></span> **Vürtsikad käsitöökartulid cheddar-juustu ja jalapenodega / Spicy potato wedges with cheddar and jalapenos**
 
-**5,50 €**
+**5,90 €**
 
 <span class="spicy"></span> **Vürtsikad bataadifriikad cheddari ja jalapenodega / Spicy sweet potato wedges with cheddar and jalapenos**  
-**6,50 €**
+**6,90 €**
 
 **Uulitsa käsitöökartulid ketšupi ja majoneesiga /  
 Uulits handmade potato wedges with ketchup and mayonnaise**  
-**5,50 €**
+**5,90 €**
 
 **Uulitsa bataadifriikad ketšupi ja majoneesiga /  
 Uulits sweet potato wedges with ketchup and mayonnaise**  
-**6,50 €**
+**6,90 €**
 
 **Uulitsa käsitöökartulid trühvlimajoneesi ja parmesaniga /  
 Uulits handmade potato wedges with truffle mayonnaise and parmesan**  
-**5,80 €**
+**6,20 €**
 
 **Uulitsa bataadifriikad trühvlimajoneesi ja parmesaniga /  
 Uulits handmade sweet potato wedges with truffle mayonnaise and parmesan**   
-**6,80 €**
+**7,20 €**
 
 <span class="spicy"></span>**Uulitsa  käsitöökartulid kimchi, sriracha ja originaal majoneesiga /  
 Uulits potato wedges with kimchi, sriracha and original mayonnaise**  
-**6,00 €**
+**6,40 €**
 
 <span class="spicy"></span>**Uulitsa  bataadifriikad kimchi, sriracha ja original majoneesiga /  
 Uulits sweet potato wedges with kimchi, sriracha and original  mayonnaise**  
-**7,00 €**
+**7,40 €**
+
+<span class="spicy"></span>**Kananagitsad sriracha majoneesiga/ Chicken nuggets with sriracha mayonnaise**  
+**6,90 €** 
 
 **Uulitsa käsitöökartulid rebitud sealihaga / Uulits loaded potato wedges with pulled pork**
 
-**7,90 €**
+**8,50 €**
 
 <div class="ellipsis"></div>
 
@@ -64,7 +67,7 @@ Uulits sweet potato wedges with kimchi, sriracha and original  mayonnaise**
 
 **Uulitsa käsitöökartulid juustuse hakklihaga /  Uulits loaded potato wedges with cheesy minced meat**
 
-**7,90 €**
+**8,50 €**
 
 <span class="koostis"> Cheddar juust ja juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar cheese and cheese sauce, minced meat, salad onion, green onion.
 
