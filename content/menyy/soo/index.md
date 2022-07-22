@@ -2,7 +2,7 @@
 slug: soo
 title: Soo menüü
 order: 1
-in_nav: false
+in_nav: true
 parent_slug: 
 
 ---
