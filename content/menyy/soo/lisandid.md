@@ -18,7 +18,7 @@ new: false
 > > </span>
 
 Käsitöö täisteraleib / Handmade rye bread  
-**0,60 €**  
+**1,00 €**  
 <span class="koostis">Proovi gurmeeburgereid leiva vahel! Try gourmet burgers with rye bread!</span>
 
 Peekon/juust/jalapeno /  
@@ -37,6 +37,6 @@ Extra sauce
 > >
 > > <span class="vege"></span><span class="vegan"></span>
 
-Kaasa ostes karp /Takeaway box 
+Kaasa ostes karp /Takeaway box
 
-**0,40 €**
+**0,60 €**
