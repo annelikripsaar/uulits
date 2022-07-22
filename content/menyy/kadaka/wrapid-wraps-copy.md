@@ -13,7 +13,7 @@ new: false
 >
 > Telli juurde pitsa ääre kaste!
 
-NB! Pakume pizzasid taas septembris! 
+> <span style="color: #839446;">NB! Pakume pizzasid taas septembris!</span>
 
 **Tomatikastme ja mozzarellaga / With tomato sauce and mozzarella**  
 **9,10 €**
