@@ -114,21 +114,27 @@ ANTVÄRK Paljas Õun vaadisiider / Naked Apple draft cider
 
 > VEINID / WINES
 
-Valge vein, klaas/pudel      White wine, glass/bottle  
-**4,50 € / 19,00 €**
-<span class="koostis">
+Prosecco Spumante DOC Extra Dry, Parolvini 20 Cl 12% 
 
-Pinot Grigio DOC Friuli 2019, Reguta 2018, vol12,5%, Italy, Friuli
+**8,00 €**
 
-Soave DOC 2019 ILatium Morini, vol12,5%, Italy, Veneto </span>
+Prosecco Rosé Millesimato DOC Extra Dry, Parolvini 20 Cl 12 % 
 
-Punane vein, klaas/pudel      Red wine, glass/bottle  
-**5,00 € / 21,00 €** <span class="koostis">Valpolicella DOC 2017 ILatium Morini, vol13%, Italy, Veneto </span>
+**8,00 €**
 
-Prosecco Spumante DOC Extra Dry Parolvini, vol11%, Italy, Veneto   pudel/bottle  
-**5,00 €**
+Pinot Grigio Delle Venezie DOC, Fabiano 25 Cl 12% valge vein 
 
-<div class="ellipsis"></div>
+**9,00 €**
+
+Pinot Grigio Delle Venezie Rose DOC, Fabiano 25 cl 12% roosa vein 
+
+**9,00 €**
+
+Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein 
+
+**9,00 €**
+
+ <div class="ellipsis"></div>
 
 > UULITSA KOKTEILID / COCTAILS
 
