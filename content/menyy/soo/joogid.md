@@ -19,21 +19,21 @@ new: false
 
 Klaas piima või mahla /  
 Glass of milk or juice  
-**2,50 €**
+**2,90 €**
 <span class="koostis">õuna, ploomi, apelsini, tomati, jõhvika, segu apple, plum, orange, tomato, cranberry, multi juice</span>
 
 Karl Friedrich kali / Kvass 0.33l  
-**3,00 €**
+**3,50 €**
 
-Uulitsa limonaad /  Uulits' fresh lemonade   
-**4,00 €**
+Uulitsa limonaad /  Uulits' fresh lemonade  
+**4,30 €**
 <span class="koostis">greibi, sidruni, apelsini, mango-laimi grapefruit, lemon, orange, mango-lime</span>
 
 ON Lemon naturaalne limonaad / Natural lemonade  
-**3,50 €** <span class="koostis">tikri, mustsõstra. gooseberry, blackcurrant</span>
+**3,90 €** <span class="koostis">tikri, mustsõstra. gooseberry, blackcurrant</span>
 
 WOSTOK limonaad / Lemonade  
-**3,50 €**
+**3,90 €**
 <span class="koostis">ploomi-kardemoni plum-cardamom</span>
 
 FRITZ limonaad / Soft drink  
@@ -53,11 +53,11 @@ Pudelivesi / Bottled water
 
 Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer
 
-**4,00 €**
+**5,00 €**
 
 Alkoholivaba õlu Kronenbourg 1664 Blanc / alcohol-free beer
 
-**3,50 €**
+**4,00 €**
 
 <div class="ellipsis"></div>
 
@@ -77,16 +77,23 @@ Tee tassis/  kannus   Cup of tea/ Pot of tea
 > LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS
 
 Raasiku käsitööõlu / Craft beer 0.33l  
-**4,50 €** 
+**5,00 €**
 
 <span class="koostis">pilsner, märzen, meeõlu /honey</span>
 
 Valmiermuiža õlu / Beer 0.33l  
-**4,50 €**
+**5,50 €**
 <span class="koostis">tume, hele / pale, dark</span>
 
 Sheppy's Vintage Cider  
-**6,00 €**
+**8,00 €**
+
+Sheppy's Rasberry cider 4% 0,5l 
+
+**7,30 €**
+
+Sheppys Elderflower cider 4,5% 0,5l  
+**7,30 €**
 
 Saku Kuld vaadiõlu /draft beer 5,2% 0.33L/0.5L
 
@@ -98,7 +105,7 @@ Kronenbourg 1664 Blanc 5% vaadiõlu / draft beer
 
 ANTVÄRK Paljas Õun vaadisiider / Naked Apple draft cider
 
-4,5% 0.33L 
+4,5% 0.33L
 
 **4,00 €**
 <span class="koostis">poolkuiv õunasiider, rabarberi pikero apple cider semi-dry, rhubarb pikero</span>
@@ -111,18 +118,22 @@ Valge vein, klaas/pudel      White wine, glass/bottle
 **4,50 € / 19,00 €**
 <span class="koostis">
 
-Pinot Grigio DOC Friuli 2019, Reguta 2018, vol12,5%, Italy, Friuli 
+Pinot Grigio DOC Friuli 2019, Reguta 2018, vol12,5%, Italy, Friuli
 
 Soave DOC 2019 ILatium Morini, vol12,5%, Italy, Veneto </span>
 
-Punane vein, klaas/pudel      Red wine, glass/bottle   
+Punane vein, klaas/pudel      Red wine, glass/bottle  
 **5,00 € / 21,00 €** <span class="koostis">Valpolicella DOC 2017 ILatium Morini, vol13%, Italy, Veneto </span>
 
-Prosecco Spumante DOC Extra Dry Parolvini, vol11%, Italy, Veneto   pudel/bottle   
-**5,00 €** 
+Prosecco Spumante DOC Extra Dry Parolvini, vol11%, Italy, Veneto   pudel/bottle  
+**5,00 €**
 
 <div class="ellipsis"></div>
 
-> PUNCH KOKTEILID / PUNCH COCTAILS
+> UULITSA KOKTEILID / COCTAILS
 
-**7,00 €** <span class="koostis">Orange Black Tea Collins, Gin Tonic, Elderflower Spritz, Ginger and Mule, Whiskey Sour, Veneziano Spritz</span>
+Uulitsa G&T **7,50 €**
+
+Passioni G&T **7,90 €**
+
+Ananassi Daiquiri **7,90 €**
