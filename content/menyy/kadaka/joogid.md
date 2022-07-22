@@ -61,4 +61,36 @@ Sheppys Rasberry Cider 4% 0,5l  **7,30 €**
 
 Sheppys Elderflower Cider 4,5% 0,5l  **7,30 €**
 
+<div class="ellipsis"></div> VEINID / WINES
+
+Prosecco Spumante DOC Extra Dry, Parolvini 20 Cl 12%
+
+**8,00 €**
+
+Prosecco Rosé Millesimato DOC Extra Dry, Parolvini 20 Cl 12 %
+
+**8,00 €**
+
+Pinot Grigio Delle Venezie DOC, Fabiano 25 Cl 12% valge vein
+
+**9,00 €**
+
+Pinot Grigio Delle Venezie Rose DOC, Fabiano 25 cl 12% roosa vein
+
+**9,00 €**
+
+Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein
+
+**9,00 €**
+
+<div class="ellipsis"></div>
+
+> UULITSA KOKTEILID / COCTAILS
+
+Uulitsa G&T **7,50 €**
+
+Passioni G&T **7,90 €**
+
+Ananassi Daiquiri **7,90 €**
+
 <span class="koostis">Tähelepanu! Tegemist on alkoholiga. Alkohol võib kahjustada teie tervist.</span>
