@@ -11,12 +11,12 @@ new: false
 
 > Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada wrapi või salatiga. Kõiki burgereid saab tellida vegan pihvi või lisapihviga. Lisapihv 3 €.
 >
-> Kaasa ostes lisandub pakenditasu 0.40.
+> Kaasa ostes lisandub pakenditasu 0.60.
 
 <span class="special"></span>
 Uulitsa burger /  
 Uulits beef burger  
-**8,00 €**  
+**9,10 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw. Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, coleslaw</span>
 
 Veiselihaburger magusa sinepikastmega /  
