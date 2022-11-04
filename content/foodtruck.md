@@ -4,8 +4,8 @@ title: Food Truck
 order: 6
 featured_image: uploads/foodtruck2.jpg
 video: uploads/img_7727.jpeg
-extra: Firmapeod, pulmad ja muud üritused, kus sinu arvates peaks Uulits rahva maitsemeeli
-  hellitama.
+extra: Firmapeod, pulmad, juubelid ja muud üritused, kus sinu arvates peaks Uulits
+  rahva maitsemeeli hellitama.
 
 ---
 # FoodTruck
