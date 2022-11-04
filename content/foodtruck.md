@@ -8,8 +8,8 @@ extra: Firmapeod, pulmad ja muud üritused, kus sinu arvates peaks Uulits rahva 
   hellitama.
 
 ---
-# Food Truck
+# FoodTruck
 
 Kallid kliendid!
 
-Anname teada, et meie foodtruckid vuravad taas ringi mööda üritusi ning teenindavad teid soovi korral ka eraüritustel  kevadsuvisel hooajal.
+Anname teada, et meie foodtruckid on talvekorteris ning vuravad taas ringi mööda üritusi 2023 kevadsuvisel hooajal.
