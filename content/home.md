@@ -1,7 +1,7 @@
 ---
 slug: home
 title: Avaleht
-in_nav: false
+in_nav: true
 
 ---
 > Kallid kliendid!
