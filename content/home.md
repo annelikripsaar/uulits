@@ -10,7 +10,7 @@ Tulge meie juurde nautima tõelist tänavatoitu: friikaid värsketest kodumaiste
 
 Meil on hea meel valmistada teile gurmeeburgereid juba 8 aastat!
 
-> Ootame Sind Uulitsates Tallinnas Kadakas, Kalamajas ja Viimsis, Tartu südalinnas ja suvehooajal Pärnu Rannapargis!
+> Ootame Sind Uulitsates Tallinnas Kadakas, Kalamajas, Baltas ja Viimsis, Tartu südalinnas ja suvehooajal Pärnu Rannapargis!
 
 ![](uploads/uulitsapoisid.png)
 
