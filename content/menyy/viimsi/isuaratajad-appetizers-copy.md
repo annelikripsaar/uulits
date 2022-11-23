@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 0
 title: GRILLVÕIKUD / TOASTS
 slug: grillvoikud
 in_nav: false
