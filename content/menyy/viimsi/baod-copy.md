@@ -68,7 +68,7 @@ Spicy chorizo-burger**
 
 **Laste juustuburger + käsitöö friikad / Cheeseburger + potato wedges for kids**
 
-**6,90 €**
+**7,50 €**
 
 <span class="koostis"> Kukkel, 100% veiselihapihv, cheddar juust, Uulitsa ürdimajonees, Uulitsa ketšup. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, ketchup.
 
