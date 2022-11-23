@@ -7,7 +7,7 @@ parent_slug: viimsi
 new: false
 
 ---
-<span class="special"></span>**Käsitööleib/ Handmade rye bread** **0,60 €**
+<span class="special"></span>**Käsitööleib/ Handmade rye bread** **1€**
 
 Bun can be replaced by wrap, bread or salad.
 
@@ -29,4 +29,4 @@ All burgers can be ordered with extra patty.
 >
 > **All sauces can be replaced with vegan raita sauce.**
 
-**Kaasa karp /Takeaway box  0,40 €**
+**Kaasa karp /Takeaway box  0,60 €**
