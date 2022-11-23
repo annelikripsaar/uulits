@@ -43,7 +43,7 @@ trühvlimajoneesi ja parmesaniga/ with truffle mayonnaise and parmesan cheese
 
 <div class="ellipsis"></div>
 
-> <span class="koostis">cheddar juust, sriracha majonees, jalapenod, rebitud sealiha, murulauk. Cheddar cheese, sriracha mayonnaise, jalapenos, pulled pork, green onion.
+> <span class="koostis">cheddar juust, sriracha majonees, jalapenod, rebitud sealiha, murulauk. Cheddar cheese, sriracha mayonnaise, jalapenos, pulled pork, chives.
 >
 > <span class="spicy"></span>
 
@@ -51,7 +51,7 @@ trühvlimajoneesi ja parmesaniga/ with truffle mayonnaise and parmesan cheese
 
 **8,50 €**
 
-<span class="koostis">cheddar juust, cheddar juustu kaste, majonees, hakkliha, salatisibul, murulauk. Cheddar, cheddar cheese sauce, mayonnaise, minced meat, salad onion, green onion.
+<span class="koostis">cheddar juust, cheddar juustu kaste, majonees, hakkliha, salatisibul, murulauk. Cheddar, cheddar cheese sauce, mayonnaise, minced meat, salad onion, chives.
 
 **Käsitöö kananagitsad klassikalise majoneesiga / Handmade chicken nuggets with original mayonnaise**
 
