@@ -60,7 +60,7 @@ Spicy chorizo-burger**
 
 **Vegan burger No Beef pihviga/ Vegan burger with No Beef patty**
 
-**9,90 €**
+**10,50 €**
 
 <span class="koostis"> Vegan kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, No Beef vegan patty, vegan chipotle mayonnaise, vegan raita sauce, crisphead lettuce, tomato, salad onion, pickles.
 
