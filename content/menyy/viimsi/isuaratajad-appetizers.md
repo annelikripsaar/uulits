@@ -13,47 +13,43 @@ new: false
 
 cheddar-juustuga/ with cheddar cheese sauce
 
-**5,50 €**
+**5,90 €**
 
 <span class="spicy"></span> cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos
 
-**5,50** **€**
+**5,90** **€**
 
 trühvlimajoneesi ja parmesaniga / with truffle mayonnaise and parmesan
 
-**5,80 €**
-
-kimchi, originaal- ja sriracha majoneesiga /with kimchi, original and sriracha mayonnaise  **6,00** **€**<span class="spicy"></span>
+**6,20 €**
 
 **Uulitsa bataadifriikad / Uulits' sweet potato wedges**
 
 cheddar-juustuga/with cheddar cheese sauce
 
-**6,50 €**
+**6,90 €**
 
-cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos **6,50 €** <span class="spicy"></span>
+cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos 
+
+**6,90 €** <span class="spicy"></span>
 
 trühvlimajoneesi ja parmesaniga/ with truffle mayonnaise and parmesan cheese
 
-**6,80 €**
-
-kimchi, originaal- ja sriracha majoneesiga / with kimchi, original and sriracha mayonnaise
-
-**7,00 €** <span class="spicy"></span>
+**7,20 €**
 
 **Uulitsa käsitöökartulid rebitud sealihaga/ Uulits' loaded**  **potato wedges with pulled pork**
 
-**7,90 €**
+**8,50 €**
 
 <div class="ellipsis"></div>
 
-> <span class="koostis">cheddar juust, sriracha majonees, punased ja rohelised jalapenod, rebitud sealiha, roheline sibul. Cheddar cheese, sriracha mayonnaise, red and green jalapenos, pulled pork, green onion.
+> <span class="koostis">cheddar juust, sriracha majonees, jalapenod, rebitud sealiha, murulauk. Cheddar cheese, sriracha mayonnaise, jalapenos, pulled pork, green onion.
 >
 > <span class="spicy"></span>
 
 **Uulitsa käsitöökartulid juustuse hakklihaga / Uulits' loaded potato wedges with cheesy minced meat**
 
-**7,90 €**
+**8,50 €**
 
 <span class="koostis">cheddar juust, juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar, cheese sauce, mayonnaise, minced meat, salad onion, green onion.
 
