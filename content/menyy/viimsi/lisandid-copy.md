@@ -1,7 +1,7 @@
 ---
 order: 5
-title: LISANDID-(copy)
-slug: lisandid
+title: JOOGID / BEVERAGES
+slug: joogid
 in_nav: false
 parent_slug: viimsi
 new: false
