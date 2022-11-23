@@ -7,26 +7,52 @@ parent_slug: viimsi
 new: false
 
 ---
-<span class="special"></span>**Käsitööleib/ Handmade rye bread** **1€**
+<div class="ellipsis"></div>
 
-Bun can be replaced by wrap, bread or salad.
+> Meie jookide valiku kohta küsi lisa teenindajalt!
 
-**Peekon/juust/jalapeno**   **Bacon/cheese/jalapeno**
+Kohv / Coffee  
+**2,50 €**
 
-**1,00 €**
+ON Lemon naturaalsed limonaadid / natural lemonades  
+**3,90 €**
 
-<span class="special"></span>**Lisapihv / Extra patty**  **3,00 €**
+Kombucha - vaarikas, originaal, ananass/rasberry, original, pineapple  
+**3,50 €**
 
-All burgers can be ordered with extra patty.
+Küllus mahlad - apelsin, õun, multi, tomati/ Juices - orange, apple, multi, tomato  
+**3,50 €**
 
-**Lisakaste** **/ Extra sauce** **2,00 €**
+Vitamin Well - Reload, Hydrate  
+**3,50 €**
 
-<span class="koostis">Uulitsa ürdimajonees, Uulitsa ketšup, sriracha majonees, sibulamoos, cheddar juustu kaste jne. Uulits herb mayonnaise, ketchup, sriracha mayonnaise, red onion jam, cheddar cheese sauce etc
+CocaCola / Coca-Cola Zero  
+**2,50 €**
 
-<span class="vege"></span><span class="vegan">
+Klaas mahla / Glass of juice  
+**2,90 €**
 
-> **Kõiki kastmeid saab asendada vegan raita kastmega.**
->
-> **All sauces can be replaced with vegan raita sauce.**
+Kali Karl Friedrich 0,33L 0% / Kvass  **3,50 €**
 
-**Kaasa karp /Takeaway box  0,60 €**
+Bulldog Easy Rider 0,33L 0% **5,00 €**
+
+Vesi pudelis mulliga ja mullita/ Bottled water still and carbonated  
+**2,50 €**
+
+<span class="special"></span> Vaadiõlu ja -siider / Draft beers and ciders
+
+Saku Hele 0,5L 5,2%  **4,50 €**
+
+BLANC  Kronenbourg 0,5L 5% **5,00 €**
+
+<span class="koostis">Tähelepanu! Tegemist on alkoholiga.  Alkohol võib kahjustada teie tervist.</span>
+
+Valmiermuiža õlu 0,33L 5,2%  **5,00 €**
+
+Põhjala käsitööõlu / Craft beer **5,50 €**
+
+Sheppys Vintage Cider 7,4% 0,5l  **8,00 €**
+
+Sheppys Rasberry Cider 4% 0,5l  **7,30 €**
+
+Sheppys Elderflower Cider 4,5% 0,5l  **7,30 €**
