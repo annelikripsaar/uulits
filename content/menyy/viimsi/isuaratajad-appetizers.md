@@ -29,7 +29,7 @@ cheddar-juustuga/with cheddar cheese sauce
 
 **6,90 €**
 
-cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos 
+cheddar-juustu ja jalapenodega  / with cheddar cheese sauce and jalapenos
 
 **6,90 €** <span class="spicy"></span>
 
@@ -55,4 +55,4 @@ trühvlimajoneesi ja parmesaniga/ with truffle mayonnaise and parmesan cheese
 
 **Käsitöö kananagitsad klassikalise majoneesiga / Handmade chicken nuggets with original mayonnaise**
 
-**6,90 €**
+**7,30 €**
