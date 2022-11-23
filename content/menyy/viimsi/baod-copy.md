@@ -25,6 +25,13 @@ new: false
 
 <span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, jääsalat, Emmentali juust, magus sinepikaste, tomat, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, herb mayonnaise, crisphead lettuce, Emmental cheese, sweet mustard sauce, tomato, salad onion, pickles.
 
+**Veiselihaburger sinihallitusjuustuga /  
+Beef burger with blue cheese**
+
+**10,10 €**
+
+<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, jääsalat, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk,  Bun, 100% angus beef patty, Uulits herb mayonnaise, gorgonzola cheese, crisphead lettuce, salad onion, tomato, Uulits ketchup, pickles</span>
+
 <span class="spicy"></span>**Krõbekana burger sriracha majoneesi ja coleslaw salatiga/ Crispy chicken burger with sriracha mayonnaise and coleslaw**
 
 **10,10 €**
