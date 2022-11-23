@@ -1,6 +1,6 @@
 ---
 order: 4
-title: GURMEEBURGERID / GOURMET BURGERS
+title: GURMEEBURGERID JA WRAPID / GOURMET BURGERS AND WRAPS
 slug: gurmeeburgerid
 in_nav: false
 parent_slug: viimsi
