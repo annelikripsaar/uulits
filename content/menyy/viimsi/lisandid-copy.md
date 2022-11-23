@@ -12,7 +12,7 @@ new: false
 > Meie jookide valiku kohta küsi lisa teenindajalt!
 
 Kohv / Coffee  
-**2,50 €**
+**2,70 €**
 
 ON Lemon naturaalsed limonaadid / natural lemonades  
 **3,90 €**
