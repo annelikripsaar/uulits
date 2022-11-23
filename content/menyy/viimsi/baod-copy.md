@@ -84,3 +84,9 @@ Spicy chorizo-burger**
 **10,10 €**
 
 <span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa teriyaki kaste, coleslaw salat, jääsalat, salatisibul, tomat. Durum tortilla, crispy chicken meat, Uulits teriyaki sauce, coleslaw, crisphead lettuce, salad onions, tomato</span>
+
+**Fitlap kanawrap / Wholegrain Chicken wrap =376 kcal**
+
+**7,90 €**
+
+<span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>Fitlap 376 kcal</span>
