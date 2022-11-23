@@ -74,6 +74,6 @@ Spicy chorizo-burger**
 
 <span class="spicy"></span> **Krõbekana wrap / Crispy chicken wrap**
 
-**9,50 €**
+**10,10 €**
 
 <span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa teriyaki kaste, coleslaw salat, jääsalat, salatisibul, tomat. Durum tortilla, crispy chicken meat, Uulits teriyaki sauce, coleslaw, crisphead lettuce, salad onions, tomato</span>
