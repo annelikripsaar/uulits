@@ -9,13 +9,13 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> > Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid. 
+> > Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid.
 > >
 > > Küsi valiku kohta lisa teenindajalt!
 > >
-> > You can find the different estonian tastes in our drinks and beverages menu: craft beers and ciders, natural juice drinks and house made lemonades. 
+> > You can find the different estonian tastes in our drinks and beverages menu: craft beers and ciders, natural juice drinks and house made lemonades.
 > >
-> > Ask more our people! 
+> > Ask more our people!
 
 Kohv / Coffee **2,50 €**
 
@@ -24,6 +24,10 @@ Cappuccino/ Cafe latte **3 €**
 Tee / Tea **2.50 €**
 
 Pitcher tea _(black, peppermint, hibiscus)_  **4.50 €**
+
+<div class="ellipsis"></div>
+
+> KÜLMAD JOOGID / SOFT DRINKS
 
 Uulitsa käsitöölimonaad / Uulits' craft lemonade **4,90 €**
 
