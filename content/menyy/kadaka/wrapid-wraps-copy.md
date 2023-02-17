@@ -13,14 +13,10 @@ new: false
 >
 > Telli juurde pitsa ääre kaste!
 
-> <span style="color: #839446;">NB! Pakume pizzasid taas septembris!</span>
-
-**Tomatikastme ja mozzarellaga / With tomato sauce and mozzarella**  
-**9,10 €**
-
-**Nelja juustuga / With four cheese**  
-**14,10 €**  
-<span class="koostis">Tomatikaste, mozzarella, gorgonzola, kitsejuust, parmesan, prosciutto drudo, rukola. Tomato sauce, mozzarella, gorgonzola, goat cheese, parmesan, prosciutto crudo, rucola</span>
+> 
+>
+> **Tomatikastme ja mozzarellaga / With tomato sauce and mozzarella**  
+> **9,50 €**
 
 **Prosciutto ja parmesaniga / With prosciutto and parmesan**  
 **12,50 €**  
