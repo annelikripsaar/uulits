@@ -14,8 +14,13 @@ new: false
 Kohv / Coffee  
 **2,50 €**
 
-Tee tassis / kannus    Tea in cup/in jug  
-**1,90 €/ 3.90 €**
+Cappuccino/ Cafe latte  
+**3 €**
+
+Tee / Tea   
+**2.50 €**
+
+Pitcher tea _(black, peppermint, hibiscus)_  **4.50 €**
 
 Uulitsa käsitöölimonaad / Uulits' lemonades **4,50 €**
 
@@ -45,7 +50,7 @@ Vesi pudelis mulliga ja mullita/ Bottled water still and carbonated
 
 <span class="special"></span> Vaadiõlu ja -siider / Draft beers and ciders
 
-Saku Hele 0,5L 5,2%  **4,50 €**
+Saku Gold 0,5L 5,2%  **4,50 €**
 
 BLANC  Kronenbourg 0,5L 5% **5,00 €**
 
