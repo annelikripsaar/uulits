@@ -52,6 +52,10 @@ Kali Karl Friedrich 0,33L 0% / Kvass  **3,50 €**
 
 Bulldog Easy Rider 0,33L 0% **6,00 €**
 
+Mikeller Limbo Series Riesling 0% -0,33l  **5,50 €**
+
+Mikeller Drinkin the Sun beer 0%-0,33l  **5,50 €**
+
 Vesi pudelis mulliga ja mullita/ Bottled water still and carbonated  **2,50 €**
 
 <div class="ellipsis"></div>
