@@ -11,10 +11,14 @@ new: false
 
 > Mõnusalt kerged, kuid toitvad!
 
-<span class="spicy"></span> **Krõbekanawrap / Crispy Chicken wrap**  
-**10,10 €**  
-<span class="koostis">Nisutortilla, krõbekana, Uulitsa sriracha majonees, Uulitsa teriyaki kaste, coleslaw salat, jääsalat, salatisibul, tomat. Durum tortilla, chicken fillet, Uulits sriracha mayonnaise, Uulits teriyaki sauce, coleslaw, crisphead lettuce, salad onion, tomato</span>
+<span class="spicy">**Bao krõbekana ja korea salatiga / Crispy chicken bao with korean salad**
 
-<span class="special"></span>**Vegan wrap**  
-**10,50 €**  
-<span class="koostis">Nisutortilla, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Durum tortilla, beyond patty, vegan chipotle mayonnaise, vegan raita sauce, crisphead lettuce, tomato, onion, pickles</span> <span class="vegan"></span>
+**9,60 €**
+
+<span class="koostis">Aasiapärane aurukukkel, krõbe kanaliha, teriyaki kaste, küüslaugune korea salat, sriracha majonees. Asian steamed bun, crispy chicken meat, teriyaki sauce, korean salad with garlic, sriracha mayonnaise.
+
+<span class="spicy">**Bao _Caesari_ ja krõbeda krevetiga / Bao with _Caesar_ and crispy tiger prawn**
+
+**9,60 €**
+
+<span class="koostis">Aasiapärane aurukukkel, krõbe tiigerkrevett, teriyaki kaste, Caesari kaste, parmesan, rooma salat. Asian steamed bun, crispy tiger prawn, teriyaki sauce, Caesar sauce, parmesan, roman salad.
