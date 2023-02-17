@@ -108,6 +108,10 @@ Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein
 
 **9,00 €**
 
+Pfaff Pinot Gris Tradition, 2018 Pfaffenheim 75 Cl 13%
+
+**22 €**
+
 <div class="ellipsis"></div>
 
 > UULITSA KOKTEILID / UULITS' COCTAILS
