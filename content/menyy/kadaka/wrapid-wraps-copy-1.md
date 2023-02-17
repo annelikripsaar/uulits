@@ -9,7 +9,7 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Mõnusalt kerged, kuid toitvad!
+> Uudisena meie menüüs! Mõnusalt kerged, kuid toitvad!
 
 <span class="spicy">**Bao krõbekana ja korea salatiga / Crispy chicken bao with korean salad**
 
