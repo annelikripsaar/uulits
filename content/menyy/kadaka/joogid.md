@@ -19,31 +19,26 @@ Tee / Tea **2.50 €**
 
 Pitcher tea _(black, peppermint, hibiscus)_  **4.50 €**
 
-Uulitsa käsitöölimonaad / Uulits' lemonades **4,50 €**
+Uulitsa käsitöölimonaad / Uulits' craft lemonade **4,90 €**
 
 <span class="koostis">mango-laim, greip, apelsin, sidrun. Mango-lime, grape, orange, lemon
 
 ON Lemon naturaalsed limonaadid / natural lemonades  
 **3,90 €**
 
-Fritz limonaadid / lemonades  
-**3,50 €**
+Fritz limonaadid / lemonades **3,50 €**
 
-Wostok limonaadid / lemonades  
-**3,90 €**
+Wostok limonaadid / lemonades **3,90 €**
 
-CocaCola / Coca-Cola Zero/ Fuze Tea  
-**2,50 €**
+CocaCola / Coca-Cola Zero/ Fuze Tea  **2,90 €**
 
-Klaas mahla / Glass of juice  
-**2,90 €**
+Klaas mahla / Glass of juice **2,90 €**
 
 Kali Karl Friedrich 0,33L 0% / Kvass  **3,50 €**
 
 Bulldog Easy Rider 0,33L 0% **5,00 €**
 
-Vesi pudelis mulliga ja mullita/ Bottled water still and carbonated  
-**2,50 €**
+Vesi pudelis mulliga ja mullita/ Bottled water still and carbonated  **2,50 €**
 
 <span class="special"></span> Vaadiõlu ja -siider / Draft beers and ciders
 
