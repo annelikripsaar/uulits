@@ -79,5 +79,5 @@ Pulled pork burger with coleslaw**
 
 **Sai-pihv-sai lastele /  
 Bun-Patty-Bun for kids**  
-**7,50 €**  
+**7,90 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, cheddar juustu kaste, Uulitsa ürdimajonees, Uulitsa ketšup. Bun, 100% angus beef patty, cheddar cheese sauce, Uulits herb mayonnaise and ketchup</span>
