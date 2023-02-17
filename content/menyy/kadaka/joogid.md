@@ -110,7 +110,7 @@ Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein
 
 <div class="ellipsis"></div>
 
-> UULITSA KOKTEILID / COCTAILS
+> UULITSA KOKTEILID / UULITS' COCTAILS
 
 Uulitsa G&T **7,50 €**
 
