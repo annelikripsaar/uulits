@@ -17,6 +17,10 @@ new: false
 > >
 > > Ask more our people!
 
+<div class="ellipsis"></div>
+
+> KUUMAD JOOGID / HOT DRINKS
+
 Kohv / Coffee **2,50 €**
 
 Cappuccino/ Cafe latte **3 €**
