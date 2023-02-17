@@ -1,6 +1,6 @@
 ---
-slug: wrapid
-title: GRILLVÕIKUD JA WRAPID / TOASTS AND WRAPS
+slug: baod ja wrapid
+title: BAOD JA WRAPID / BAOS AND WRAPS
 order: 5
 in_nav: false
 parent_slug: soo
@@ -9,7 +9,7 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Maitse toitvaid grillvõikusid! Küsi lisa teenindajalt!
+> Nüüd menüüs ka baod! Küsi lisa teenindajalt!
 
 <span class="spicy"></span>
 
