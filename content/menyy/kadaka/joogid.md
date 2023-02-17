@@ -54,9 +54,9 @@ Põhjala käsitööõlu / Craft beer **5,50 €**
 
 Sheppys Vintage Cider 7,4% 0,5l  **8,00 €**
 
-Sheppys Rasberry Cider 4% 0,5l  **7,30 €**
+Sheppys Rasberry Cider 4% 0,5l  **7,90 €**
 
-Sheppys Elderflower Cider 4,5% 0,5l  **7,30 €**
+Sheppys Elderflower Cider 4,5% 0,5l  **7,90 €**
 
 <div class="ellipsis"></div> VEINID / WINES
 
