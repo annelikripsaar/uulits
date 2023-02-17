@@ -1,7 +1,7 @@
 ---
 slug: lisandid
 title: LISANDID / EXTRAS
-order: 3
+order: 5
 in_nav: false
 parent_slug: tartu
 new: false
