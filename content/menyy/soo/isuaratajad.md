@@ -60,7 +60,7 @@ Uulits sweet potato wedges with truffle mayonnaise and parmesan
 
 <span class="spicy"></span>Uulitsa käsitöö-kananagitsad sriracha majoneesiga/  
 Uulits handmade chicken nuggets with sriracha mayonnaise  
-**8,90 €**
+**7,90 €**
 
 <span class="special"></span>
 Uulitsa käsitöökartulid juustuse hakklihaga /  
