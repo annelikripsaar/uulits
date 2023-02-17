@@ -1,7 +1,7 @@
 ---
 slug: joogid
 title: JOOGID / BEVERAGES
-order: 4
+order: 6
 in_nav: false
 parent_slug: kadaka
 new: false
