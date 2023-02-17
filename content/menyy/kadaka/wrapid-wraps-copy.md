@@ -1,7 +1,7 @@
 ---
 slug: pitsad
 title: NAPOLI STIILIS PITSAD / PIZZAS A LA NAPOLI
-order: 3
+order: 5
 in_nav: false
 parent_slug: kadaka
 new: false
