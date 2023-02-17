@@ -36,24 +36,23 @@ Uulits handmade potato wedges with ketchup and mayonnaise**
 Uulits sweet potato wedges with ketchup and mayonnaise**  
 **6,90 €**
 
-**Uulitsa käsitöökartulid trühvlimajoneesi ja parmesaniga /  
-Uulits handmade potato wedges with truffle mayonnaise and parmesan**  
-**6,20 €**
+**Uulitsa käsitöökartulid trühvlimajoneesi ja parmesaniga / Uulits handmade potato wedges with truffle mayonnaise and parmesan**  
+**6,50 €**
 
 **Uulitsa bataadifriikad trühvlimajoneesi ja parmesaniga /  
 Uulits handmade sweet potato wedges with truffle mayonnaise and parmesan**   
-**7,20 €**
+**7,50 €**
 
 <span class="spicy"></span>**Uulitsa  käsitöökartulid kimchi, sriracha ja originaal majoneesiga /  
 Uulits potato wedges with kimchi, sriracha and original mayonnaise**  
-**6,40 €**
+**6,50 €**
 
 <span class="spicy"></span>**Uulitsa  bataadifriikad kimchi, sriracha ja original majoneesiga /  
 Uulits sweet potato wedges with kimchi, sriracha and original  mayonnaise**  
-**7,40 €**
+**7,50 €**
 
 <span class="spicy"></span>**Kananagitsad sriracha majoneesiga/ Chicken nuggets with sriracha mayonnaise**  
-**6,90 €** 
+**7,90 €**
 
 **Uulitsa käsitöökartulid rebitud sealihaga / Uulits loaded potato wedges with pulled pork**
 
