@@ -9,9 +9,11 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja limonaadid. Väike vein hea toidu kõrvale.
+> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid. Väike vein hea toidu kõrvale.
 >
 > Küsi lisa teenindajalt!
+>
+> You can find the different estonian tastes in our drink and beverages section: craft beers and ciders, natural juice drinks and house made lemonades. Or a glass of wine. Ask more our people! 
 
 <div class="ellipsis"></div>
 
@@ -37,11 +39,11 @@ WOSTOK limonaad / Lemonade
 <span class="koostis">ploomi-kardemoni plum-cardamom</span>
 
 FRITZ limonaad / Soft drink  
-**3,50 €**
+**3,90 €**
 <span class="koostis">cola, rabarber cola, rhubarb</span>
 
 Punch limonaad / lemonade  
-**3,50 €** <span class="koostis">mate ja lemon, passion fruit ja mate</span>
+**3,90 €** <span class="koostis">mate ja lemon, passion fruit ja mate</span>
 
 Värskelt pressitud mahl / Fresh juice 0.33l  
 **5,50 €**
@@ -53,11 +55,11 @@ Pudelivesi / Bottled water
 
 Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer
 
-**5,00 €**
+**6,00 €**
 
 Alkoholivaba õlu Kronenbourg 1664 Blanc / alcohol-free beer
 
-**4,00 €**
+**4,50 €**
 
 <div class="ellipsis"></div>
 
@@ -65,9 +67,15 @@ Alkoholivaba õlu Kronenbourg 1664 Blanc / alcohol-free beer
 
 Kohv / Coffee  **3,00 €**
 
+Espresso **2,50 €**
+
 Suur kohv / Large coffee **4,00 €**
 
-Cappuccino, Kakao  **3,00 €**
+Cappuccino  **3,20 €**
+
+Kakao  **3 €**
+
+Mandli- või kaerapiim / Almond or oat milk  **0,30 €**
 
 Tee tassis/  kannus   Cup of tea/ Pot of tea  
 **2,00 € / 4,00 €**
@@ -75,11 +83,6 @@ Tee tassis/  kannus   Cup of tea/ Pot of tea
 <div class="ellipsis"></div>
 
 > LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS
-
-Raasiku käsitööõlu / Craft beer 0.33l  
-**5,00 €**
-
-<span class="koostis">pilsner, märzen, meeõlu /honey</span>
 
 Valmiermuiža õlu / Beer 0.33l  
 **5,50 €**
@@ -96,10 +99,10 @@ Sheppy's Vintage Cider
 
 Sheppy's Rasberry cider 4% 0,5l
 
-**7,30 €**
+**7,50 €**
 
 Sheppys Elderflower cider 4,5% 0,5l  
-**7,30 €**
+**7,50 €**
 
 Saku Hele vaadiõlu /draft beer 5,2% 0.5L
 
