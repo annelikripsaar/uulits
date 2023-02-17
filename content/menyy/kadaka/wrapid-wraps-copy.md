@@ -30,9 +30,9 @@ new: false
 **13,50 €**  
 <span class="koostis">Tomatikaste, prosciutto cotto, gorgonzola juust, mozzarella, viigimari, kreeka pähkel, rukola. Tomato sauce, prosciutto cotto, gorgonzola, mozzarella cheese, figs, walnuts, rucola</span>
 
-<span class="spicy"></span> **Salaami ja oliividega / With salami and olives**  
+<span class="spicy"></span> **Vürtsikas** **salaami grillitud baklažaani ja küüslauguga / With salami, grilled eggplant and garlic**  
 **12,90 €**  
-<span class="koostis">Tomatikaste, salaami, mozzarella, oliivid, rukola. Tomato sauce, salami, mozzarella, olives,  rucola</span>
+<span class="koostis">Tomatikaste, salaami, mozzarella, rukola, tšillihelbed, oregano, grillitud baklažaan, küüslauk. Tomato sauce, salami, mozzarella, rucola, chilli flakes, oregano, grilled eggplant, garlic.</span>
 
 <span class="spicy"></span> **Rebitud sealihaga / With pulled pork**  
 **13,50 €**  
