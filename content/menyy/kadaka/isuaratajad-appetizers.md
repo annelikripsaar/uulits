@@ -70,6 +70,12 @@ Uulits sweet potato wedges with kimchi, sriracha and original  mayonnaise**
 
 <span class="koostis"> Cheddar juust ja juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar cheese and cheese sauce, minced meat, salad onion, green onion.
 
+<span class="special"></span> <span class="spicy"></span>  **Mozzarellaga täidetud jalapenod _crème fraîche_’ ga , 5 tk/10 tk/ Mozzarella filled jalapenos with _crème fraîche, 5 pc/10 pc_**
+
+**8,90 € / 15 €**
+
+<span class="koostis">Jalapenod, toorsuitsu peekon, mozzarella, ananass, rohelise sibula _crème fraîche._ Jalapenos, bacon, mozzarella, pineapple, green onion _crème fraîche_
+
 **Lisapihv / Extra patty**  
 **3,00 €**
 
