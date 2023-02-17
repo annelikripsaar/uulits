@@ -1,7 +1,7 @@
 ---
 slug: baod
 title: BAOD
-order: 2
+order: 4
 in_nav: false
 parent_slug: kadaka
 new: false
@@ -9,7 +9,7 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Uudisena meie menüüs! Mõnusalt kerged, kuid toitvad!
+> Uudisena meie menüüs! 
 
 <span class="spicy">**Bao krõbekana ja korea salatiga / Crispy chicken bao with korean salad**
 
