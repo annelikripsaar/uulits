@@ -76,7 +76,13 @@ Sheppys Rasberry Cider 4% 0,5l  **7,90 €**
 
 Sheppys Elderflower Cider 4,5% 0,5l  **7,90 €**
 
-<div class="ellipsis"></div> VEINID / WINES
+Mikeller Limbo Series Riesling 0% -0,33l  **5,50 €**
+
+Mikeller Drinkin the Sun beer 0%-0,33l  **5,50 €**
+
+<div class="ellipsis"></div> 
+
+VEINID / WINES
 
 Prosecco Spumante DOC Extra Dry, Parolvini 20 Cl 12%
 
