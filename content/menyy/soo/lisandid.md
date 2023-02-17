@@ -39,4 +39,4 @@ Extra sauce
 
 Kaasa ostes karp /Takeaway box
 
-**0,60 €**
+**0,30 €**
