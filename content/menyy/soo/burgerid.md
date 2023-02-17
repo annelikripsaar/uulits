@@ -11,7 +11,7 @@ new: false
 
 > Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise. Kukli saab asendada wrapi, leiva või salatiga. Kõiki burgereid saab tellida beyond-pihviga ja lisapihviga. Pihvid on vaikimisi medium-küpsusastmes.
 >
-> Kaasa ostes lisandub pakenditasu 0.40.
+> **Kaasa ostes lisandub pakenditasu 0.30.**
 >
 > </span>
 >
