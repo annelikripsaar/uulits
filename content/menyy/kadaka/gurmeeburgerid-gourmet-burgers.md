@@ -15,7 +15,7 @@ new: false
 >
 > Kõiki burgereid saab tellida lisapihviga. Lisapihv 3 €.
 >
-> Kaasa ostes lisandub pakenditasu 0.60. Takeaway packaging fee 0.60.
+> **Kaasa ostes lisandub pakenditasu 0.30 €. Takeaway packaging fee 0.30 €.**
 >
 > </span>
 >
@@ -27,12 +27,12 @@ new: false
 > > > <span class="vege"></span><span class="vegan"></span>
 
 <span class="special"></span> **Uulitsa burger / Uulits' burger  
-9,10 €**  
+9,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw, salatisibul. Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, coleslaw salad, salad onions</span>
 
 **Magusa sinepi kastmega burger /  
 Burger with sweet mustard sauce**  
-**9,10 €**  
+**9,50 €**  
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, jääsalat, salatisibul, tomat, magus sinepikaste, marineeritud kurk.  Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, crisphead lettuce, salad onion, tomato, Uulits sweet mustard sauce, pickles</span>
 
 **Topeltjuustuburger / Double cheeseburger**  
