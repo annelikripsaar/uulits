@@ -112,10 +112,16 @@ Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein
 
 > UULITSA KOKTEILID / UULITS' COCTAILS
 
-Uulitsa G&T **7,50 €**
+Uulits G&T **7,50 €**
 
-Passioni G&T **7,90 €**
+Passion G&T **7,90 €**
 
-Ananassi Daiquiri **7,90 €**
+Pineapple Daiquiri **7,90 €**
+
+Garden of Eden **7,90 €**
+
+Moscow Mule **7,90 €**
+
+Pleasant Grape **7,50 €**
 
 <span class="koostis">Tähelepanu! Tegemist on alkoholiga. Alkohol võib kahjustada teie tervist.</span>
