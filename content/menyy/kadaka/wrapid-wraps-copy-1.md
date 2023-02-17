@@ -1,7 +1,7 @@
 ---
 slug: baod
 title: BAOD
-order: 3
+order: 2
 in_nav: false
 parent_slug: kadaka
 new: false
