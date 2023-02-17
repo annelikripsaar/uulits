@@ -26,7 +26,7 @@ Uulitsa käsitöölimonaad / Uulits' craft lemonade **4,90 €**
 ON Lemon naturaalsed limonaadid / natural lemonades  
 **3,90 €**
 
-Fritz limonaadid / lemonades **3,50 €**
+Fritz limonaadid / lemonades **3,90 €**
 
 Wostok limonaadid / lemonades **3,90 €**
 
@@ -36,7 +36,7 @@ Klaas mahla / Glass of juice **2,90 €**
 
 Kali Karl Friedrich 0,33L 0% / Kvass  **3,50 €**
 
-Bulldog Easy Rider 0,33L 0% **5,00 €**
+Bulldog Easy Rider 0,33L 0% **6,00 €**
 
 Vesi pudelis mulliga ja mullita/ Bottled water still and carbonated  **2,50 €**
 
