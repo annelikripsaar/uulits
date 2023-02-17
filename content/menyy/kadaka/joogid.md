@@ -54,6 +54,10 @@ Bulldog Easy Rider 0,33L 0% **6,00 €**
 
 Vesi pudelis mulliga ja mullita/ Bottled water still and carbonated  **2,50 €**
 
+<div class="ellipsis"></div>
+
+> LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS
+
 <span class="special"></span> Vaadiõlu ja -siider / Draft beers and ciders
 
 Saku Gold 0,5L 5,2%  **4,50 €**
