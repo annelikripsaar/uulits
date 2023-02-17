@@ -11,14 +11,11 @@ new: false
 
 > Meie jookide valiku kohta küsi lisa teenindajalt!
 
-Kohv / Coffee  
-**2,50 €**
+Kohv / Coffee **2,50 €**
 
-Cappuccino/ Cafe latte  
-**3 €**
+Cappuccino/ Cafe latte **3 €**
 
-Tee / Tea   
-**2.50 €**
+Tee / Tea **2.50 €**
 
 Pitcher tea _(black, peppermint, hibiscus)_  **4.50 €**
 
