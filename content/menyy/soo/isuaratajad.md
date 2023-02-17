@@ -22,11 +22,11 @@ Uulits handmade potato wedges with ketchup and mayonnaise
 
 Uulitsa käsitöökartulid trühvlimajoneesi ja parmesaniga /  
 Uulits handmade potato wedges with truffle mayonnaise and parmesan  
-**6,20 €**
+**6,50 €**
 
-Uulitsa käsitöökartulid kimchi, sriracha ja originaal majoneesiga /  
-Uulits handmade potato wedges with kimchi, sriracha and original mayonnaise  
-**6,40 €**
+Uulitsa käsitöökartulid kimchi, sriracha ja klassikalise majoneesiga /  
+Uulits handmade potato wedges with kimchi, sriracha and classy mayonnaise  
+**6,50 €**
 
 Uulitsa bataadifriikad cheddar-juustuga /  
 Uulits sweet potato wedges with cheddar cheese sauce  
@@ -42,14 +42,14 @@ Uulits sweet potato wedges with ketchup and mayonnaise
 
 Uulitsa bataadifriikad trühvlimajoneesi ja parmesaniga /  
 Uulits sweet potato wedges with truffle mayonnaise and parmesan  
-**7,20 €**
-
-<span class="spicy"></span>Uulitsa bataadifriikad kimchi, sriracha ja originaal majoneesiga / Uulits sweet potato wedges with kimchi, sriracha and original mayonnaise  
-**7,40 €**
-
-<span class="special"></span> <span class="spicy"></span>  Mozzarellaga täidetud jalapenod _crème fraîche_’ ga , 5 tk/ Mozzarella filled jalapenos with _crème fraîche, 5 pc_
-
 **7,50 €**
+
+<span class="spicy"></span>Uulitsa bataadifriikad kimchi, sriracha ja klassikalise majoneesiga / Uulits sweet potato wedges with kimchi, sriracha and classy mayonnaise  
+**7,50 €**
+
+<span class="special"></span> <span class="spicy"></span>  Mozzarellaga täidetud jalapenod _crème fraîche_’ ga , 5 tk/10 tk/ Mozzarella filled jalapenos with _crème fraîche, 5 pc/10 pc_
+
+**8,90 € / 15 €**
 
 <span class="koostis">Jalapenod, toorsuitsu peekon, mozzarella, ananass, rohelise sibula _crème fraîche._ Jalapenos, bacon, mozzarella, pineapple, green onion _crème fraîche_
 
@@ -60,7 +60,7 @@ Uulits sweet potato wedges with truffle mayonnaise and parmesan
 
 <span class="spicy"></span>Uulitsa käsitöö-kananagitsad sriracha majoneesiga/  
 Uulits handmade chicken nuggets with sriracha mayonnaise  
-**6,90 €**
+**8,90 €**
 
 <span class="special"></span>
 Uulitsa käsitöökartulid juustuse hakklihaga /  
