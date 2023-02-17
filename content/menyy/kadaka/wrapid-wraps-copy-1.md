@@ -1,6 +1,6 @@
 ---
-slug: wrapid
-title: WRAPID / WRAPS-(copy)
+slug: baod
+title: BAOD
 order: 3
 in_nav: false
 parent_slug: kadaka
