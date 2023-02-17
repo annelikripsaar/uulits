@@ -13,28 +13,24 @@ new: false
 
 <span class="spicy"></span>
 
-Grillvõiku rebitud sealiha, karamellise sibula ja sriracha majoneesiga/ Pulled pork toast with caramelized onion and sriracha mayonnaise
+**Bao krõbekana ja korea salatiga / Crispy chicken bao with korean salad**
 
-**10,10 €**
+**10 €**
 
-<span class="koostis">Brioche sai, rebitud sealiha, sriracha majonees, karamelline sibul, kimchi. Brioche, pulled pork, sriracha mayonnaise, caramelized onion, kimchi
+<span class="spicy"></span><span class="koostis">Aasiapärane aurukukkel, krõbe kanaliha, teriyaki kaste, küüslaugune korea salat, sriracha majonees. Asian steamed bun, crispy chicken meat, teriyaki sauce, korean salad with garlic, sriracha mayonnaise.
 
-<span class="spicy"></span>
+**Bao _Caesari_ ja krõbeda krevetiga / Caesar bao with crispy tiger prawn**
 
-Grillvõiku krõbekana ja kimchiga_/ Crispy chicken toast with kimchi
+**10 €**
 
-**10,10 €**
-
-<span class="koostis"> Brioche sai, krõbekana, sojasiirup, sriracha majonees, kimchi. Brioche, crispy chicken, soya syrup, sriracha mayonnaise, kimchi.
-
-<span class="spicy"></span>
+<span class="spicy"></span><span class="koostis">Aasiapärane aurukukkel, krõbe tiigerkrevett, teriyaki kaste, Caesari kaste, parmesan, rooma salat. Asian steamed bun, crispy tiger prawn, teriyaki sauce, Caesar sauce, parmesan, roman salad.
 
 Krõbekana wrap / Crispy chicken wrap  
-**10,10 €**  
-<span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa sriracha majonees, teriyaki kaste, coleslaw salat, tomat,  salatisibul, jääsalat. Durum tortilla, crispy chicken meat, Uulits' sriracha mayonnaise, teriyaki sauce, coleslaw, tomato, salad onion, crisphead lettuce</span>
+**10,50 €**  
+<span class="spicy"></span><span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa sriracha majonees, teriyaki kaste, coleslaw salat, tomat,  salatisibul, jääsalat. Durum tortilla, crispy chicken meat, Uulits' sriracha mayonnaise, teriyaki sauce, coleslaw, tomato, salad onion, crisphead lettuce</span>
 
 <span class="special"></span>
 
 Fitlap kanawrap / Wholegrain Chicken wrap =376 kcal  
-**7,60 €**  
+**9 €**  
 <span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>Fitlap 376 kcal</span>
