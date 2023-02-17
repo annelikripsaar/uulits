@@ -9,7 +9,13 @@ new: false
 ---
 <div class="ellipsis"></div>
 
-> Meie jookide valiku kohta küsi lisa teenindajalt!
+> > Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid. 
+> >
+> > Küsi valiku kohta lisa teenindajalt!
+> >
+> > You can find the different estonian tastes in our drinks and beverages menu: craft beers and ciders, natural juice drinks and house made lemonades. 
+> >
+> > Ask more our people! 
 
 Kohv / Coffee **2,50 €**
 
