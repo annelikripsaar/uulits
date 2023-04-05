@@ -12,4 +12,6 @@ extra: Firmapeod, pulmad, juubelid ja muud üritused, kus sinu arvates peaks Uul
 
 Kallid kliendid!
 
-Anname teada, et meie foodtruckid on talvekorteris ning vuravad taas ringi mööda üritusi 2023 kevadsuvisel hooajal.
+Meie foodtruckid on alustanud taas hooaega.
+
+Kirjuta meile, kui hindad tõeliselt maitsvat tänavagurmeed, ning tuleme seda foodtruckiga pakkuma avalikule suurüritusele, ettevõtte suvepäevadele või suvisele eraüritusele. 
