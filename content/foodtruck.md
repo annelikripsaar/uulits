@@ -12,7 +12,7 @@ _template: pages
 
 # FoodTruck
 
-Kallid kliendid!
+Armsad kliendid!
 
 Meie foodtruckid on alustanud taas hooaega.
 
