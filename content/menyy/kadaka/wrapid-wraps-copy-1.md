@@ -5,8 +5,9 @@ order: 4
 in_nav: false
 parent_slug: kadaka
 new: false
-
+_template: alamenuu
 ---
+
 <div class="ellipsis"></div>
 
 > Uudisena meie menüüs! 

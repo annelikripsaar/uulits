@@ -5,8 +5,9 @@ order: 1
 in_nav: false
 parent_slug: kadaka
 new: false
-
+_template: alamenuu
 ---
+
 <div class="ellipsis"></div>
 
 > Vali siit mõnusaid lisandeid ja kastmeid oma maitse järgi!

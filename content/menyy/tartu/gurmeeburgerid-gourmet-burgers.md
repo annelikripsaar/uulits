@@ -5,8 +5,9 @@ order: 2
 in_nav: false
 parent_slug: tartu
 new: false
-
+_template: alamenuu
 ---
+
 <div class="ellipsis"></div>
 
 > Meie burgerite pihvid on valmistatud 100% värskest kodumaisest veiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kukli saab asendada wrapi või salatiga. Kõiki burgereid saab tellida vegan pihvi või lisapihviga. Lisapihv 3 €.

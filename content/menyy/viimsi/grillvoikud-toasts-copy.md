@@ -5,8 +5,9 @@ slug: baod
 in_nav: false
 parent_slug: viimsi
 new: false
-
+_template: alamenuu
 ---
+
 **Krõbekana ja korea salatiga / Crispy chicken and korean salad**
 
 **9,60 €**

@@ -5,8 +5,9 @@ slug: joogid
 in_nav: false
 parent_slug: viimsi
 new: false
-
+_template: alamenuu
 ---
+
 <div class="ellipsis"></div>
 
 > Meie jookide valiku kohta küsi lisa teenindajalt!

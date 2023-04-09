@@ -5,8 +5,9 @@ order: 2
 in_nav: false
 parent_slug: soo
 new: false
-
+_template: alamenuu
 ---
+
 Uulitsa käsitöökartulid cheddar-juustuga /  
 Uulits handmade potato wedges with cheddar cheese sauce  
 **5,90 €**

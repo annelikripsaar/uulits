@@ -5,8 +5,9 @@ order: 7
 in_nav: false
 parent_slug: soo
 new: false
-
+_template: alamenuu
 ---
+
 <div class="ellipsis"></div>
 
 > Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid. Väike vein hea toidu kõrvale.

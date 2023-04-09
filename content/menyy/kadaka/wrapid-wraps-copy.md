@@ -5,8 +5,9 @@ order: 5
 in_nav: false
 parent_slug: kadaka
 new: false
-
+_template: alamenuu
 ---
+
 <div class="ellipsis"></div>
 
 > Meie pitsad valmivad 24h kääritatud taignast ning puuküttega ahjus 450°C juures.
