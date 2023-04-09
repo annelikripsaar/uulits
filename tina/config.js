@@ -6,7 +6,7 @@ import { food_truck_lehtFields } from './templates';
 import { tavaline_lehtFields } from './templates';
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = 'master';
+const branch = process.env.HEAD || 'master';
 
 export default defineConfig({
 	branch,
