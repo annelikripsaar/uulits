@@ -5,8 +5,9 @@ order: 5
 in_nav: false
 parent_slug: soo
 new: false
-
+_template: alamenuu
 ---
+
 <div class="ellipsis"></div>
 
 > Nüüd menüüs ka baod! Küsi lisa teenindajalt!

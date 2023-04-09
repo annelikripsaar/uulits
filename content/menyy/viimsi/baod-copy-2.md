@@ -5,8 +5,9 @@ slug: lisandid
 in_nav: false
 parent_slug: viimsi
 new: false
-
+_template: alamenuu
 ---
+
 <span class="special"></span>**Käsitööleib/ Handmade rye bread** **1€**
 
 Bun can be replaced by wrap, bread or salad.

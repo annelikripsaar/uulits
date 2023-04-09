@@ -5,8 +5,9 @@ order: 4
 in_nav: false
 parent_slug: balta
 new: false
-
+_template: alamenuu
 ---
+
 Käsitööleib /  
 Handmade rye bread  
 **0,60 €**

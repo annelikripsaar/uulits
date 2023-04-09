@@ -5,8 +5,9 @@ order: 4
 in_nav: false
 parent_slug: tartu
 new: false
-
+_template: alamenuu
 ---
+
 **Krõbekana ja korea salatiga / Crispy chicken and korean salad**
 
 **10 €**

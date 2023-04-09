@@ -5,8 +5,9 @@ order: 5
 in_nav: false
 parent_slug: tartu
 new: false
-
+_template: alamenuu
 ---
+
 <span class="spicy"></span>
 Peekon / juust / jalapeno  
 **1,00 €**

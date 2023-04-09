@@ -5,8 +5,9 @@ order: 4
 in_nav: false
 parent_slug: soo
 new: false
-
+_template: alamenuu
 ---
+
 <div class="ellipsis"></div>
 
 > Kõiki burgereid saab tellida lisanditega ja wrapi vahel. Kukli saab asendada wrapi, leiva või salatiga.

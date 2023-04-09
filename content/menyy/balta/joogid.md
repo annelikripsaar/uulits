@@ -5,8 +5,9 @@ order: 4
 in_nav: false
 parent_slug: balta
 new: false
-
+_template: alamenuu
 ---
+
 Vesi pudelis /  
 Bottled water  
 **2,50 €**

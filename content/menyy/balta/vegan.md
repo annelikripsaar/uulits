@@ -5,8 +5,9 @@ order: 3
 in_nav: false
 parent_slug: balta
 new: false
-
+_template: alamenuu
 ---
+
 <div class="ellipsis"></div>
 
 > Maitse toitvaid grillvõikusid! Küsi lisa teenindajalt!

@@ -5,8 +5,9 @@ slug: gurmeeburgerid
 in_nav: false
 parent_slug: viimsi
 new: false
-
+_template: alamenuu
 ---
+
 **Uulitsa burger / Uulits' burger**
 
 **9,10 €**

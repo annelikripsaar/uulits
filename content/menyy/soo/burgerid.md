@@ -5,8 +5,9 @@ order: 3
 in_nav: false
 parent_slug: soo
 new: false
-
+_template: alamenuu
 ---
+
 <div class="ellipsis"></div>
 
 > Kõik pihvid, kastmed, majoneesid ja ketšupid valmistame värskest toorainest kohapeal ise. Kukli saab asendada wrapi, leiva või salatiga. Kõiki burgereid saab tellida beyond-pihviga ja lisapihviga. Pihvid on vaikimisi medium-küpsusastmes.
