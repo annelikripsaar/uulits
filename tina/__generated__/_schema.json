@@ -1,1 +1,183 @@
-{"version":{"fullVersion":"1.4.6","major":"1","minor":"4","patch":"6"},"meta":{"flags":["experimentalData"]},"collections":[{"format":"md","label":"Lehed","name":"lehed","path":"content","match":{"include":"**/*","exclude":"!(menyy)/*"},"templates":[{"fields":[{"type":"rich-text","name":"body","label":"Body of Document","description":"This is the markdown body","isBody":true,"namespace":["lehed","tavaline_leht","body"],"parser":{"type":"markdown"}},{"type":"string","name":"slug","label":"slug","namespace":["lehed","tavaline_leht","slug"]},{"type":"string","name":"title","label":"title","namespace":["lehed","tavaline_leht","title"]},{"type":"boolean","name":"in_nav","label":"in_nav","namespace":["lehed","tavaline_leht","in_nav"]}],"label":"tavaline-leht","name":"tavaline_leht","namespace":["lehed","tavaline_leht"]},{"fields":[{"type":"rich-text","name":"body","label":"Body of Document","description":"This is the markdown body","isBody":true,"namespace":["lehed","alamenuu","body"],"parser":{"type":"markdown"}},{"type":"string","name":"slug","label":"URL-i sõbralik nimi","namespace":["lehed","alamenuu","slug"]},{"type":"string","name":"title","label":"Pealkiri","namespace":["lehed","alamenuu","title"]},{"type":"number","name":"order","label":"Järjekord","namespace":["lehed","alamenuu","order"]},{"type":"boolean","name":"in_nav","label":"Navigatsioonis","namespace":["lehed","alamenuu","in_nav"]},{"type":"string","name":"parent_slug","label":"Vanemleht","namespace":["lehed","alamenuu","parent_slug"]},{"type":"boolean","name":"new","label":"Uus","namespace":["lehed","alamenuu","new"]}],"label":"alamenuu","name":"alamenuu","namespace":["lehed","alamenuu"]},{"fields":[{"type":"rich-text","name":"body","label":"Body of Document","description":"This is the markdown body","isBody":true,"namespace":["lehed","menus","body"],"parser":{"type":"markdown"}},{"type":"string","name":"title","label":"Nimi","required":true,"namespace":["lehed","menus","title"]},{"type":"string","name":"slug","label":"Nimi aadressiribal","required":true,"namespace":["lehed","menus","slug"]},{"type":"number","name":"order","label":"Järjestus","namespace":["lehed","menus","order"]},{"type":"boolean","name":"in_nav","label":"Navigatsioonis","namespace":["lehed","menus","in_nav"]}],"label":"menus","name":"menus","namespace":["lehed","menus"]},{"fields":[{"type":"rich-text","name":"body","label":"Body of Document","description":"This is the markdown body","isBody":true,"namespace":["lehed","kontakt","body"],"parser":{"type":"markdown"}},{"type":"string","name":"title","label":"title","namespace":["lehed","kontakt","title"]},{"type":"string","name":"slug","label":"slug","namespace":["lehed","kontakt","slug"]},{"type":"number","name":"order","label":"order","namespace":["lehed","kontakt","order"]},{"type":"boolean","name":"in_nav","label":"in_nav","namespace":["lehed","kontakt","in_nav"]},{"type":"string","name":"address","label":"address","namespace":["lehed","kontakt","address"]},{"type":"string","name":"address_extra","label":"address_extra","namespace":["lehed","kontakt","address_extra"]},{"type":"number","name":"lat","label":"lat","namespace":["lehed","kontakt","lat"]},{"type":"number","name":"lng","label":"lng","namespace":["lehed","kontakt","lng"]}],"label":"kontakt","name":"kontakt","namespace":["lehed","kontakt"]},{"fields":[{"type":"rich-text","name":"body","label":"Body of Document","description":"This is the markdown body","isBody":true,"namespace":["lehed","pages","body"],"parser":{"type":"markdown"}},{"type":"string","name":"title","label":"Nimi","namespace":["lehed","pages","title"]},{"type":"string","name":"slug","label":"Nimi aadressiribal","required":true,"namespace":["lehed","pages","slug"]},{"type":"number","name":"order","label":"Järjestus","namespace":["lehed","pages","order"]},{"type":"image","name":"featured_image","label":"Pilt teksti kõrval","namespace":["lehed","pages","featured_image"]},{"type":"string","name":"extra","label":"Lisatekst","ui":{"component":"textarea"},"namespace":["lehed","pages","extra"]},{"type":"image","name":"video","label":"Video","namespace":["lehed","pages","video"]}],"label":"pages","name":"pages","namespace":["lehed","pages"]}],"namespace":["lehed"]}],"config":{"client":{},"media":{"tina":{"publicFolder":"static","mediaRoot":""}}}}
+{
+	"version": { "fullVersion": "1.4.6", "major": "1", "minor": "4", "patch": "6" },
+	"meta": { "flags": ["experimentalData"] },
+	"collections": [
+		{
+			"format": "md",
+			"label": "Lehed",
+			"name": "lehed",
+			"path": "content",
+			"match": { "include": "**/*", "exclude": "!(menyy)/*" },
+			"templates": [
+				{
+					"fields": [
+						{
+							"type": "rich-text",
+							"name": "body",
+							"label": "Body of Document",
+							"description": "This is the markdown body",
+							"isBody": true,
+							"namespace": ["lehed", "tavaline_leht", "body"],
+							"parser": { "type": "markdown" }
+						},
+						{ "type": "string", "name": "slug", "label": "slug", "namespace": ["lehed", "tavaline_leht", "slug"] },
+						{ "type": "string", "name": "title", "label": "title", "namespace": ["lehed", "tavaline_leht", "title"] },
+						{
+							"type": "boolean",
+							"name": "in_nav",
+							"label": "in_nav",
+							"namespace": ["lehed", "tavaline_leht", "in_nav"]
+						}
+					],
+					"label": "tavaline-leht",
+					"name": "tavaline_leht",
+					"namespace": ["lehed", "tavaline_leht"]
+				},
+				{
+					"fields": [
+						{
+							"type": "rich-text",
+							"name": "body",
+							"label": "Body of Document",
+							"description": "This is the markdown body",
+							"isBody": true,
+							"namespace": ["lehed", "alamenuu", "body"],
+							"parser": { "type": "markdown" }
+						},
+						{
+							"type": "string",
+							"name": "slug",
+							"label": "URL-i sõbralik nimi",
+							"namespace": ["lehed", "alamenuu", "slug"]
+						},
+						{ "type": "string", "name": "title", "label": "Pealkiri", "namespace": ["lehed", "alamenuu", "title"] },
+						{ "type": "number", "name": "order", "label": "Järjekord", "namespace": ["lehed", "alamenuu", "order"] },
+						{
+							"type": "boolean",
+							"name": "in_nav",
+							"label": "Navigatsioonis",
+							"namespace": ["lehed", "alamenuu", "in_nav"]
+						},
+						{
+							"type": "string",
+							"name": "parent_slug",
+							"label": "Vanemleht",
+							"namespace": ["lehed", "alamenuu", "parent_slug"]
+						},
+						{ "type": "boolean", "name": "new", "label": "Uus", "namespace": ["lehed", "alamenuu", "new"] }
+					],
+					"label": "alamenuu",
+					"name": "alamenuu",
+					"namespace": ["lehed", "alamenuu"]
+				},
+				{
+					"fields": [
+						{
+							"type": "rich-text",
+							"name": "body",
+							"label": "Body of Document",
+							"description": "This is the markdown body",
+							"isBody": true,
+							"namespace": ["lehed", "menus", "body"],
+							"parser": { "type": "markdown" }
+						},
+						{
+							"type": "string",
+							"name": "title",
+							"label": "Nimi",
+							"required": true,
+							"namespace": ["lehed", "menus", "title"]
+						},
+						{
+							"type": "string",
+							"name": "slug",
+							"label": "Nimi aadressiribal",
+							"required": true,
+							"namespace": ["lehed", "menus", "slug"]
+						},
+						{ "type": "number", "name": "order", "label": "Järjestus", "namespace": ["lehed", "menus", "order"] },
+						{
+							"type": "boolean",
+							"name": "in_nav",
+							"label": "Navigatsioonis",
+							"namespace": ["lehed", "menus", "in_nav"]
+						}
+					],
+					"label": "menus",
+					"name": "menus",
+					"namespace": ["lehed", "menus"]
+				},
+				{
+					"fields": [
+						{
+							"type": "rich-text",
+							"name": "body",
+							"label": "Body of Document",
+							"description": "This is the markdown body",
+							"isBody": true,
+							"namespace": ["lehed", "kontakt", "body"],
+							"parser": { "type": "markdown" }
+						},
+						{ "type": "string", "name": "title", "label": "title", "namespace": ["lehed", "kontakt", "title"] },
+						{ "type": "string", "name": "slug", "label": "slug", "namespace": ["lehed", "kontakt", "slug"] },
+						{ "type": "number", "name": "order", "label": "order", "namespace": ["lehed", "kontakt", "order"] },
+						{ "type": "boolean", "name": "in_nav", "label": "in_nav", "namespace": ["lehed", "kontakt", "in_nav"] },
+						{ "type": "string", "name": "address", "label": "address", "namespace": ["lehed", "kontakt", "address"] },
+						{
+							"type": "string",
+							"name": "address_extra",
+							"label": "address_extra",
+							"namespace": ["lehed", "kontakt", "address_extra"]
+						},
+						{ "type": "number", "name": "lat", "label": "lat", "namespace": ["lehed", "kontakt", "lat"] },
+						{ "type": "number", "name": "lng", "label": "lng", "namespace": ["lehed", "kontakt", "lng"] }
+					],
+					"label": "kontakt",
+					"name": "kontakt",
+					"namespace": ["lehed", "kontakt"]
+				},
+				{
+					"fields": [
+						{
+							"type": "rich-text",
+							"name": "body",
+							"label": "Body of Document",
+							"description": "This is the markdown body",
+							"isBody": true,
+							"namespace": ["lehed", "pages", "body"],
+							"parser": { "type": "markdown" }
+						},
+						{ "type": "string", "name": "title", "label": "Nimi", "namespace": ["lehed", "pages", "title"] },
+						{
+							"type": "string",
+							"name": "slug",
+							"label": "Nimi aadressiribal",
+							"required": true,
+							"namespace": ["lehed", "pages", "slug"]
+						},
+						{ "type": "number", "name": "order", "label": "Järjestus", "namespace": ["lehed", "pages", "order"] },
+						{
+							"type": "image",
+							"name": "featured_image",
+							"label": "Pilt teksti kõrval",
+							"namespace": ["lehed", "pages", "featured_image"]
+						},
+						{
+							"type": "string",
+							"name": "extra",
+							"label": "Lisatekst",
+							"ui": { "component": "textarea" },
+							"namespace": ["lehed", "pages", "extra"]
+						},
+						{ "type": "image", "name": "video", "label": "Video", "namespace": ["lehed", "pages", "video"] }
+					],
+					"label": "pages",
+					"name": "pages",
+					"namespace": ["lehed", "pages"]
+				}
+			],
+			"namespace": ["lehed"]
+		}
+	],
+	"config": { "client": {}, "media": { "tina": { "publicFolder": "static", "mediaRoot": "" } } }
+}
