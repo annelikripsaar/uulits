@@ -205,6 +205,12 @@ export default function Header() {
 								{node.frontmatter.title}
 							</TruckLink>
 						);
+					} else if (node.frontmatter.slug === "kadaka") {
+						return (
+							<ListItem active={false}>
+								<a href="https://kadaka.uulits.ee/" target="_blank">{node.frontmatter.title}</a>
+							</ListItem>	
+						)
 					} else {
 						return (
 							<ListLink to={'/' + node.frontmatter.slug} key={index}>
