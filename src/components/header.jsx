@@ -211,7 +211,14 @@ export default function Header() {
 								<a href="https://kadaka.uulits.ee/" target="_blank">{node.frontmatter.title}</a>
 							</ListItem>	
 						)
-					} else {
+					} else if (node.frontmatter.slug === "soo") {
+						return (
+							<ListItem active={false}>
+								<a href="https://soouulits.choiceqr.com/" target="_blank">{node.frontmatter.title}</a>
+							</ListItem>	
+						)
+					} 
+					else {
 						return (
 							<ListLink to={'/' + node.frontmatter.slug} key={index}>
 								{node.frontmatter.title}
