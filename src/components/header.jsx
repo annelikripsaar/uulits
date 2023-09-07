@@ -217,6 +217,12 @@ export default function Header() {
 								<a href="https://soouulits.choiceqr.com/" target="_blank">{node.frontmatter.title}</a>
 							</ListItem>	
 						)
+					} else if (node.frontmatter.slug === "tartu") {
+						return (
+							<ListItem active={false}>
+								<a href="https://tartu-uulits.choiceqr.com/" target="_blank">{node.frontmatter.title}</a>
+							</ListItem>	
+						)
 					} 
 					else {
 						return (
