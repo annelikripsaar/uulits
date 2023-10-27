@@ -1,14 +1,3 @@
-<head>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-EBF6K6EEWH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-EBF6K6EEWH');
-</script>
-</head>
 ---
 title: Food Truck
 slug: foodtruck
@@ -21,10 +10,24 @@ video: uploads/img_7727.jpeg
 _template: pages
 ---
 
+```html
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EBF6K6EEWH"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EBF6K6EEWH');
+  </script>
+</head>
+```
+
 # FoodTruck
 
 Kallid kliendid!
 
-Meie foodtruckid on lõpetamas hooaega...
+Meie foodtruckid on lõpetamas hooaega.
 
 Kirjuta meile, kui hindad tõeliselt maitsvat tänavagurmeed, ning tuleme seda foodtruckiga pakkuma avalikule suurüritusele, ettevõtte suvepäevadele või suvisele eraüritusele.
