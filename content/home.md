@@ -20,7 +20,7 @@ Tulge meie juurde nautima tõelist tänavatoitu: friikaid värsketest kodumaiste
 
 > Meil on hea meel valmistada teile tõelist tänavagurmeed juba 8 aastat!
 
-Ootame Sind Uulitsates Tallinnas Kadakas, Kalamajas, Baltas ja Viimsis, Tartu südalinnas ja suvel Pärnu Rannapargis!
+Ootame Sind Uulitsates Tallinnas Kadakas, Kalamajas, Baltas ja Viimsis, Tartu südalinnas Kampuses ja suvel Pärnu Rannapargis!
 
 ![](uploads/uulitsapoisid.png)
 
