@@ -25,6 +25,6 @@ _template: pages
 
 Kallid kliendid!
 
-Meie foodtruckid on lõpetamas hooaega.
+Meie foodtruckid on lõpetamas hooaega...
 
 Kirjuta meile, kui hindad tõeliselt maitsvat tänavagurmeed, ning tuleme seda foodtruckiga pakkuma avalikule suurüritusele, ettevõtte suvepäevadele või suvisele eraüritusele.
