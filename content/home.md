@@ -3,7 +3,8 @@ slug: home
 title: Avaleht
 in_nav: true
 ---
-<!-- Google tag (gtag.js) -->
+<head>
+  <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EBF6K6EEWH"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -12,6 +13,7 @@ in_nav: true
 
   gtag('config', 'G-EBF6K6EEWH');
 </script>
+</head>
 
 > Kallid kliendid!
 
