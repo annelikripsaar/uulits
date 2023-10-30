@@ -1,5 +1,9 @@
-<head>
-  <!-- Google tag (gtag.js) -->
+---
+slug: home
+title: Avaleht
+in_nav: true
+---
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EBF6K6EEWH"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -8,12 +12,7 @@
 
   gtag('config', 'G-EBF6K6EEWH');
 </script>
-</head>
----
-slug: home
-title: Avaleht
-in_nav: true
----
+
 > Kallid kliendid!
 
 Tulge meie juurde nautima tõelist tänavatoitu: friikaid värsketest kodumaistest kartulitest, mahlaseid veiselihapihve käsitsi valmistatud krõbedate kuklite vahel ja imemaitsvaid lihamoose ja kastmeid, mis on valminud meie köögis.
