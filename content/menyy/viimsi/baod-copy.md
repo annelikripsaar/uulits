@@ -1,7 +1,7 @@
 ---
-order: 2
-title: GURMEEBURGERID JA WRAPID / GOURMET BURGERS AND WRAPS
 slug: gurmeeburgerid
+title: GURMEEBURGERID JA WRAPID / GOURMET BURGERS AND WRAPS
+order: 2
 in_nav: false
 parent_slug: viimsi
 new: false
@@ -26,8 +26,8 @@ _template: alamenuu
 
 <span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, jääsalat, Emmentali juust, magus sinepikaste, tomat, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, herb mayonnaise, crisphead lettuce, Emmental cheese, sweet mustard sauce, tomato, salad onion, pickles.
 
-**Veiselihaburger sinihallitusjuustuga /  
-Beef burger with blue cheese**
+**Veiselihaburger sinihallitusjuustuga /**\
+**Beef burger with blue cheese**
 
 **10,10 €**
 
@@ -53,8 +53,8 @@ Beef burger with blue cheese**
 
 <span class="koostis"> Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, jääsalat, tomat, veinine sibulamoos, marineeritud kurk. Bun, 100% angus beef patty,  cheddar cheese, herb mayonnaise, tomato, crisphead lettuce, red onion jam, pickles.
 
-<span class="spicy"></span> **Vürtsikas chorizo-burger /  
-Spicy chorizo-burger**
+<span class="spicy"></span> **Vürtsikas chorizo-burger /**\
+**Spicy chorizo-burger**
 
 **10,10 €**
 
@@ -86,8 +86,8 @@ Spicy chorizo-burger**
 
 <span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa teriyaki kaste, coleslaw salat, jääsalat, salatisibul, tomat. Durum tortilla, crispy chicken meat, Uulits teriyaki sauce, coleslaw, crisphead lettuce, salad onions, tomato</span>
 
-**Fitlap kanawrap / Wholegrain Chicken wrap =376 kcal**
+**Tervisesportlase kanawrap / Wholegrain Chicken wrap =376 kcal**
 
 **7,90 €**
 
-<span class="koostis">Täisteratortilla, grillitud kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, grilled chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>Fitlap 376 kcal</span>
+<span class="koostis">Täisteratortilla, grillitud kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, grilled chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>376 kcal</span>
