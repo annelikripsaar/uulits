@@ -193,11 +193,6 @@ export default function Header() {
 			<HeaderSocial color="#272525" />
 			<TopBar />
 			<Nav>
-				<ShopLink>
-					<a href={'https://pood.uulits.ee/'} target="_blank">
-						E-pood
-					</a>
-				</ShopLink>
 				{data.allMarkdownRemark.edges.map(({ node }, index) => {
 					if (node.frontmatter.slug === 'foodtruck') {
 						return (
