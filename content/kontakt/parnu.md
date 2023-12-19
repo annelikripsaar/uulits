@@ -10,9 +10,10 @@ lng: 24.827066
 _template: kontakt
 ---
 
-**AVATUD AINULT SUVEHOOAJAL!**
-Tel 51 11 16 49  
-**E-T** kell 12.00-22.00
-**K-N** kell 12.00-23.00
-**R-L** kell 12.00-00.00
-**P** kell 12.00-22.00
+**AVATUD AINULT SUVEHOOAJAL!** <br />
+Tel 51 11 16 49  <br />
+---
+**E-T** kell 12.00-22.00 <br />
+**K-N** kell 12.00-23.00 <br />
+**R-L** kell 12.00-00.00 <br />
+**P** kell 12.00-22.00 <br />
