@@ -11,12 +11,8 @@ _template: kontakt
 ---
 
 **AVATUD AINULT SUVEHOOAJAL!**
-
 Tel 51 11 16 49  
 **E-T** kell 12.00-22.00
-
 **K-N** kell 12.00-23.00
-
 **R-L** kell 12.00-00.00
-
 **P** kell 12.00-22.00
