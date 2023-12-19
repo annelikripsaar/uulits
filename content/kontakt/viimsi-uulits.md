@@ -12,7 +12,7 @@ _template: kontakt
 
 Tel 58 60 08 81  
 **E-P** kell 11.00-21.00
-
+---
 <br>
 **AVAMISAJAD PÜHADEL**
 <br>
