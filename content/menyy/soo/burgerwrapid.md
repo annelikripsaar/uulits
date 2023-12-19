@@ -16,15 +16,15 @@ _template: alamenuu
 
 **Bao krõbekana ja korea salatiga / Crispy chicken bao with korean salad**
 
-**10 €**
+**10,50 €**
 
 <span class="spicy"></span><span class="koostis">Aasiapärane aurukukkel, krõbe kanaliha, teriyaki kaste, küüslaugune korea salat, sriracha majonees. Asian steamed bun, crispy chicken meat, teriyaki sauce, korean salad with garlic, sriracha mayonnaise.
 
-**Bao *Caesari* ja krõbeda krevetiga / Caesar bao with crispy tiger prawn**
+**Bao krõbekala ja kreekapärase tzatziki kastmega / Bao with crispy fish and tzatziki sauce**
 
-**10 €**
+**10,50 €**
 
-<span class="spicy"></span><span class="koostis">Aasiapärane aurukukkel, krõbe tiigerkrevett, teriyaki kaste, Caesari kaste, parmesan, rooma salat. Asian steamed bun, crispy tiger prawn, teriyaki sauce, Caesar sauce, parmesan, roman salad.
+<span class="spicy"></span><span class="koostis">Aasiapärane aurukukkel, krõbekala, soja siirup,  tzatziki kaste. Asian steamed bun, crispy fish, soya syrup, tzatziki sauce.
 
 Krõbekana wrap / Crispy chicken wrap\
 **10,50 €**\ <span class="spicy"></span><span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa sriracha majonees, teriyaki kaste, coleslaw salat, tomat,  salatisibul, jääsalat. Durum tortilla, crispy chicken meat, Uulits' sriracha mayonnaise, teriyaki sauce, coleslaw, tomato, salad onion, crisphead lettuce</span>
@@ -32,5 +32,5 @@ Krõbekana wrap / Crispy chicken wrap\
 <span class="special"></span>
 
 Tervisesportlase kanawrap / Wholegrain Chicken wrap =376 kcal\
-**9 €**\
+**9,60 €**\
 <span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>376 kcal</span>
