@@ -10,49 +10,39 @@ _template: alamenuu
 
 <div class="ellipsis"></div>
 
-> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid. Väike vein hea toidu kõrvale.
->
-> Küsi lisa teenindajalt!
->
-> You can find the different estonian tastes in our drink and beverages section: craft beers and ciders, natural juice drinks and house made lemonades. Or a glass of wine. Ask more our people! 
+> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid. Väike vein hea toidu kõrvale.Küsi lisa teenindajalt!You can find the different estonian tastes in our drink and beverages section: craft beers and ciders, natural juice drinks and house made lemonades. Or a glass of wine. Ask more our people!
 
 <div class="ellipsis"></div>
 
 > KÜLMAD JOOGID / SOFT DRINKS
 
-Klaas piima või mahla /  
-Glass of milk or juice  
-**2,90 €**
-<span class="koostis">õuna, ploomi, apelsini, tomati, jõhvika, segu apple, plum, orange, tomato, cranberry, multi juice</span>
+Klaas piima või mahla /\
+Glass of milk or juice\
+**2,90 €** <span class="koostis">õuna, ploomi, apelsini, tomati, jõhvika, segu apple, plum, orange, tomato, cranberry, multi juice</span>
 
-Karl Friedrich kali / Kvass 0.33l  
+Karl Friedrich kali / Kvass 0.33l\
 **3,50 €**
 
-Uulitsa limonaad /  Uulits' fresh lemonade  
-**4,30 €**
-<span class="koostis">greibi, sidruni, apelsini, mango-laimi grapefruit, lemon, orange, mango-lime</span>
+Uulitsa limonaad /  Uulits' fresh lemonade\
+**4,90 €** <span class="koostis">greibi, sidruni, apelsini, mango-laimi grapefruit, lemon, orange, mango-lime</span>
 
-ON Lemon naturaalne limonaad / Natural lemonade  
+ON Lemon naturaalne limonaad / Natural lemonade\
 **3,90 €** <span class="koostis">tikri, mustsõstra. gooseberry, blackcurrant</span>
 
-WOSTOK limonaad / Lemonade  
-**3,90 €**
-<span class="koostis">ploomi-kardemoni plum-cardamom</span>
+WOSTOK limonaad / Lemonade\
+**3,90 €** <span class="koostis">ploomi-kardemoni plum-cardamom</span>
 
-FRITZ limonaad / Soft drink  
-**3,90 €**
-<span class="koostis">cola, rabarber cola, rhubarb</span>
+FRITZ limonaad / Soft drink\
+**3,90 €** <span class="koostis">cola, rabarber cola, rhubarb</span>
 
-Punch limonaad / lemonade  
+Punch limonaad / lemonade\
 **3,90 €** <span class="koostis">mate ja lemon, passion fruit ja mate</span>
 
-Värskelt pressitud mahl / Fresh juice 0.33l  
-**5,50 €**
-<span class="koostis">apelsini, greibi orange, grapefruit</span>
+Värskelt pressitud mahl / Fresh juice 0.33l\
+**5,50 €** <span class="koostis">apelsini, greibi orange, grapefruit</span>
 
-Pudelivesi / Bottled water  
-**2,50 €**
-<span class="koostis">mulliga ja mullita carbonated and still</span>
+Pudelivesi / Bottled water\
+**2,50 €** <span class="koostis">mulliga ja mullita carbonated and still</span>
 
 Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer
 
@@ -78,16 +68,15 @@ Kakao  **3 €**
 
 Mandli- või kaerapiim / Almond or oat milk  **0,30 €**
 
-Tee tassis/  kannus   Cup of tea/ Pot of tea  
+Tee tassis/  kannus   Cup of tea/ Pot of tea\
 **2,00 € / 4,00 €**
 
 <div class="ellipsis"></div>
 
 > LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS
 
-Valmiermuiža õlu / Beer 0.33l  
-**5,50 €**
-<span class="koostis">tume, hele / pale, dark</span>
+Valmiermuiža õlu / Beer 0.33l\
+**5,50 €** <span class="koostis">tume, hele / pale, dark</span>
 
 Põhjala käsitööõlu / Craft beer 0.33l
 
@@ -95,14 +84,14 @@ Põhjala käsitööõlu / Craft beer 0.33l
 
 **5,50 €**
 
-Sheppy's Vintage Cider  
+Sheppy's Vintage Cider\
 **8,00 €**
 
 Sheppy's Rasberry cider 4% 0,5l
 
 **7,50 €**
 
-Sheppys Elderflower cider 4,5% 0,5l  
+Sheppys Elderflower cider 4,5% 0,5l\
 **7,50 €**
 
 Saku Hele vaadiõlu /draft beer 5,2% 0.5L
@@ -145,8 +134,8 @@ Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein
 
 > UULITSA KOKTEILID / COCTAILS
 
-Uulitsa G&T **7,50 €**
+Uulitsa G\&T **7,50 €**
 
-Passioni G&T **7,90 €**
+Passioni G\&T **7,90 €**
 
 Ananassi Daiquiri **7,90 €**
