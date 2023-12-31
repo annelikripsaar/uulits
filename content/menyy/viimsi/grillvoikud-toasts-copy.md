@@ -14,8 +14,8 @@ _template: alamenuu
 
 <span class="koostis">Aasiapärane aurukukkel, krõbe kanaliha, teriyaki kaste, küüslaugune korea salat, sriracha majonees. Asian steamed bun, crispy chicken meat, teriyaki sauce, korean salad with garlic, sriracha mayonnaise.
 
-<span class="spicy"></span>** Grillitud** **veisesteigi bao / Grilled angus steak bao **
+<span class="spicy"></span> Grillitud veisesteigi bao / Grilled angus steak bao 
 
 **10,90 €**
 
-<span class="koostis">Aasiapärane aurukukkel, grillitud veisesteik, grillitud kale salat, soja siirup, chipotle majonees, koriander. Asian steamed bun, grilled angus steak, grilled kale cabbage, soya syrup, chipotle mayonnaise, coriander.  
+<span class="koostis">Aasiapärane aurukukkel, grillitud veisesteik, grillitud kale salat, soja siirup, chipotle majonees, koriander. Asian steamed bun, grilled angus steak, grilled kale cabbage, soya syrup, chipotle mayonnaise, coriander.
