@@ -2,7 +2,7 @@
 slug: wrapid
 title: WRAPID / WRAPS
 order: 3
-in_nav: true
+in_nav: false
 parent_slug: tartu
 new: false
 _template: alamenuu
