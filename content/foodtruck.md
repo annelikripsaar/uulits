@@ -14,6 +14,19 @@ _template: pages
 
 Kallid kliendid!
 
-Meie foodtruckid on lõpetamas hooaega.
+Uulitsa foodtruckid on taas alustamas hooaega.
 
-Kirjuta meile, kui hindad tõeliselt maitsvat tänavagurmeed, ning tuleme seda foodtruckiga pakkuma avalikule suurüritusele, ettevõtte suvepäevadele või suvisele eraüritusele.
+Kirjuta meile uulits\@uulits.ee, kui hindad tõeliselt maitsvat tänavagurmeed, ning soovid tellida Uulitsa foodtrucki avalikule suurüritusele, ettevõtte suvepäevadele või suuremale suvisele eraüritusele.
+
+Meie foodtruckidel ei ole miinimumtasu, kuid on broneerimistasu 500 EUR +km, mis annab kindlustunde, et meie foodtruck on soovitud ajal üritusel kohal.
+
+Küsi foodtrucki pakkumist ja muidugi ka menüüd uulits\@uulits.ee 
+
+ 
+
+
+
+
+
+
+
