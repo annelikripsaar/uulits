@@ -16,17 +16,8 @@ Kallid kliendid!
 
 Uulitsa foodtruckid on taas alustamas hooaega.
 
-Kirjuta meile uulits\@uulits.ee, kui hindad tõeliselt maitsvat tänavagurmeed, ning soovid tellida Uulitsa foodtrucki avalikule suurüritusele, ettevõtte suvepäevadele või suuremale suvisele eraüritusele.
+Kirjuta meile [uulits@uulits.ee](mailto:uulits@uulits.ee), kui hindad tõeliselt maitsvat tänavagurmeed, ning soovid tellida Uulitsa foodtrucki avalikule suurüritusele, ettevõtte suvepäevadele või suuremale suvisele eraüritusele.
 
-Meie foodtruckidel ei ole miinimumtasu, kuid on broneerimistasu 500 EUR +km, mis annab kindlustunde, et meie foodtruck on soovitud ajal üritusel kohal.
+Meie foodtruckidel ei ole miinimumtasu, kuid on broneerimistasu 490 EUR +km, mis annab kindlustunde, et meie foodtruck on soovitud ajal üritusel kohal.
 
-Küsi foodtrucki pakkumist ja muidugi ka menüüd uulits\@uulits.ee 
-
- 
-
-
-
-
-
-
-
+Küsi foodtrucki pakkumist ja muidugi ka menüüd [uulits@uulits.ee](mailto:uulits@uulits.ee)
