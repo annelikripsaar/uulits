@@ -1,8 +1,8 @@
 ---
-order: 5
 title: Viimsi menüü
 slug: viimsi
-in_nav: true
+order: 5
+in_nav: false
 _template: menus
 ---
 
