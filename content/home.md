@@ -2,7 +2,9 @@
 slug: home
 title: Avaleht
 in_nav: true
+_template: tavaline_leht
 ---
+
 > Kallid kliendid!
 
 Tulge meie juurde nautima tõelist tänavatoitu: friikaid värsketest kodumaistest kartulitest, mahlaseid veiselihapihve käsitsi valmistatud krõbedate kuklite vahel ja imemaitsvaid lihamoose ja kastmeid, mis on valminud meie köögis.
