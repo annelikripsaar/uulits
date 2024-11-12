@@ -7,12 +7,12 @@ _template: tavaline_leht
 
 > Kallid kliendid!
 
-Tulge meie juurde nautima tõelist tänavatoitu: friikaid värsketest kodumaistest kartulitest, mahlaseid veiselihapihve käsitsi valmistatud krõbedate kuklite vahel ja imemaitsvaid lihamoose ja kastmeid, mis on valminud meie köögis.
+Tulge meie juurde nautima tõelist tänavatoitu: friikaid värsketest kodumaistest kartulitest, mahlaseid veiselihapihve käsitsi valmistatud krõbedate kuklite vahel ja imemaitsvaid kastmeid, mis on valminud meie köögis.
 
-> Meil on hea meel valmistada teile tõelist tänavagurmeed juba 9 aastat!
+> Meil on hea meel valmistada teile tõelist tänavagurmeed juba aastast 2014!
 
-Ootame Sind Uulitsates Tallinnas Kadakas, Kalamajas, Baltas ja Viimsis, Tartu südalinnas Kampuses ja suvel Pärnu Rannapargis!
+tame Sind Uulitsates Tallinnas Kadakas, Kalamajas ja Balti jaamas, Tartu südalinnas Kampuses ning suvehooajal Pärnu Rannapargis!
 
-![](uploads/uulitsapoisid.png)
+![](/uploadsuploads/uulitsapoisid.png)
 
 Uulitsapoisid **Artur** & **Mario**
