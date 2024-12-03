@@ -2,7 +2,7 @@
 title: Balta menüü
 slug: balta
 order: 3
-in_nav: false
+in_nav: true
 _template: menus
 ---
 
