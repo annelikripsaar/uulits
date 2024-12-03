@@ -1,7 +1,7 @@
 ---
 slug: isuaratajad
 title: ISUÄRATAJAD / APPETIZERS
-order: 1
+order: 0
 in_nav: false
 parent_slug: kadaka
 new: false
@@ -13,12 +13,10 @@ _template: alamenuu
 > Vali siit mõnusaid lisandeid ja kastmeid oma maitse järgi!
 
 **Uulitsa käsitöökartulid cheddar-juustuga / Uulits handmade potato wedges with cheddar cheese sauce**\
-**6,80 €**\
-<span class="koostis">Kastmeks vedel cheddar-juust</span>
+**6,80 €**\ <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
 **Uulitsa bataadifriikad cheddar-juustuga / Uulits sweet potato wedges with cheddar sauce**\
-**7,80 €**\
-<span class="koostis">Kastmeks vedel cheddar-juust</span>
+**7,80 €**\ <span class="koostis">Kastmeks vedel cheddar-juust</span>
 
 <span class="spicy"></span> **Vürtsikad käsitöökartulid cheddar-juustu ja jalapenodega / Spicy potato wedges with cheddar and jalapenos**
 
@@ -33,10 +31,10 @@ _template: alamenuu
 **Uulitsa bataadifriikad ketšupi ja majoneesiga / Uulits sweet potato wedges with ketchup and mayonnaise**\
 **7,80 €**
 
-**Uulitsa käsitöökartulid trühvlimajoneesiga / Uulits handmade potato wedges with truffle mayonnaise **\
+\*\*Uulitsa käsitöökartulid trühvlimajoneesiga / Uulits handmade potato wedges with truffle mayonnaise \*\*\
 **6,80 €**
 
-**Uulitsa bataadifriikad trühvlimajoneesiga / Uulits handmade sweet potato wedges with truffle mayonnaise **\
+\*\*Uulitsa bataadifriikad trühvlimajoneesiga / Uulits handmade sweet potato wedges with truffle mayonnaise \*\*\
 **7,80 €**
 
 </span>**Kananagitsad sriracha majoneesiga/ Chicken nuggets with sriracha mayonnaise**\
