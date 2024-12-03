@@ -1,7 +1,7 @@
 ---
 slug: võikud
 title: GRILLVÕIKUD JA WRAPID / TOASTS AND WRAPS
-order: 3
+order: 0
 in_nav: false
 parent_slug: balta
 new: false
@@ -22,7 +22,7 @@ Grillvõiku rebitud sealiha, karamellise sibula ja sriracha majoneesiga/ Pulled 
 
 <span class="spicy"></span>
 
-Grillvõiku krõbekana ja kimchiga_/ Crispy chicken toast with kimchi
+Grillvõiku krõbekana ja kimchiga\_/ Crispy chicken toast with kimchi
 
 **9,50 €**
 
@@ -30,6 +30,5 @@ Grillvõiku krõbekana ja kimchiga_/ Crispy chicken toast with kimchi
 
 <span class="spicy"></span>
 
-Krõbekana wrap / Crispy chicken wrap  
-**9,50 €**  
-<span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa sriracha majonees, teriyaki kaste, coleslaw salat, tomat,  salatisibul, jääsalat. Durum tortilla, crispy chicken meat, Uulits' sriracha mayonnaise, teriyaki sauce, coleslaw, tomato, salad onion, crisphead lettuce</span>
+Krõbekana wrap / Crispy chicken wrap\
+**9,50 €**\ <span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa sriracha majonees, teriyaki kaste, coleslaw salat, tomat,  salatisibul, jääsalat. Durum tortilla, crispy chicken meat, Uulits' sriracha mayonnaise, teriyaki sauce, coleslaw, tomato, salad onion, crisphead lettuce</span>
