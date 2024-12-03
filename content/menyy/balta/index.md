@@ -1,8 +1,8 @@
 ---
-slug: balta
 title: Balta menüü
+slug: balta
 order: 3
-in_nav: true
+in_nav: false
 _template: menus
 ---
 
