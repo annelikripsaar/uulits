@@ -13,6 +13,6 @@ Tulge meie juurde nautima tõelist tänavatoitu: friikaid värsketest kodumaiste
 
 Ootame Sind Uulitsatesse Tallinnas Kadakas ja Kalamajas Soo tänaval, Tartu südalinnas Kampuses ning suvehooajal Pärnu Rannapargis!
 
-![](/uploadsuploads/uulitsapoisid.png)
+![](/uploads/uploads/uulitsapoisid.png)![]()
 
 Uulitsapoisid **Artur** & **Mario**![]()
