@@ -15,4 +15,4 @@ Ootame Sind Uulitsatesse Tallinnas Kadakas ja Kalamajas Soo tänaval, Tartu süd
 
 ![](/uploadsuploads/uulitsapoisid.png)
 
-Uulitsapoisid **Artur** & **Mario**
+Uulitsapoisid **Artur** & **Mario**![](/uploads/uploads/uulitsapoisid.png)
