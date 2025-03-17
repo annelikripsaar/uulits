@@ -2,7 +2,7 @@
 slug: gurmeeburgerid
 title: GURMEEBURGERID / GOURMET BURGERS
 order: 0
-in_nav: true
+in_nav: false
 parent_slug: balta
 new: false
 _template: alamenuu
