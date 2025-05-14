@@ -30,6 +30,8 @@ _template: alamenuu
 
 </span> **cheddar kaste / cheddar sauce 2,20 €**
 
+**eriti vürtsikas cheddar kaste jalapenodega / extra spicy cheddar sauce with jalapenos 2,20 €**
+
 **Uulitsa käsitöökartulid ketšupi ja majoneesiga / Uulits handmade potato wedges with ketchup and mayonnaise**\
 **6,80 €**
 
