@@ -22,14 +22,14 @@ _template: alamenuu
 
 <span class="koostis">Nisutortilla, No beef pihv, vegan ürdimajonees. Wheat tortilla, No Beef patty, vegan herb mayonnaise. 
 
-<span class="spicy">**Bao rebitud pardiga / Bao with pulled duck**
+<span class="spicy">**Krõbekanaga wrap / Wrap with crispy chicken**
 
-**11 €**
+**11,50 €**
 
-<span class="koostis">Aasiapärane aurukukkel, rebitud pardiliha, chipotle majonees, krõbe kalekapsas, sojasiirup, värskelt marineeritud kurk, koriander. Asian steamed bun, pulled duck meat, chipotle mayonnaise, crispy kale, soya syrup, pickles, coriander.
+<span class="koostis">Nisutortilla, krõbekana, sriracha majonees, coleslaw salat, sojasiirup, tomat, punane sibul, jääsalat. Wheat tortilla, crispy chicken meat, sriracha mayonnaise, coleslaw, soya syrup, tomato, red onion, iceberg lettuce.
 
-**Bao krõbedate seentega / Bao with crispy mushrooms**
+**Tervisesportlaste wrap / Health athletes' wrap**
 
-**11 €**
+**11,50 €**
 
-<span class="koostis">Aasiapärane aurukukkel, krõbedad seened, trühvlimajonees, sojasiirup, värskelt marineeritud kurk, koriander. Asian steamed bun, crispy mushrooms, truffle mayonnaise, soya syrup, pickles, coriander.
+<span class="koostis">Nisutortilla, grillitud kanafilee, coleslaw, tzatziki kaste, jääsalat, feta. Wheat tortilla, grilled chicken fillet, coleslaw, tzatziki sauce, iceberg lettuce, feta.
