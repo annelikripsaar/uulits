@@ -1,8 +1,8 @@
 ---
-slug: baod
-title: BAOD
+slug: Wrapid
+title: WRAPID JA BAOD
 order: 4
-in_nav: false
+in_nav: true
 parent_slug: kadaka
 new: false
 _template: alamenuu
