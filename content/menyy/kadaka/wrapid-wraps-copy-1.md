@@ -20,7 +20,7 @@ _template: alamenuu
 
 **12 €**
 
-<span class="koostis">Nisutortilla, No beef pihv, vegan ürdimajonees. Wheat tortilla, No Beef patty, vegan herb mayonnaise. 
+<span class="koostis">Nisutortilla, No beef pihv, vegan ürdimajonees. Wheat tortilla, No Beef patty, vegan herb mayonnaise.
 
 <span class="spicy">**Krõbekanaga wrap / Wrap with crispy chicken**
 
@@ -28,7 +28,7 @@ _template: alamenuu
 
 <span class="koostis">Nisutortilla, krõbekana, sriracha majonees, coleslaw salat, sojasiirup, tomat, punane sibul, jääsalat. Wheat tortilla, crispy chicken meat, sriracha mayonnaise, coleslaw, soya syrup, tomato, red onion, iceberg lettuce.
 
-**Tervisesportlaste wrap / Health athletes' wrap**
+**Tervisesportlaste wrap / Health athletes' wrap (=376kcal)**
 
 **11,50 €**
 
