@@ -57,11 +57,11 @@ _template: alamenuu
 
 <span class="koostis"> Kimchi, originaal majonees, roheline sibul. Kimchi, original mayonnaise, green onion.
 
-</span> <span class="spicy"></span>  **Mozzarellaga täidetud jalapenod *crème fraîche*’ ga , 5 tk/10 tk/ Mozzarella filled jalapenos with *crème fraîche, 5 pc/10 pc***
+</span> <span class="spicy"></span>  **Täidetud jalapenod toorsuitsu peekoni ja mozzarellaga, *5 tk/10 tk/* Jalapenos filled with smoked bacon and mozzarella cheese*, 5 pc/10 pc***
 
-**8,90 € / 15,00 €**
+**9,00 € / 16,00 €**
 
-<span class="koostis">Jalapenod, toorsuitsu peekon, mozzarella, ananass, rohelise sibula *crème fraîche.* Jalapenos, bacon, mozzarella, pineapple, green onion *crème fraîche*
+<span class="koostis">Jalapenod, toorsuitsu peekon, mozzarella*.* Jalapenos, smoked bacon, mozzarella.
 
 **Lisapihv / Extra patty**\
 **3,00 €**
