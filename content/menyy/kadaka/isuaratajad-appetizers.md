@@ -62,17 +62,3 @@ _template: alamenuu
 **9,00 € / 16,00 €**
 
 <span class="koostis">Jalapenod, toorsuitsu peekon, mozzarella*.* Jalapenos, smoked bacon, mozzarella.
-
-**Lisapihv / Extra patty**\
-**3,00 €**
-
-<span class="spicy"></span>
-**Peekon / juust / jalapeno**\
-**1,00 €**
-
-**Kastmed / Sauces**\
-**2 €**\ <span class="koostis">Ketšup, ürdimajonees, trühvlimajonees, cheddar juustu kaste, sibulamoos, chorizo kaste jne /
-
-Uulits herb mayonnaise, truffle mayonnaise, ketchup, chorizo sauce, cheddar cheese sauce, red onion jam etc</span>
-
-Kõiki kastmeid saab asendada vegan kastme või  majoneesiga. / All sauces can be replaced with vegan sauce or mayonnaise.
