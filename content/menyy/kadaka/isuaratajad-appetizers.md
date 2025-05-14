@@ -32,36 +32,24 @@ _template: alamenuu
 
 **eriti vürtsikas cheddar kaste jalapenodega / extra spicy cheddar sauce with jalapenos 2,20 €**
 
-**Uulitsa käsitöökartulid ketšupi ja majoneesiga / Uulits handmade potato wedges with ketchup and mayonnaise**\
-**6,80 €**
-
-**Uulitsa bataadifriikad ketšupi ja majoneesiga / Uulits sweet potato wedges with ketchup and mayonnaise**\
-**7,80 €**
-
-\*\*Uulitsa käsitöökartulid trühvlimajoneesiga / Uulits handmade potato wedges with truffle mayonnaise \*\*\
-**6,80 €**
-
-\*\*Uulitsa bataadifriikad trühvlimajoneesiga / Uulits handmade sweet potato wedges with truffle mayonnaise \*\*\
-**7,80 €**
-
 </span>**Kananagitsad sriracha majoneesiga/ Chicken nuggets with sriracha mayonnaise**\
-**7,90 €**
+**8,00 €**
 
-**Uulitsa käsitöökartulid rebitud sealihaga / Uulits loaded potato wedges with pulled pork**
+**Uulitsa laetud friikad rebitud sealihaga / Uulits loaded fries with pulled pork**
 
-**9,90 €**
+**12,00 €**
 
 <div class="ellipsis"></div>
 
-> <span class="koostis"> Cheddar juust, sriracha majonees, jalapenod, rebitud sealiha, roheline sibul. Cheddar, sriracha mayonnaise, jalapenos, pulled pork, green onion.
+> <span class="koostis"> Rebitud sealiha, jalapenod, cheddar, sriracha majonees, roheline sibul. Pulled pork, cheddar, sriracha mayonnaise, jalapenos, green onion.
 
 <span class="spicy"></span>
 
-**Uulitsa käsitöökartulid juustuse hakklihaga /  Uulits loaded potato wedges with cheesy minced meat**
+**Uulitsa laetud friikad hakkliha ja juustuga /  Uulits loaded fries with cheese and minced meat**
 
-**9,90 €**
+**12,00 €**
 
-<span class="koostis"> Cheddar juust ja juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar cheese and cheese sauce, minced meat, salad onion, green onion.
+<span class="koostis"> Maheveise hakkliha, cheddar juust ja juustukaste, originaal majonees, punane sibul, roheline sibul. , hakkliha, salatisibul, roheline sibul. Cheddar cheese and cheese sauce, minced meat, salad onion, green onion.
 
 <span class="special"></span> <span class="spicy"></span>  **Mozzarellaga täidetud jalapenod *crème fraîche*’ ga , 5 tk/10 tk/ Mozzarella filled jalapenos with *crème fraîche, 5 pc/10 pc***
 
