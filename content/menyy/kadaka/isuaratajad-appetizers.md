@@ -10,20 +10,25 @@ _template: alamenuu
 
 <div class="ellipsis"></div>
 
+**UULITSA KÄSITÖÖ KARTULIFRIIKAD VÕI BATAADIFRIIKAD **
+
+**VÄIKE PORTS 4.90 € / ORIGINAAL PORTS 6 € / BATAADI FRIIKAS +1 €**
+
 > Vali siit mõnusaid lisandeid ja kastmeid oma maitse järgi!
 
-**Uulitsa käsitöökartulid cheddar-juustuga / Uulits handmade potato wedges with cheddar cheese sauce**\
-**6,80 €**\ <span class="koostis">Kastmeks vedel cheddar-juust</span>
+**käsitöö ketšup  / handmade ketchup    1,00 €**
 
-**Uulitsa bataadifriikad cheddar-juustuga / Uulits sweet potato wedges with cheddar sauce**\
-**7,80 €**\ <span class="koostis">Kastmeks vedel cheddar-juust</span>
+**ürdimajonees /  herb mayonnaise 1.50 €**
 
-<span class="spicy"></span> **Vürtsikad käsitöökartulid cheddar-juustu ja jalapenodega / Spicy potato wedges with cheddar and jalapenos**
+**vegan ürdimajonees / vegan herb mayonnaise 1.50 €**
 
-**6,80 €**
+**eriti vürtsikas tšillimajonees / extra spicy chilli mayonnaise 1.50 €**
 
-<span class="spicy"></span> **Vürtsikad bataadifriikad cheddari ja jalapenodega / Spicy sweet potato wedges with cheddar and jalapenos**\
-**7,80 €**
+**vürtsikas sriracha majonees / spicy sriracha mayonnaise 1.50 €**
+
+**trühvlimajonees / truffle mayonnaise 1.50 €**
+
+</span> **cheddar kaste / cheddar sauce 2,20 €**
 
 **Uulitsa käsitöökartulid ketšupi ja majoneesiga / Uulits handmade potato wedges with ketchup and mayonnaise**\
 **6,80 €**
