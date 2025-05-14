@@ -14,11 +14,13 @@ _template: alamenuu
 
 **11 €**
 
-<span class="koostis">Aasiapärane aurukukkel, krõbe kanaliha, teriyaki kaste, kimchi, sriracha majonees. Asian steamed bun, crispy chicken meat, teriyaki sauce, kimchi sriracha mayonnaise.
+<span class="koostis">Aasiapärane aurukukkel, krõbe kanaliha, sojasiirup, kimchi, koriander, sriracha majonees. Asian steamed bun, crispy chicken meat, soya syrup, kimchi, coriander,  sriracha mayonnaise.
 
-**11 €**
+**No Beef wrap**
 
-<span class="koostis">Aasiapärane aurukukkel, rebitud veiseliha, chipotle majonees, grillitud kalekapsas, sojasiirup, koriander. Asian steamed bun, pulled beef, chipotle mayonnaise, grilled kale, soya syrup, coriander.
+**12 €**
+
+<span class="koostis">Nisutortilla, No beef pihv, vegan ürdimajonees. Wheat tortilla, No Beef patty, vegan herb mayonnaise. 
 
 <span class="spicy">**Bao rebitud pardiga / Bao with pulled duck**
 
