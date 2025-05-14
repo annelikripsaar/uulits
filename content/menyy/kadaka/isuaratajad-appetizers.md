@@ -49,9 +49,15 @@ _template: alamenuu
 
 **12,00 €**
 
-<span class="koostis"> Maheveise hakkliha, cheddar juust ja juustukaste, originaal majonees, punane sibul, roheline sibul. , hakkliha, salatisibul, roheline sibul. Cheddar cheese and cheese sauce, minced meat, salad onion, green onion.
+<span class="koostis"> Maheveise hakkliha, cheddar juust ja juustukaste, originaal majonees, punane sibul, roheline sibul. Organic beef, cheddar cheese and cheese sauce, original mayonnaise, red salad onion, green onion.
 
-<span class="special"></span> <span class="spicy"></span>  **Mozzarellaga täidetud jalapenod *crème fraîche*’ ga , 5 tk/10 tk/ Mozzarella filled jalapenos with *crème fraîche, 5 pc/10 pc***
+**Uulitsa laetud friikad kimchiga /  Uulits loaded fries with kimchi**
+
+**11,00 €**
+
+<span class="koostis"> Kimchi, originaal majonees, roheline sibul. Kimchi, original mayonnaise, green onion.
+
+</span> <span class="spicy"></span>  **Mozzarellaga täidetud jalapenod *crème fraîche*’ ga , 5 tk/10 tk/ Mozzarella filled jalapenos with *crème fraîche, 5 pc/10 pc***
 
 **8,90 € / 15,00 €**
 
