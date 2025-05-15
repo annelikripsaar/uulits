@@ -2,7 +2,7 @@
 slug: Wrapid
 title: WRAPID JA BAOD
 order: 4
-in_nav: true
+in_nav: false
 parent_slug: kadaka
 new: false
 _template: alamenuu
