@@ -1,5 +1,5 @@
 ---
-slug: Wrapid
+slug: Wrap
 title: WRAPID JA BAOD
 order: 4
 in_nav: false
