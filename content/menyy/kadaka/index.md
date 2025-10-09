@@ -1,8 +1,8 @@
 ---
-slug: kadaka
 title: Kadaka menüü
+slug: kadaka
 order: 2
-in_nav: true
+in_nav: false
 _template: menus
 ---
 
