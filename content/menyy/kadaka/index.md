@@ -2,7 +2,7 @@
 title: Kadaka menüü
 slug: kadaka
 order: 2
-in_nav: false
+in_nav: true
 _template: menus
 ---
 
