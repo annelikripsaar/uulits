@@ -11,7 +11,7 @@ Tulge meie juurde nautima tõelist tänavatoitu: friikaid värsketest kodumaiste
 
 > Meil on hea meel valmistada teile tõelist tänavagurmeed juba aastast 2014!
 
-Ootame Sind Uulitsatesse Tallinnas Kadaka teel ja Kalamajas Soo tänaval, Tartu südalinnas Kampuses ning suvehooajal Pärnu Rannapargis!
+Ootame Sind Uulitsatesse Tallinnas Kadaka teel ja Kalamajas Soo tänaval ning Tartu südalinnas Kampuses.
 
 ![](/uploads/uploads/uulitsapoisid.png)
 
