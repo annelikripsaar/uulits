@@ -17,9 +17,20 @@ _template: alamenuu
 **VALI KASTE: / CHOOSE THE DRESSING:**
 
 Uulitsa käsitöö ketšup/ Uulits handmade ketchup  **1,50 **\
-****
+ürdimajonees / herb mayonnaise** 1,90**
+
+vegan ürdimajonees / vegan herb mayonnaise **1,90**
 
 <span class="spicy"></span>
+tšillimajonees/ chilli mayonnaise **1.90**
+
+**trühvlimajonees / truffle mayonnaise 1.90**
+
+**cheddar juustu kaste/ cheddar cheese sauce 2.50**
+
+<span class="spicy"></span>
+cheddar juustu kaste jalapenodega/ cheddar cheese sauce with jalapenos **2.50**\
+</span>
 Uulitsa käsitöökartulid cheddar-juustu ja jalapenoga /\
 Uulits handmade potato wedges with cheddar and jalapeno\
 **6,50 €**
