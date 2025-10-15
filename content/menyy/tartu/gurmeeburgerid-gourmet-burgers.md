@@ -45,7 +45,7 @@ _template: alamenuu
 
 <span class="special"></span> <span class="spicy"></span> **Vürtsikas tšilli burger / Spicy chilli burger**\
 **11,50 €**\
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa chipotle majonees, cheddar-juust, jääsalat, salatisibul. Bun, 100% angus beef patty, Uulits chipotle mayonnaise, cheddar cheese, iceberg lettuce, salad onion</span>
+<span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa tšillimajonees, cheddar-juust, rukola, salatisibul, marineeritud kurk, jalapenod. Potato bun, 100% angus beef patty, Uulits chilli mayonnaise, cheddar cheese, rucola, salad onion, pickles, jalapenos.</span>
 
 <span class="spicy"></span> **Rebitud sealiha burger / Pulled pork burger**\
 **12,50 €**\
