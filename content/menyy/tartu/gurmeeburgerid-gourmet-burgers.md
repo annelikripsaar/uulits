@@ -37,7 +37,7 @@ _template: alamenuu
 
 **Veiselihaburger soolakaramelli ja peekoniga / Beef burger with bacon and salted caramel**\
 **11,50 €**\
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rukola, salatisibul, tomat, soolakaramelli kaste. Bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, ruccola, bacon, salad onion, tomato, salted caramel sauce</span>
+<span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa ürdimajonees, cheddar juust, peekon, rukola, salatisibul, tomat, soolakaramelli kaste. Potato bun, 100% angus beef patty, Uulits' herb mayonnaise, cheddar cheese, ruccola, bacon, salad onion, tomato, salted caramel sauce</span>
 
 **Veiselihaburger sibulamoosiga / Beef burger with red onion jam**\
 **11,50 €**\
