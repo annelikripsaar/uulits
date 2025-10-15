@@ -8,9 +8,16 @@ new: false
 _template: alamenuu
 ---
 
-Uulitsa käsitöökartulid cheddar-juustuga /\
-Uulits handmade potato wedges with cheddar cheese sauce\
-**6,50 €**
+**Uulitsa käsitöökartulid / Uulits handmade potato wedges **\
+**5,50 € / 6,50 €**
+
+**Uulitsa bataadifriikad  / Uulits sweet potato wedges **\
+**6,50 € / 7,50 €**
+
+**VALI KASTE: / CHOOSE THE DRESSING:**
+
+Uulitsa käsitöö ketšup\
+Uulits handmade ketchup **u**
 
 <span class="spicy"></span>
 Uulitsa käsitöökartulid cheddar-juustu ja jalapenoga /\
@@ -72,11 +79,9 @@ Uulits crispy fish ships with greek jogurt-cucumber sauce\
 <span class="special"></span>
 Uulitsa käsitöökartulid juustuse hakklihaga /\
 Uulits loaded potato wedges with cheesy minced meat\
-**9,50 €**\
-<span class="koostis">Cheddar juust ja juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar and cheddar cheese sauce, mayonnaise, minced meat, green onion</span>
+**9,50 €**\ <span class="koostis">Cheddar juust ja juustukaste, majonees, hakkliha, salatisibul, roheline sibul. Cheddar and cheddar cheese sauce, mayonnaise, minced meat, green onion</span>
 
 <span class="special"></span> <span class="spicy"></span>
 Uulitsa käsitöökartulid rebitud sealihaga /\
 Uulits loaded potato wedges with pulled pork\
-**9,50 €**\
-<span class="koostis">Cheddar juust, sriracha majonees, jalapeno, rebitud sealiha, roheline sibul. Cheddar, sriracha mayonnaise, jalapenos, pulled pork, green onion</span>
+**9,50 €**\ <span class="koostis">Cheddar juust, sriracha majonees, jalapeno, rebitud sealiha, roheline sibul. Cheddar, sriracha mayonnaise, jalapenos, pulled pork, green onion</span>
