@@ -9,10 +9,7 @@ _template: alamenuu
 ---
 
 <span class="spicy"></span> **Krõbekana wrap / Crispy Chicken wrap**\
-**10,90 €**\ <span class="koostis">Nisutortilla, krõbe kanaliha, teriyaki kaste, Uulitsa sriracha majonees, coleslaw, tomat, salatisibul. Durum tortilla, crispy chicken meat, teriyaki sauce, sriracha mayonnaise, coleslaw, tomato, salad onion</span>
+**12,00 €**\ <span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa sriracha majonees, coleslaw, tomat, punane sibul, sojasiirup, jääsalat. Durum tortilla, crispy chicken meat, sriracha mayonnaise, coleslaw, tomato, red onion, iceberg lettuce, soy syrup</span>
 
-\<span class="spicy">﻿﻿\</span>\*\* Rebitud sealiha wrap / Pulled pork wrap\*\*\
-**10,90 €**\ <span class="koostis">Nisutortilla, rebitud sealiha, Uulitsa sriracha majonees, coleslaw, salatisibul. Durum tortilla, pulled pork, Uulits sriracha mayonnaise, coleslaw, salad onion</span>
-
-Tervisesportlase kanawrap / Wholegrain Chicken wrap =376 kcal\
-**9,60 €**\ <span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>376 kcal
+**Tervisesportlase kanawrap / Wholegrain Chicken wrap =376 kcal**\
+**12,00 €**\ <span class="koostis">Nisutortilla, grillitud kanafilee, Uulitsa feta-juustu kreem, coleslaw, tatziki kaste, jääsalat. Durum tortilla, grilled chicken fillet, Uulits feta-cheese cream, coleslaw, tatziki sauce, iceberg lettuce;</span>376 kcal
