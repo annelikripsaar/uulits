@@ -53,4 +53,4 @@ _template: alamenuu
 
 **Veiselihaburger peekoni ja trühvlimajoneesiga / Beef burger with bacon and truffle mayonnaise**\
 **11,50 €**\
-<span class="koostis">Kukkel, 100% veiselihapihv, peekon, Uulitsa trühvlimajonees, cheddar-juust, rukola, marineeritud kurk, salatisibul. Bun, 100% angus beef patty, Uulits truffle mayonnaise, cheddar cheese, rucola, pickles, salad onion</span>
+<span class="koostis">Kartulikukkel, 100% maheveise lihapihv, peekon, Uulitsa trühvlimajonees, cheddar-juust, jääsalat, marineeritud kurk, salatisibul. Potato bun, 100% angus beef patty, Uulits truffle mayonnaise, cheddar cheese, iceberg lettuce, pickles, salad onion</span>
