@@ -41,7 +41,7 @@ _template: alamenuu
 
 **Veiselihaburger sibulamoosiga / Beef burger with red onion jam**\
 **11,50 €**\
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, jääsalat, tomat, marineeritud kurk, veinine sibulamoos. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, tomato, pickles, red onion jam</span>
+<span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa ürdimajonees, cheddar-juust, jääsalat, tomat, marineeritud kurk, veinine sibulamoos. Potato bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, iceberg lettuce, tomato, pickles, red onion jam</span>
 
 <span class="special"></span> <span class="spicy"></span> **Vürtsikas tšilli burger / Spicy chilli burger**\
 **11,50 €**\
