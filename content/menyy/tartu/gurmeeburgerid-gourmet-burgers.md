@@ -42,7 +42,7 @@ _template: alamenuu
 **11,50 €**\
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar-juust, jääsalat, tomat, marineeritud kurk, veinine sibulamoos. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, salad-mix, tomato, pickles, red onion jam</span>
 
-<span class="special"></span> <span class="spicy"></span> **Vürtsikas chilli burger / Spicy chipotle burger**\
+<span class="special"></span> <span class="spicy"></span> **Vürtsikas tšilli burger / Spicy chilli burger**\
 **11,50 €**\
 <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa chipotle majonees, cheddar-juust, jääsalat, salatisibul. Bun, 100% angus beef patty, Uulits chipotle mayonnaise, cheddar cheese, iceberg lettuce, salad onion</span>
 
