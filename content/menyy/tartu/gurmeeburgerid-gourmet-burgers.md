@@ -33,7 +33,7 @@ _template: alamenuu
 
 <span class="spicy"></span> **Krõbekana burger / Crispy Chicken burger**\
 **12,00 €**\
-<span class="koostis">Kukkel, krõbe kanaliha, sriracha majonees, coleslaw, jääsalat, salatisibul, teriyaki kaste. Bun, crispy chicken meat, sriracha mayonnaise, coleslaw, crisphead lettuce,  teriyaki sauce, salad onion</span>
+<span class="koostis">Kartulikukkel, krõbe kanaliha, Uulitsa sriracha majonees või kurgimajonees, salatisibul, sojasiirup, coleslaw salat. Potato bun, crispy chicken meat, Uulits sriracha mayonnaise or cucumber mayonnaise, soy syrup, coleslaw, salad onion</span>
 
 **Veiselihaburger soolakaramelli ja peekoniga / Beef burger with bacon and salted caramel**\
 **11,50 €**\
