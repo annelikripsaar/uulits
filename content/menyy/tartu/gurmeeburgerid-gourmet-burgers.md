@@ -14,7 +14,7 @@ _template: alamenuu
 
 <span class="special"></span> **Uulitsa burger / Uulits beef burger**\
 **11,00 €**\
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw. Bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, coleslaw</span>
+<span class="koostis">Kartulikukkel, 100% veiselihapihv, Uulitsa ürdimajonees, Emmentali juust, coleslaw. Potato bun, 100% angus beef patty, Uulits herb mayonnaise, Emmental cheese, coleslaw</span>
 
 **Veiselihaburger grillitud sibula ja sinepikastmega / Beef burger with grilled onion and mustard sauce**\
 **10,50 €** <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, tomat, jääsalat, salatisibul, Emmentali juust, magusa sinepi kaste, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, tomato, iceberg lettuce, onion, Emmental cheese, sweet mustard sauce, pickles</span>
