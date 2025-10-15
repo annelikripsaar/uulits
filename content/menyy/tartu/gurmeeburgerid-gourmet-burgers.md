@@ -27,9 +27,9 @@ _template: alamenuu
 **11,50 €**\
 <span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa ürdimajonees, sinihallitusjuust, jääsalat, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk. Potato bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, iceberg lettuce, salad onion, tomato, Uulits ketchup, pickles</span>
 
-<span class="special"></span> **Vegan burger No Beef taimse pihviga/ Vegan burger with No Beef patty**\
+<span class="special"></span> **Vegan No Beef burger taimse pihviga/ Vegan burger with No Beef patty**\
 **12,50 €**\
-<span class="koostis">Vegan kukkel, taimsest lihast pihv, vegan chipotle majonees, vegan raita kaste, jääsalat, tomat, salatisibul, marineeritud kurk. Vegan bun, beyond patty, vegan chipotle mayonnaise, vegan raita sauce, tomato, salad onion, iceberg lettuce, pickles</span><span class="vegan"></span>
+<span class="koostis">Kartulikukkel, No Beef taimsest lihast pihv, tšilli majonees, Uulitsa ürdimajonees,  jääsalat, tomat, salatisibul, marineeritud kurk. Potato bun, No Beef patty, chilli mayonnaise, Uulits herb mayonnaise, tomato, salad onion, iceberg lettuce, pickles</span><span class="vegan"></span>
 
 <span class="spicy"></span> **Krõbekana burger / Crispy Chicken burger**\
 **12,00 €**\
