@@ -49,7 +49,7 @@ _template: alamenuu
 
 <span class="spicy"></span> **Rebitud sealiha burger / Pulled pork burger**\
 **12,50 €**\
-<span class="koostis">Kukkel, rebitud sealiha, sriracha majonees, cheddar juust, coleslaw salat, salatisibul, marineeritud kurk. Bun, pulled pork , sriracha mayonnaise, cheddar cheese, coleslaw, salad onion, pickles.</span>
+<span class="koostis">Kartulikukkel, rebitud sealiha, sriracha majonees, cheddar juust, coleslaw salat, salatisibul, marineeritud kurk. Potato bun, pulled pork , sriracha mayonnaise, cheddar cheese, coleslaw, salad onion, pickles.</span>
 
 **Veiselihaburger peekoni ja trühvlimajoneesiga / Beef burger with bacon and truffle mayonnaise**\
 **11,50 €**\
