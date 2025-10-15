@@ -20,7 +20,8 @@ _template: alamenuu
 **10,50 €** <span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa kurgimajonees,  grillitud sibul, cheddar, sinepikaste, marineeritud kurk. Potato bun, 100% angus beef patty, Uulits cucumber mayonnaise, grilled onion, cheddar, mustard sauce, pickles</span>
 
 **Juustuburger / Cheeseburger**\
-**10,50 €**\ <span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, cheddar juust, Uulitsa ketšup, tomat, jääsalat, salatisibul, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, Uulits ketchup, tomato, iceberg lettuce, salad onion, pickles</span>
+**10,50 €**\
+<span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa ürdimajonees, cheddar juust, Uulitsa ketšup, tomat, jääsalat, salatisibul, marineeritud kurk. Potato bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, Uulits ketchup, tomato, iceberg lettuce, salad onion, pickles</span>
 
 **Veiselihaburger sinihallitusjuustuga / Blue cheese burger**\
 **11,50 €**\
