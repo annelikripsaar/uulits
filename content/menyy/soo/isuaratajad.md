@@ -16,7 +16,8 @@ _template: alamenuu
 
 **VALI KASTE: / CHOOSE THE DRESSING:**
 
-Uulitsa käsitöö ketšup/ Uulits handmade ketchup  **1,50 **\
+Uulitsa käsitöö ketšup/ Uulits handmade ketchup  **1,50 **
+
 ürdimajonees / herb mayonnaise** 1,90**
 
 vegan ürdimajonees / vegan herb mayonnaise **1,90**
@@ -24,59 +25,20 @@ vegan ürdimajonees / vegan herb mayonnaise **1,90**
 <span class="spicy"></span>
 tšillimajonees/ chilli mayonnaise **1.90**
 
-**trühvlimajonees / truffle mayonnaise 1.90**
+trühvlimajonees / truffle mayonnaise** 1.90**
 
-**cheddar juustu kaste/ cheddar cheese sauce 2.50**
+cheddar juustu kaste/ cheddar cheese sauce** 2.50**
 
 <span class="spicy"></span>
-cheddar juustu kaste jalapenodega/ cheddar cheese sauce with jalapenos **2.50**\
+cheddar juustu kaste jalapenodega/ cheddar cheese sauce with jalapenos **2.50**
+
+****\
 </span>
-Uulitsa käsitöökartulid cheddar-juustu ja jalapenoga /\
-Uulits handmade potato wedges with cheddar and jalapeno\
-**6,50 €**
 
-Uulitsa käsitöökartulid ketšupi ja majoneesiga /\
-Uulits handmade potato wedges with ketchup and mayonnaise\
-**6,50 €**
 
-Uulitsa käsitöökartulid trühvlimajoneesiga /\
-Uulits handmade potato wedges with truffle mayonnaise\
-**6,50 €**
+<span class="special"></span> <span class="spicy"></span>  Täidetud jalapenod toorsuitsu peekoni ja mozzarellaga 5 tk/10 tk/ Filled jalapenos with *crème fraîche *and mozzarella *5 pc/10 pc*
 
-<span class="spicy"></span>
-Uulitsa käsitöökartulid chipotle majoneesiga /\
-Uulits handmade potato wedges with chipotle mayonnaise\
-**6,50 €**
-
-\<span class="spicy">﻿\</span>Uulitsa käsitöökartulid kimchi, sriracha ja klassikalise majoneesiga /\
-Uulits handmade potato wedges with kimchi, sriracha and classy mayonnaise\
-**6,90 €**
-
-Uulitsa bataadifriikad cheddar-juustuga /\
-Uulits sweet potato wedges with cheddar cheese sauce\
-**7,50 €**
-
-<span class="spicy"></span> Uulitsa bataadifriikad cheddar-juustu ja jalapenoga /\
-Uulits sweet potato wedges with cheddar and jalapeno\
-**7,50 €**
-
-Uulitsa bataadifriikad ketšupi ja majoneesiga /\
-Uulits sweet potato wedges with ketchup and mayonnaise\
-**7,50 €**
-
-Uulitsa bataadifriikad trühvlimajoneesiga /\
-Uulits sweet potato wedges with truffle mayonnaise \
-**7,50 €**
-
-<span class="spicy"></span>Uulitsa bataadifriikad chipotle majoneesiga /  Uulits sweet potato wedges with chipotle mayonnaise\
-**7,50 €**
-
-<span class="spicy"></span>Uulitsa bataadifriikad kimchi, sriracha ja klassikalise majoneesiga / Uulits sweet potato wedges with kimchi, sriracha and classy mayonnaise\
-**7,90 €**
-
-<span class="special"></span> <span class="spicy"></span>  Mozzarellaga täidetud jalapenod *crème fraîche*’ ga , 5 tk/10 tk/ Mozzarella filled jalapenos with *crème fraîche, 5 pc/10 pc*
-
-**8,90 € / 15,00 €**
+**9,00 € / 16,00 €**
 
 <span class="koostis">Jalapenod, toorsuitsu peekon, mozzarella, ananass, rohelise sibula *crème fraîche.* Jalapenos, bacon, mozzarella, pineapple, green onion *crème fraîche*
 
