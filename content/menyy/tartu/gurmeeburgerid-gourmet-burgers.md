@@ -25,7 +25,7 @@ _template: alamenuu
 
 **Veiselihaburger sinihallitusjuustuga / Blue cheese burger**\
 **11,50 €**\
-<span class="koostis">Kukkel, 100% veiselihapihv, Uulitsa ürdimajonees, sinihallitusjuust, jääsalat, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk. Bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, iceberg lettuce, salad onion, tomato, ketchup, pickles</span>
+<span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa ürdimajonees, sinihallitusjuust, jääsalat, salatisibul, tomat, Uulitsa ketšup, marineeritud kurk. Potato bun, 100% angus beef patty, Uulits herb mayonnaise, blue cheese, iceberg lettuce, salad onion, tomato, Uulits ketchup, pickles</span>
 
 <span class="special"></span> **Vegan burger No Beef taimse pihviga/ Vegan burger with No Beef patty**\
 **12,50 €**\
