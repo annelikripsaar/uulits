@@ -23,6 +23,9 @@ _template: alamenuu
 **Krõbekana wrap / Crispy chicken wrap**\
 **12,00 €**\ <span class="spicy"></span><span class="koostis">Nisutortilla, krõbe kanaliha, Uulitsa sriracha majonees, coleslaw salat, soja siirup, tomat, salatisibul, jääsalat. Durum tortilla, crispy chicken meat, Uulits' sriracha mayonnaise, coleslaw, soy syrup, tomato, salad onion, crisphead lettuce</span>
 
+**No Beef wrap**\
+**12,50 €**\ <span class="spicy"></span><span class="koostis">Nisutortilla, No Beef taimne pihv, Uulitsa vegan ürdimajonees, tomat, salatisibul, jääsalat, marineeritud kurk. Durum tortilla, No Beef patty, Uulits' vegan herb mayonnaise, tomato, salad onion, crisphead lettuce, pickles</span>
+
 <span class="special"></span>
 
 **Tervisesportlase kanawrap / Wholegrain Chicken wrap **=376 kcal\
