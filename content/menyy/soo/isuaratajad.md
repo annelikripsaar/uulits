@@ -54,3 +54,7 @@ cheddar juustu kaste jalapenodega/ cheddar cheese sauce with jalapenos **2.50**
 **Uulitsa laetud friikad rebitud sealihaga / Uulits loaded fries with pulled pork**\
 **14,00 €**\
 <span class="koostis">Rebitud sealiha, cheddar juust, sriracha majonees, jalapenod, roheline sibul. Pulled pork, cheddar, sriracha mayonnaise, jalapenos, green onion</span>
+
+**Uulitsa laetud friikad kimchiga / Uulits loaded fries with kimchi**\
+**11,50 €**\
+<span class="koostis">Kimchi, originaal majonees, roheline sibul. Kimchi, original mayonnaise, green onion</span>
