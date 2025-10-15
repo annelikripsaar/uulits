@@ -16,8 +16,8 @@ _template: alamenuu
 
 **VALI KASTE: / CHOOSE THE DRESSING:**
 
-Uulitsa käsitöö ketšup\
-Uulits handmade ketchup **u**
+Uulitsa käsitöö ketšup/ Uulits handmade ketchup  **1,50 **\
+****
 
 <span class="spicy"></span>
 Uulitsa käsitöökartulid cheddar-juustu ja jalapenoga /\
