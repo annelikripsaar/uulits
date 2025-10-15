@@ -10,15 +10,15 @@ _template: alamenuu
 
 <div class="ellipsis"></div>
 
-> Nüüd menüüs ka baod! Küsi lisa teenindajalt!
+>
 
 <span class="spicy"></span>
 
-**Bao krõbekana ja korea salatiga / Crispy chicken bao with korean salad**
+**Baod krõbekana ja kimchiga / Crispy chicken bao with kimchi salad**
 
-**10,50 €**
+**11,50 €**
 
-<span class="spicy"></span><span class="koostis">Aasiapärane aurukukkel, krõbe kanaliha, teriyaki kaste, küüslaugune korea salat, sriracha majonees. Asian steamed bun, crispy chicken meat, teriyaki sauce, korean salad with garlic, sriracha mayonnaise.
+<span class="spicy"></span><span class="koostis">Aasiapärane aurukukkel, krõbe kanaliha, kimchi, sriracha majonees, koriander. Asian steamed bun, crispy chicken meat, kimchi, sriracha mayonnaise, coriander.
 
 **Bao krõbekala ja kreekapärase tzatziki kastmega / Bao with crispy fish and tzatziki sauce**
 
@@ -32,5 +32,4 @@ Krõbekana wrap / Crispy chicken wrap\
 <span class="special"></span>
 
 Tervisesportlase kanawrap / Wholegrain Chicken wrap =376 kcal\
-**9,60 €**\
-<span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>376 kcal</span>
+**9,60 €**\ <span class="koostis">Täisteratortilla, kanafilee, Uulitsa feta-juustu kreem, coleslaw, tilli-kurgi majonees 3%. Wholegrain tortilla, chicken fillet, Uulits feta-cheese cream, coleslaw, dill-cucumber mayonnaise 3%;</span>376 kcal</span>
