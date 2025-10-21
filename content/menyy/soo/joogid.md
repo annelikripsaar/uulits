@@ -75,13 +75,9 @@ Sheppy's Cider **7,90 € **<span class="koostis">Vintage, Rasberry, Elderflower
 
 Saku tume vaadiõlu /draft beer 5,2% 0.5L **5,50 €**
 
-Kronenbourg 1664 Blanc 5% vaadiõlu / draft beer
+Uulitsa Laager 0.4L 4.7% **5,90 €**
 
-**5,50 €**
-
-Grimbergen Double Ambree tume ōlu / dark beer 6,5% 0,5l
-
-**5,50 €**
+Grimbergen Double Ambree tume ōlu / dark beer 6,5% 0,5l **5,50 €**
 
 <div class="ellipsis"></div>
 
