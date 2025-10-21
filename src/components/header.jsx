@@ -194,13 +194,13 @@ export default function Header() {
 			<TopBar />
 			<Nav>
 				<ListItem active={false}>
-					<a href="https://kadaka.uulits.ee/" target="_blank">{node.frontmatter.title}</a>
+					<a href="https://kadaka.uulits.ee/" target="_blank">Kadaka menüü</a>
 				</ListItem>	
 				<ListItem active={false}>
-					<a href="https://soouulits.choiceqr.com/" target="_blank">{node.frontmatter.title}</a>
+					<a href="https://soouulits.choiceqr.com/" target="_blank">Soo menüü</a>
 				</ListItem>	
 				<ListItem active={false}>
-					<a href="https://tartu-uulits.choiceqr.com/" target="_blank">{node.frontmatter.title}</a>
+					<a href="https://tartu-uulits.choiceqr.com/" target="_blank">Tartu menüü</a>
 				</ListItem>	
 				{data.allMarkdownRemark.edges.map(({ node }, index) => {
 					if (node.frontmatter.slug === 'foodtruck') {
