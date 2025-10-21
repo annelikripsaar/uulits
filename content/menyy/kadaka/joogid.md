@@ -68,17 +68,11 @@ Tee tassis/  kannus   Cup of tea/ Pot of tea **3,00 € / 5,00 €**
 
 > **LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS**
 
-Valmiermuiža õlu / Beer 0.33l 5,2% **5,00 €** <span class="koostis">tume, hele / pale, dark</span>
+Valmiermuiža õlu / Beer 0.33l 5,2% **5,50 €** 
 
-Sheppy's Cider \*\*7,90 € \*\*<span class="koostis">Vintage, Rasberry, Elderflower</span>
-
-Saku tume vaadiõlu /draft beer 5,2% 0.5L **5,50 €**
+Sheppy's Cider **7,90 €** <span class="koostis">Vintage, Rasberry, Elderflower</span>
 
 Uulitsa Laager 0.4L 4.7% **5,90 €**
-
-Grimbergen Double Ambree tume ōlu / dark beer 6,5% 0,5l **5,50 €**
-
-<div class="ellipsis"></div>
 
 > **VEINID / WINES**
 
