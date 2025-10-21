@@ -13,6 +13,6 @@ Tulge meie juurde nautima tõelist tänavatoitu: friikaid värsketest kodumaiste
 
 Ootame Sind Uulitsatesse Tallinnas Kadaka teel ja Kalamajas Soo tänaval ning Tartu südalinnas Kampuses.
 
-![](/uploads/uploads/uulitsapoisid.png)
+![](/uploads/uulitsapoisid.png)
 
 Uulitsapoisid **Artur** & **Mario**

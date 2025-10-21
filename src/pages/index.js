@@ -17,6 +17,8 @@ const Container = styled.div`
 
 const Banner = styled.img`
 	width: 100vw;
+	height: 400px;
+	object-fit: cover;
 	margin-bottom: 56px;
 	border-top: 5px solid black;
 `;
