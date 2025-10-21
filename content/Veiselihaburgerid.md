@@ -44,3 +44,6 @@ _template: alamenuu
 
 **Veiselihaburger peekoni ja trühvlimajoneesiga / Beef burger with bacon and truffle mayonnaise**\
 **11,50 €**\ <span class="koostis">Kartulikukkel, 100% maheveise lihapihv, peekon, Uulitsa trühvlimajonees, cheddar-juust, jääsalat, marineeritud kurk, salatisibul. Potato bun, 100% angus beef patty, Uulits truffle mayonnaise, cheddar cheese, iceberg lettuce, pickles, salad onion
+
+**Laste juustuburger friikatega / Childrens' cheeseburger with fries**\
+**10,00 €**\ <span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa ürdimajonees, cheddar-juust, Uulitsa ketšup. Potato bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, Uulits' ketchup.
