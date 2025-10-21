@@ -32,7 +32,7 @@ WOSTOK limonaad / Lemonade\
 **4,50 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
 FRITZ limonaad / Soft drink\
-**3,90 €** <span class="koostis">cola, rabarber cola, rhubarb</span>
+**4,50 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
 Punch limonaad / lemonade\
 **3,90 €** <span class="koostis">mate ja lemon, passion fruit ja mate</span>
