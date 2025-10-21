@@ -32,7 +32,6 @@ export default defineConfig({
 				path: 'content',
 				match: {
 					include: '**/*',
-					exclude: '!(menyy)/*',
 				},
 				templates: [
 					{
