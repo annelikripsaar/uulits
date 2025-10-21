@@ -63,8 +63,7 @@ Kakao  **3 €**
 
 Mandli- või kaerapiim / Almond or oat milk +**0,30 €**
 
-Tee tassis/  kannus   Cup of tea/ Pot of tea\
-**2,00 € / 4,00 €**
+Tee tassis/  kannus   Cup of tea/ Pot of tea **3,00 € / 5,00 €**
 
 <div class="ellipsis"></div>
 
