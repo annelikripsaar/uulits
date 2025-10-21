@@ -8,7 +8,7 @@ new: false
 _template: alamenuu
 ---
 
-**Krõbekana bao korea salatiga / Crispy chicken bao with kimchi **
+**Krõbekana bao korea salatiga / Crispy chicken bao with kimchi**
 
 **12 €**
 
