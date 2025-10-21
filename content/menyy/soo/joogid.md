@@ -51,17 +51,17 @@ Alkoholivaba õlu Kronenbourg 1664 Blanc / alcohol-free beer **4,50 €**
 
 > KUUMAD JOOGID / HOT DRINKS
 
-Kohv / Coffee  **3,00 €**
+Kohv / Coffee  **3,20 €**
 
 Espresso **2,50 €**
 
-Suur kohv / Large coffee **4,00 €**
+Cafe latte **3,70 €**
 
-Cappuccino  **3,20 €**
+Cappuccino  **3,50 €**
 
 Kakao  **3 €**
 
-Mandli- või kaerapiim / Almond or oat milk  **0,30 €**
+Mandli- või kaerapiim / Almond or oat milk +**0,30 €**
 
 Tee tassis/  kannus   Cup of tea/ Pot of tea\
 **2,00 € / 4,00 €**
