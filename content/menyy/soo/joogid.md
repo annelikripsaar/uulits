@@ -43,13 +43,9 @@ Coca-cola / Coca-cola Zero\
 Pudelivesi / Bottled water\
 **2,70 €** <span class="koostis">mulliga ja mullita carbonated and still</span>
 
-Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer 
+Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer **5,00 €**
 
-**6,00 €**
-
-Alkoholivaba õlu Kronenbourg 1664 Blanc / alcohol-free beer
-
-**4,50 €**
+Alkoholivaba õlu Kronenbourg 1664 Blanc / alcohol-free beer **4,50 €**
 
 <div class="ellipsis"></div>
 
