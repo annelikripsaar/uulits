@@ -2,13 +2,11 @@
 slug: Uulitsa joogid
 title: JOOGID
 order: 6
-in_nav: true
+in_nav: false
 parent_slug: kadaka
-new: true
+new: false
 _template: alamenuu
 ---
-
-
 
 <div class="ellipsis"></div>
 
