@@ -2,9 +2,9 @@
 slug: 'UULITSA BURGERID '
 title: BURGERID / BURGERS
 order: 2
-in_nav: true
+in_nav: false
 parent_slug: Kadaka
-new: true
+new: false
 _template: alamenuu
 ---
 
