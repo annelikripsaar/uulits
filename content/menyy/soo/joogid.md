@@ -37,8 +37,8 @@ WOSTOK limonaad / Lemonade\
 FRITZ limonaad / Soft drink\
 **4,50 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
-Punch limonaad / lemonade\
-**3,90 €** <span class="koostis">mate ja lemon, passion fruit ja mate</span>
+Coca-cola / Coca-cola Zero\
+**2,90 €**</span>
 
 Värskelt pressitud mahl / Fresh juice 0.33l\
 **5,50 €** <span class="koostis">apelsini, greibi orange, grapefruit</span>
