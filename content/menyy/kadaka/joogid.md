@@ -76,7 +76,7 @@ Uulitsa Laager 0.4L 4.7% **5,90 €**
 
 > **VEINID / WINES**
 
-Prosecco Spumante DOC Extra Dry, Parolvini 20 Cl 12% **8,00 €**
+Prosecco Rosé Millesimato DOC Extra Dry, Parolvini 20 Cl 12% **8,00 €**
 
 Pinot Grigio Delle Venezie DOC, Fabiano 25 Cl 12% valge vein **9,00 €**
 
