@@ -73,9 +73,7 @@ Valmiermuiža õlu / Beer 0.33l 5,2% **5,00 €** <span class="koostis">tume, he
 
 Sheppy's Cider **7,90 € **<span class="koostis">Vintage, Rasberry, Elderflower</span>
 
-Saku Hele vaadiõlu /draft beer 5,2% 0.5L
-
-**4,90 €**
+Saku tume vaadiõlu /draft beer 5,2% 0.5L **5,50 €**
 
 Kronenbourg 1664 Blanc 5% vaadiõlu / draft beer
 
