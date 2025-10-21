@@ -49,7 +49,7 @@ Alkoholivaba õlu Kronenbourg 1664 Blanc / alcohol-free beer **4,50 €**
 
 <div class="ellipsis"></div>
 
-> KUUMAD JOOGID / HOT DRINKS
+> **KUUMAD JOOGID / HOT DRINKS**
 
 Kohv / Coffee  **3,20 €**
 
@@ -67,26 +67,11 @@ Tee tassis/  kannus   Cup of tea/ Pot of tea **3,00 € / 5,00 €**
 
 <div class="ellipsis"></div>
 
-> LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS
+> **LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS**
 
-Valmiermuiža õlu / Beer 0.33l\
-**5,50 €** <span class="koostis">tume, hele / pale, dark</span>
+Valmiermuiža õlu / Beer 0.33l 5,2% **5,00 €** <span class="koostis">tume, hele / pale, dark</span>
 
-Põhjala käsitööõlu / Craft beer 0.33l
-
-<span class="koostis">Virmalised, Rasberry Sour, Session Ipa</span>
-
-**5,50 €**
-
-Sheppy's Vintage Cider\
-**8,00 €**
-
-Sheppy's Rasberry cider 4% 0,5l
-
-**7,50 €**
-
-Sheppys Elderflower cider 4,5% 0,5l\
-**7,50 €**
+Sheppy's Cider **7,90 € **<span class="koostis">Vintage, Rasberry, Elderflower</span>
 
 Saku Hele vaadiõlu /draft beer 5,2% 0.5L
 
