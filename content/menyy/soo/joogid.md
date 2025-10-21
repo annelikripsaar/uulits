@@ -81,31 +81,17 @@ Grimbergen Double Ambree tume ōlu / dark beer 6,5% 0,5l **5,50 €**
 
 <div class="ellipsis"></div>
 
-> VEINID / WINES
+> **VEINID / WINES**
 
-Prosecco Spumante DOC Extra Dry, Parolvini 20 Cl 12%
+Prosecco Spumante DOC Extra Dry, Parolvini 20 Cl 12% **8,00 €**
 
-**8,00 €**
+Pinot Grigio Delle Venezie DOC, Fabiano 25 Cl 12% valge vein **9,00 €**
 
-Prosecco Rosé Millesimato DOC Extra Dry, Parolvini 20 Cl 12 %
-
-**8,00 €**
-
-Pinot Grigio Delle Venezie DOC, Fabiano 25 Cl 12% valge vein
-
-**9,00 €**
-
-Pinot Grigio Delle Venezie Rose DOC, Fabiano 25 cl 12% roosa vein
-
-**9,00 €**
-
-Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein
-
-**9,00 €**
+Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein **9,00 €**
 
 <div class="ellipsis"></div>
 
-> UULITSA KOKTEILID / COCTAILS
+> **UULITSA KOKTEILID / COCTAILS**
 
 Uulitsa G\&T **7,50 €**
 
