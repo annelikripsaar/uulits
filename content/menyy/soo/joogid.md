@@ -22,8 +22,11 @@ Klaas mahla / Glass of juice\
 Karl Friedrich kali / Kvass 0.33l\
 **3,90 €**
 
-Uulitsa limonaad /  Uulits' fresh lemonade\
+Uulitsa käsitöö-limonaad /  Uulits' fresh handmade lemonade\
 **4,90 €** <span class="koostis">Küsi valikut teenindajalt!</span>
+
+Uulitsa jäätee /  Uulits' fresh ice tea\
+**3,90 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
 ON Lemon naturaalne limonaad / Natural lemonade\
 **4,50 €** <span class="koostis">Küsi valikut teenindajalt!</span>
