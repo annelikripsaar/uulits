@@ -93,8 +93,6 @@ Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein **9,00 €**
 
 > **UULITSA KOKTEILID / COCTAILS**
 
-Uulitsa G\&T **7,50 €**
+Uulitsa G\&T **8,50 €**
 
-Passioni G\&T **7,90 €**
-
-Ananassi Daiquiri **7,90 €**
+Passioni G\&T **8,90 €**
