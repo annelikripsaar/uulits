@@ -2,12 +2,11 @@
 slug: 'UULITSA BURGERID '
 title: BURGERID / BURGERS
 order: 3
-in_nav: true
+in_nav: false
 parent_slug: soo
-new: true
+new: false
 _template: alamenuu
 ---
-
 
 <div class="ellipsis"></div>
 
