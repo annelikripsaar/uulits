@@ -2,11 +2,11 @@
 title: Food Truck
 slug: foodtruck
 order: 7
-featured_image: /uploads/foodtruck2.jpg
+featured_image: uploads/foodtruck2.jpg
 extra: >-
   Firmapeod, pulmad, juubelid ja muud üritused, kus sinu arvates peaks Uulits
   rahva maitsemeeli hellitama.
-video: /uploads/img_7727.jpeg
+video: uploads/img_7727.jpeg
 _template: pages
 ---
 
