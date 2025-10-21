@@ -76,6 +76,8 @@ Uulitsa Laager 0.4L 4.7% **5,90 €**
 
 Saku Hele 5,2%, 0,5L /Draft beer** 5,90 €**
 
+Kronebourg Blanc 1664 5%, 0,5L** **/ Draft beer **6,40 €**
+
 > **VEINID / WINES**
 
 Prosecco Rosé Millesimato DOC Extra Dry, Parolvini 20 Cl 12% **8,00 €**
