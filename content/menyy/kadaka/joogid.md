@@ -10,7 +10,8 @@ _template: alamenuu
 
 <div class="ellipsis"></div>
 
-> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid. Väike vein hea toidu kõrvale.Küsi lisa teenindajalt!You can find the different estonian tastes in our drink and beverages section: craft beers and ciders, natural juice drinks and house made lemonades. Or a glass of wine. Ask more our people!
+> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid. Väike vein hea toidu kõrvale. Küsi lisa teenindajalt!\
+> You can find the different estonian tastes in our drink and beverages section: craft beers and ciders, natural juice drinks and house made lemonades. Or a glass of wine. Ask more our people!
 
 <div class="ellipsis"></div>
 
@@ -43,9 +44,9 @@ Coca-cola / Coca-cola Zero\
 Pudelivesi / Bottled water\
 **2,70 €** <span class="koostis">mulliga ja mullita carbonated and still</span>
 
-Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer **5,00 €**
+Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer **5,40 €**
 
-Alkoholivaba õlu Kronenbourg 1664 Blanc / alcohol-free beer **4,50 €**
+Alkoholivaba õlu Mikeller Drinkin the Sun / alcohol-free beer **5,90 €**
 
 <div class="ellipsis"></div>
 
