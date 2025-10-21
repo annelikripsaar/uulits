@@ -40,13 +40,10 @@ FRITZ limonaad / Soft drink\
 Coca-cola / Coca-cola Zero\
 **2,90 €**</span>
 
-Värskelt pressitud mahl / Fresh juice 0.33l\
-**5,50 €** <span class="koostis">apelsini, greibi orange, grapefruit</span>
-
 Pudelivesi / Bottled water\
-**2,50 €** <span class="koostis">mulliga ja mullita carbonated and still</span>
+**2,70 €** <span class="koostis">mulliga ja mullita carbonated and still</span>
 
-Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer
+Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer 
 
 **6,00 €**
 
