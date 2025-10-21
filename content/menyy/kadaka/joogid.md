@@ -1,132 +1,100 @@
 ---
-slug: joogid
-title: JOOGID / BEVERAGES
+slug: Uulitsa joogid
+title: JOOGID
 order: 6
-in_nav: false
+in_nav: true
 parent_slug: kadaka
-new: false
+new: true
 _template: alamenuu
 ---
 
-<div class="ellipsis"></div>
 
-> > Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid.
-> >
-> > Küsi valiku kohta lisa teenindajalt!
-> >
-> > You can find the different estonian tastes in our drinks and beverages menu: craft beers and ciders, natural juice drinks and house made lemonades.
-> >
-> > Ask more our people!
 
 <div class="ellipsis"></div>
 
-> KUUMAD JOOGID / HOT DRINKS
-
-Kohv / Coffee **2,50 €**
-
-Cappuccino/ Cafe latte **3 €**
-
-Tee / Tea **2.50 €**
-
-Pitcher tea _(black, peppermint, hibiscus)_  **4.50 €**
+> Erinevad Eesti maitsed peegelduvad ka meie joogivalikus: käsitöö-õlled ja -siidrid, naturaalsed mahlajoogid ja kohapeal valminud limonaadid. Väike vein hea toidu kõrvale.Küsi lisa teenindajalt!You can find the different estonian tastes in our drink and beverages section: craft beers and ciders, natural juice drinks and house made lemonades. Or a glass of wine. Ask more our people!
 
 <div class="ellipsis"></div>
 
 > KÜLMAD JOOGID / SOFT DRINKS
 
-Uulitsa käsitöölimonaad / Uulits' craft lemonade **4,90 €**
+Klaas mahla / Glass of juice\
+**2,90 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
-<span class="koostis">mango-laim, greip, apelsin, sidrun. Mango-lime, grape, orange, lemon
-
-ON Lemon naturaalsed limonaadid / natural lemonades  
+Karl Friedrich kali / Kvass 0.33l\
 **3,90 €**
 
-Fritz limonaadid / lemonades **3,90 €**
+Uulitsa käsitöö-limonaad /  Uulits' fresh handmade lemonade\
+**4,90 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
-Wostok limonaadid / lemonades **3,90 €**
+Uulitsa jäätee /  Uulits' fresh ice tea\
+**3,90 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
-CocaCola / Coca-Cola Zero/ Fuze Tea  **2,90 €**
+ON Lemon naturaalne limonaad / Natural lemonade\
+**4,50 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
-Klaas mahla / Glass of juice **2,90 €**
+WOSTOK limonaad / Lemonade\
+**4,50 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
-Kali Karl Friedrich 0,33L 0% / Kvass  **3,50 €**
+FRITZ limonaad / Soft drink\
+**4,50 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
-Bulldog Easy Rider 0,33L 0% **6,00 €**
+Coca-cola / Coca-cola Zero\
+**2,90 €**</span>
 
-Mikeller Limbo Series Riesling 0% -0,33l  **5,50 €**
+Pudelivesi / Bottled water\
+**2,70 €** <span class="koostis">mulliga ja mullita carbonated and still</span>
 
-Mikeller Drinkin the Sun beer 0%-0,33l  **5,50 €**
+Alkoholivaba õlu Bulldog Easy Rider / alcohol-free beer **5,00 €**
 
-Vesi pudelis mulliga ja mullita/ Bottled water still and carbonated  **2,50 €**
-
-<div class="ellipsis"></div>
-
-> LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS
-
-<span class="special"></span> Vaadiõlu ja -siider / Draft beers and ciders
-
-Saku Gold 0,5L 5,2%  **4,50 €**
-
-BLANC  Kronenbourg 0,5L 5% **5,00 €**
-
-<span class="koostis">Tähelepanu! Tegemist on alkoholiga.  Alkohol võib kahjustada teie tervist.</span>
-
-Valmiermuiža õlu 0,33L 5,2%  **5,00 €**
-
-Põhjala käsitööõlu / Craft beer **5,50 €**
-
-Sheppys Vintage Cider 7,4% 0,5l  **8,00 €**
-
-Sheppys Rasberry Cider 4% 0,5l  **7,90 €**
-
-Sheppys Elderflower Cider 4,5% 0,5l  **7,90 €**
-
-Mikeller Limbo Series Riesling 0% -0,33l  **5,50 €**
-
-Mikeller Drinkin the Sun beer 0%-0,33l  **5,50 €**
-
-<div class="ellipsis"></div> 
-
-VEINID / WINES
-
-Prosecco Spumante DOC Extra Dry, Parolvini 20 Cl 12%
-
-**8,00 €**
-
-Prosecco Rosé Millesimato DOC Extra Dry, Parolvini 20 Cl 12 %
-
-**8,00 €**
-
-Pinot Grigio Delle Venezie DOC, Fabiano 25 Cl 12% valge vein
-
-**9,00 €**
-
-Pinot Grigio Delle Venezie Rose DOC, Fabiano 25 cl 12% roosa vein
-
-**9,00 €**
-
-Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein
-
-**9,00 €**
-
-Pfaff Pinot Gris Tradition, 2018 Pfaffenheim 75 Cl 13%
-
-**22 €**
+Alkoholivaba õlu Kronenbourg 1664 Blanc / alcohol-free beer **4,50 €**
 
 <div class="ellipsis"></div>
 
-> UULITSA KOKTEILID / UULITS' COCTAILS
+> **KUUMAD JOOGID / HOT DRINKS**
 
-Uulits G&T **7,50 €**
+Kohv / Coffee  **3,20 €**
 
-Passion G&T **7,90 €**
+Espresso **2,50 €**
 
-Pineapple Daiquiri **7,90 €**
+Cafe latte **3,70 €**
 
-Garden of Eden **7,90 €**
+Cappuccino  **3,50 €**
 
-Moscow Mule **7,90 €**
+Kakao  **3 €**
 
-Pleasant Grape **7,50 €**
+Mandli- või kaerapiim / Almond or oat milk +**0,30 €**
 
-<span class="koostis">Tähelepanu! Tegemist on alkoholiga. Alkohol võib kahjustada teie tervist.</span>
+Tee tassis/  kannus   Cup of tea/ Pot of tea **3,00 € / 5,00 €**
+
+<div class="ellipsis"></div>
+
+> **LAHJAD ALKOHOOLSED JOOGID / ALKOHOLIC DRINKS**
+
+Valmiermuiža õlu / Beer 0.33l 5,2% **5,00 €** <span class="koostis">tume, hele / pale, dark</span>
+
+Sheppy's Cider \*\*7,90 € \*\*<span class="koostis">Vintage, Rasberry, Elderflower</span>
+
+Saku tume vaadiõlu /draft beer 5,2% 0.5L **5,50 €**
+
+Uulitsa Laager 0.4L 4.7% **5,90 €**
+
+Grimbergen Double Ambree tume ōlu / dark beer 6,5% 0,5l **5,50 €**
+
+<div class="ellipsis"></div>
+
+> **VEINID / WINES**
+
+Prosecco Spumante DOC Extra Dry, Parolvini 20 Cl 12% **8,00 €**
+
+Pinot Grigio Delle Venezie DOC, Fabiano 25 Cl 12% valge vein **9,00 €**
+
+Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein **9,00 €**
+
+<div class="ellipsis"></div>
+
+> **UULITSA KOKTEILID / COCTAILS**
+
+Uulitsa G\&T **8,50 €**
+
+Passioni G\&T **8,90 €**
