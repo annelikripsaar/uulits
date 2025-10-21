@@ -193,6 +193,15 @@ export default function Header() {
 			<HeaderSocial color="#272525" />
 			<TopBar />
 			<Nav>
+				<ListItem active={false}>
+					<a href="https://kadaka.uulits.ee/" target="_blank">{node.frontmatter.title}</a>
+				</ListItem>	
+				<ListItem active={false}>
+					<a href="https://soouulits.choiceqr.com/" target="_blank">{node.frontmatter.title}</a>
+				</ListItem>	
+				<ListItem active={false}>
+					<a href="https://tartu-uulits.choiceqr.com/" target="_blank">{node.frontmatter.title}</a>
+				</ListItem>	
 				{data.allMarkdownRemark.edges.map(({ node }, index) => {
 					if (node.frontmatter.slug === 'foodtruck') {
 						return (
@@ -200,24 +209,6 @@ export default function Header() {
 								{node.frontmatter.title}
 							</TruckLink>
 						);
-					} else if (node.frontmatter.slug === "kadaka") {
-						return (
-							<ListItem active={false}>
-								<a href="https://kadaka.uulits.ee/" target="_blank">{node.frontmatter.title}</a>
-							</ListItem>	
-						)
-					} else if (node.frontmatter.slug === "soo") {
-						return (
-							<ListItem active={false}>
-								<a href="https://soouulits.choiceqr.com/" target="_blank">{node.frontmatter.title}</a>
-							</ListItem>	
-						)
-					} else if (node.frontmatter.slug === "tartu") {
-						return (
-							<ListItem active={false}>
-								<a href="https://tartu-uulits.choiceqr.com/" target="_blank">{node.frontmatter.title}</a>
-							</ListItem>	
-						)
 					} 
 					else {
 						return (
@@ -227,6 +218,7 @@ export default function Header() {
 						);
 					}
 				})}
+				
 			</Nav>
 		</Container>
 	);
