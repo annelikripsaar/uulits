@@ -10,7 +10,7 @@ _template: alamenuu
 
 <div class="ellipsis"></div>
 
-> Meie burgerite pihvid on valmistatud 100% värskest kodumaisest maheveiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kõiki burgereid saab tellida väikese 75g pihviga või originaalsuuruses 2x75g pihviga (hinnakirja hinnale lisandub 1 EUR) või vegan pihviga. Kaasa ostes lisandub pakenditasu.
+> Meie burgerite pihvid on valmistatud 100% värskest kodumaisest maheveiselihast ning vaikimisi on kõikide pihvide küpsusaste medium. Kõiki burgereid saab tellida väikese 75g pihviga või originaalsuuruses 2x75g pihviga (hinnakirja hinnale lisandub +1 EUR) või vegan pihviga. Kaasa ostes lisandub pakenditasu.
 
 <span class="special"></span> **Uulitsa burger / Uulits beef burger**\
 **11,00 €**\ <span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa ürdimajonees, cheddar, punane sibul, coleslaw. Potato bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar, red onion, coleslaw</span>
@@ -36,7 +36,7 @@ _template: alamenuu
 **Veiselihaburger sibulamoosiga / Beef burger with red onion jam**\
 **11,50 €**\ <span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa ürdimajonees, cheddar-juust, jääsalat, tomat, marineeritud kurk, veinine sibulamoos. Potato bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, iceberg lettuce, tomato, pickles, red onion jam</span>
 
-<span class="special"></span> <span class="spicy"></span> **Vürtsikas tšilli burger / Spicy chilli burger**\
+<span class="special"></span> <span class="spicy"></span> **Eriti vürtsikas tšilli burger / Extra spicy chilli burger**\
 **11,50 €**\ <span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa tšillimajonees, cheddar-juust, rukola, salatisibul, marineeritud kurk, jalapenod. Potato bun, 100% angus beef patty, Uulits chilli mayonnaise, cheddar cheese, rucola, salad onion, pickles, jalapenos.</span>
 
 <span class="spicy"></span> **Rebitud sealiha burger / Pulled pork burger**\
