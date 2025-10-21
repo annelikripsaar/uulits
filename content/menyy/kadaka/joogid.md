@@ -56,11 +56,9 @@ Kohv / Coffee  **3,20 €**
 
 Espresso **2,50 €**
 
-Cafe latte **3,70 €**
+Cafe latte **4,00 €**
 
-Cappuccino  **3,50 €**
-
-Kakao  **3 €**
+Cappuccino  **3,70 €**
 
 Mandli- või kaerapiim / Almond or oat milk +**0,30 €**
 
