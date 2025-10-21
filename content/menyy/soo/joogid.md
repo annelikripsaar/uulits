@@ -16,21 +16,20 @@ _template: alamenuu
 
 > KÜLMAD JOOGID / SOFT DRINKS
 
-Klaas piima või mahla /\
-Glass of milk or juice\
-**2,90 €** <span class="koostis">õuna, ploomi, apelsini, tomati, jõhvika, segu apple, plum, orange, tomato, cranberry, multi juice</span>
+Klaas mahla / Glass of juice\
+**2,90 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
 Karl Friedrich kali / Kvass 0.33l\
-**3,50 €**
+**3,90 €**
 
 Uulitsa limonaad /  Uulits' fresh lemonade\
-**4,90 €** <span class="koostis">greibi, sidruni, apelsini, mango-laimi grapefruit, lemon, orange, mango-lime</span>
+**4,90 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
 ON Lemon naturaalne limonaad / Natural lemonade\
-**3,90 €** <span class="koostis">tikri, mustsõstra. gooseberry, blackcurrant</span>
+**4,50 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
 WOSTOK limonaad / Lemonade\
-**3,90 €** <span class="koostis">ploomi-kardemoni plum-cardamom</span>
+**4,50 €** <span class="koostis">Küsi valikut teenindajalt!</span>
 
 FRITZ limonaad / Soft drink\
 **3,90 €** <span class="koostis">cola, rabarber cola, rhubarb</span>
