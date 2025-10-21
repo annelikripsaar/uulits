@@ -74,6 +74,8 @@ Sheppy's Cider **7,90 €** <span class="koostis">Vintage, Rasberry, Elderflower
 
 Uulitsa Laager 0.4L 4.7% **5,90 €**
 
+Saku Hele 5,2%, 0,5L /Draft beer** 5,90 €**
+
 > **VEINID / WINES**
 
 Prosecco Rosé Millesimato DOC Extra Dry, Parolvini 20 Cl 12% **8,00 €**
