@@ -1,9 +1,9 @@
 ---
-slug: Uulitsa burgerid
-title: UULITSA BURGERID
+slug: 'UULITSA BURGERID '
+title: BURGERID / BURGERS
 order: 2
-in_nav: true
-parent_slug: tartu
+in_nav: false
+parent_slug: Kadaka
 new: false
 _template: alamenuu
 ---
@@ -43,7 +43,7 @@ _template: alamenuu
 **12,50 €** <span class="koostis">Kartulikukkel, rebitud sealiha, sriracha majonees, cheddar juust, coleslaw salat, salatisibul, marineeritud kurk. Potato bun, pulled pork , sriracha mayonnaise, cheddar cheese, coleslaw, salad onion, pickles.</span>
 
 **Veiselihaburger peekoni ja trühvlimajoneesiga / Beef burger with bacon and truffle mayonnaise**\
-**11,50 €** <span class="koostis">Kartulikukkel, 100% maheveise lihapihv, peekon, Uulitsa trühvlimajonees, cheddar-juust, jääsalat, marineeritud kurk, salatisibul. Potato bun, 100% angus beef patty, Uulits truffle mayonnaise, cheddar cheese, iceberg lettuce, pickles, salad onion</span>  
+**11,50 €** <span class="koostis">Kartulikukkel, 100% maheveise lihapihv, peekon, Uulitsa trühvlimajonees, cheddar-juust, jääsalat, marineeritud kurk, salatisibul. Potato bun, 100% angus beef patty, Uulits truffle mayonnaise, cheddar cheese, iceberg lettuce, pickles, salad onion
 
 **Laste juustuburger friikatega / Childrens' cheeseburger with fries**\
 **10,00 €** <span class="koostis">Kartulikukkel, 100% maheveise lihapihv, Uulitsa ürdimajonees, cheddar-juust, Uulitsa ketšup. Potato bun, 100% angus beef patty, Uulits herb mayonnaise, cheddar cheese, Uulits' ketchup.
