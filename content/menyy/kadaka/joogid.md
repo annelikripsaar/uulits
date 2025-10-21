@@ -78,8 +78,6 @@ Uulitsa Laager 0.4L 4.7% **5,90 €**
 
 Prosecco Rosé Millesimato DOC Extra Dry, Parolvini 20 Cl 12% **8,00 €**
 
-Pinot Grigio Delle Venezie DOC, Fabiano 25 Cl 12% valge vein **9,00 €**
-
 Merlot Veneto IGT, Fabiano 25 Cl 12 % punane vein **9,00 €**
 
 <div class="ellipsis"></div>
