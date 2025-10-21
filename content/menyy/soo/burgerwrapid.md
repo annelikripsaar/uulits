@@ -28,6 +28,6 @@ _template: alamenuu
 
 <span class="special"></span>
 
-**Tervisesportlase kanawrap / Wholegrain Chicken wrap **=376 kcal\
+**Tervisesportlase kanawrap / Wholegrain Chicken wrap** =376 kcal\
 **12,00 €**\
 <span class="koostis">Täisteratortilla, grillitud kanafilee, Uulitsa feta-juustu kreem, coleslaw, tzatziki kaste, jääsalat. Wholegrain tortilla, grilled chicken fillet, Uulits feta-cheese cream, coleslaw, tzatziki sauce, iceberg lettuce;</span>376 kcal</span>
