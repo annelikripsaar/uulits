@@ -11,7 +11,9 @@ Tulge meie juurde nautima tõelist tänavatoitu: friikaid värsketest kodumaiste
 
 > Meil on hea meel valmistada teile tõelist tänavagurmeed juba aastast 2014!
 
-Ootame Sind Uulitsatesse Tallinnas Kadaka teel ja Kalamajas Soo tänaval ning Tartu südalinnas Kampuses.
+Ootame Sind Uulitsatesse Tallinnas Kadaka teel ja Arsenali keskuses ning Tartu südalinnas Kampuses.
+
+Soo Uulits on SULETUD! Täname kõiki oma kliente, kes on olnud Kalamajas meiega nende 10 aasta jooksul! 
 
 ![](/uploads/uulitsapoisid.png)
 
