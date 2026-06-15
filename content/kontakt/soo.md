@@ -1,19 +1,18 @@
 ---
-title: Soo tänavagurmee
-slug: sookontakt
+title: Arsenali Uulits
+slug: arsenalikontakt
 order: 2
 in_nav: false
-address: Soo tn 1B/6, Tallinn 10414
-address_extra: Kalamaja ja vanalinna piiril
-lat: 59.444861
-lng: 24.742297
+address: 'Erika 14, Tallinn 10416'
+address_extra: Arsenali Keskuses
+lat: 59.45082
+lng: 24.71605
 _template: kontakt
 ---
 
-Tel 58 55 95 93
+Tel 
 
-**E-N** 11.30-21.30
-**R-L** 11.30-22.00\
-**P** 11.30-21.00
+**E-L** 11.00-21.00
+**P** 11.00-20.00
 
----
+***
